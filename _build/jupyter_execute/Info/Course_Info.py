@@ -53,7 +53,7 @@
 # 
 # In the **Wednesday** class, I will be calling on individual students to present their work on the assigned problems. We will help each other with any difficulties that we encounter – so do take a look at problems that have been assigned to others so that you are ready to help.
 # 
-# On **Friday**, two of you will be selected to present their work on their assignment (you will know who is presenting by Monday at the latest.) We will then have a 20-minute quiz. Then I will introduce the next week’s topic and the cycle continues…
+# On **Friday**, two of you will be selected to present their work on their assignment (you will know in advance who is presenting.) We will then have a 20-minute quiz. Then I will introduce the next week’s topic and the cycle continues…
 #  
 # ## Evaluation
 # 
