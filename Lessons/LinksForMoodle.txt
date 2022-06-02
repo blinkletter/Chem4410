@@ -51,3 +51,15 @@ https://unl.libguides.com/c.php?g=51744&p=334311
 https://www.chemtube3d.com/main-page/
 
 
+https://github.com/harirakul/chemlib
+https://chemlib.readthedocs.io/en/latest/
+
+https://github.com/lmmentel/awesome-python-chemistry#molecular-visualization
+
+https://pubs.acs.org/doi/10.1021/acs.jchemed.9b01131
+
+https://pythoninchemistry.org
+
+https://www.geeksforgeeks.org/introduction-to-chempy-in-python/
+
+http://felix.unife.it/Didattica/Articoli/17518-OBoyle.pdf
