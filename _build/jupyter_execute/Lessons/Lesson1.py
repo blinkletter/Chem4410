@@ -37,6 +37,7 @@
 # 
 #     
 # ## 1.2 Learning Goals
+# 
 # After **reading** the suggested textbook sections, **practicing** the problems and completing the activities of the **assignment** you should be able to$\ldots$
 # 
 # - **Name** simple molecules, identify **stereochemistry**, predict products of addition, elimination and substitution (simple, acyl and aromatic) reactions.
@@ -49,16 +50,18 @@
 # 
 # ----
 # ## 1.3 Assignment
+# 
 # Each lesson has an assignment. It will be introduced on the Friday before the lesson and will be due on the Friday of the lesson. Our first week is short so the assignment is small. It is to be handed in Friday before class meeting via moodle. 
 # 
 # ### Instructions
+# 
 # This section describes the **activity** that you are to perform for the assignment. Do the following$\ldots$
 # > **Review** your organic chemistry. <br>
 # > **Answer** questions 2C, 2E, 3B, 3E and 3H at the end of appendix 5.
 # 
 # ### The Report
-# This section describes the **deliverable** that you are to produce for this assignment. 
 # 
+# This section describes the **deliverable** that you are to produce for this assignment. 
 # 
 # > **Write** a report that answers a single question from the list in the instructions above. Each student will have an **individual question** assigned for the report.  Your report will present the **step-by-step mechanism** for the given reaction with electron flow shown using arrows. It will likely be a single page when finished. Give it a title and be sure that your name is under the title. **Justify** any choices you made with brief arguments. Use professional tools (chemical drawing program, word processor, etc.) and submit the document in **PDF format**.
 # 
@@ -73,9 +76,11 @@
 # | 4      |   3H    |  9    | 3H      |
 #      
 # ### Grading
+# 
 # Half of the grade will be for your **answer** and half will evaluate how neat, **clear and professional** your work is. Feel free to use a chemical drawing program.
 # 
 # #### A Note About Deliverables
+# 
 # The deliverable is what you ”deliver” to your instructor. Quite often **assignments** will have many questions to answer, but students will be assigned a subset of those questions to include in a **report**. Always **read the instructions** and deliverable sections carefully. These detail what I want you to do and what I want you to hand in to me. Use this information to give me what I want - the customer is always right.
 # 
 # The report that you submit should be prepared **using a computer**. All structures presented should be made using a **chemical drawing program** such as Chemdraw, Chemsketch or Marvin. All of those programs can give you the curved arrows needed to express electron flow. Strive to make it look professional.
@@ -85,6 +90,7 @@
 # In the modern world, documents are exchanged electronically. Printing is unnecessary and wasteful. Please create a **PDF file** containing your report. Use a word processor to create a document with a **title** and **author** and any other explanatory text that you care to add. Include citations of literature if needed. Size any figures or images appropriately and use figure legends. After it all looks **sharp and professional**, export the document as a PDF. Then **upload** the PDF to moodle.
 # 
 # #### “Boss Quality" Documents
+# 
 # In this course you are not only **exploring** advanced topics in chemistry and **mastering** your chemical instincts, you are preparing to depart from the cocoon and spread your wings in the wide world. It is time to pay attention to details that are more important in the real world than they are here. One of these is the **impression** that your work gives to those who receive it. It is not enough to be correct, you need to **effectively communicate** with others. Whether you are writing a document for your first boss or for your early investors, you will need to be **clear and easily understood**. The quality of your writing and the appearance of your work are going to matter. Presenting sloppy work shows a lack of respect for the people who are receiving it.
 # 
 # What kind of report would you hand to your boss? She will forgive your mistakes, but sloppy work will forever **define you** in the eyes of others. **First impressions matter** in every aspect of life. Don’t let the first impression of your work be a poor one. This course does not require "fancy", it only required "**boss quality**". What would you hand if if you had a job that you wanted to keep?

@@ -9,7 +9,7 @@
 # The plan below is not necessarily what will happen in class – it is merely what I **hope** will happen in class. We will explore the following subjects and ideas$\ldots$
 # 
 # - Using known **bond dissociation energies** to predict stability and predict the thermochemistry of a reaction. (Ch. 2.1)
-# - Using tables of **group increments** for internal energy of molecules to calculate the difference in enthalpy between reactants and products and between reactants, high-energy intermediates and products. (Ch. 2.2)
+# - Using tables of **group increments** to calculate the difference in enthalpy between reactants and products and between reactants, high-energy intermediates and products. (Ch. 2.2)
 # - Identifying and classifying **conformers** in alkanes and cycloalkanes. Using tables of steric ”**A-values**” to predict populations of conformers in these cases. (Ch. 2.3) 
 # - **Electronic effects vs. steric effects** and the example of the anomeric effect (Ch. 2.4)
 # - All calculations will be demonstrated in the class meeting using Jupyter notebooks and **Python** as the calculator.
@@ -30,7 +30,7 @@
 # ### Instructions
 # This section describes the **activity** that you are to perform for the assignment. Do the following$\ldots$
 # 
-# > **Make a plot** of the IR stretching frequencies for covalent bonds vs. the corresponding bond dissociation energies. Does IR stretching frequency **correlate** with a measure of bond strength? Use a spreadsheet program or other Jupyter notebook for creating the graph. 
+# > **Make a plot** of the IR stretching frequencies for covalent bonds vs. the corresponding bond dissociation energies. Does IR stretching frequency **correlate** with a measure of bond strength? Use a spreadsheet program or Jupyter notebook for creating the graph. 
 # 
 # ### The Report
 # > **Comment** on your observations. **Write** the document in a clear and concise style using a word processor or other document creation system. **Document** your activities (where did you get the data, how did you analyze it, what tools did you use? **Include** the data table and the plot, of course. 
@@ -46,7 +46,7 @@
 # 
 # ### Monday 
 # 
-# We will use group increments to determine the heats of formation of a number of hydrocarbons and compare the calculated values with experimental observations. using this information we will calculate the strain energy in the molecule. Can the strain energy be explained?
+# We will use **group increments** to determine the heats of formation of a number of hydrocarbons and compare the calculated values with experimental observations. Using this information we will calculate the **strain energy** in the molecules. Can the strain energy be explained?
 # 
 # #### Reading
 # 
@@ -54,7 +54,7 @@
 # 
 # #### Suggested Problems
 # 
-# > **Attempt** the following problems at the end of Ch. 2: 2, 7, 8, 9, 10, 11 \& 51 <br>
+# > **Attempt** the following problems at the end of Chapter 2: 2, 7, 8, 9, 10, 11 \& 51 <br>
 # > Use **GAMESS** to optimize the structure of hydrazine (problem 11) and compare the calculated result with your proposed cconformation.
 # 
 # ### Wednesday
@@ -69,12 +69,12 @@
 # 
 # #### Suggested Problems
 # 
-# > **Attempt** the following problems at the end of Ch. 2: 15, 25, 26, 36, 41 & 50
+# > **Attempt** the following problems at the end of Chapter 2: 15, 25, 26, 36, 41 & 50 <br>
 # > **Attempt** to use **Avogadro** to obtain the optimized structures and energies for methylcyclohexane in both the axial and equatorial conformations. Do the results agree with the observed A-values?
 # 
 # ### Friday
 # 
-# No Classes. **Truth & Reconcilliation Day** and it's not a holliday. Time to do the work.
+# No Classes. **Truth & Reconcilliation Day** but it's not a holliday. Time to do the work.
 # 
 # #### Reading
 # 
@@ -88,11 +88,9 @@
 # 
 # The following notebooks have been made in advance and are available on the moodle site.
 # 
-# 1. Examples in Group Increments
+# 1. [Examples in Group Increments](Resource_Moodle_Link.ipynb)
 # 
 # ### For This Lesson
-# 1.  [x](x)
-#     - x
 # 
 # ### Extra Resources
 # 

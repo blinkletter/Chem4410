@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # # Lesson 3: Computational Chemistry
-# We can do **much more** than estimate the electronic structure of $\pi$ molecular orbital systems. Using computers we can **optimize structure and energies** to visualize accurate (at least more accurate than HMOT) electronic structure. In this lesson we will be introduced to the free **GAMESS computational chemistry package**. We will be able to perform semi-empirical and ab-initio calculation. We will not dwell on the theory, we will just use the system like a black box. There is a whole other course on theoretical chemistry that you can experience if you are inspired to do so.
+# We can do **much more** than estimate the electronic structure of $\pi$ molecular orbital systems. Using computers we can **optimize structure and energies** to visualize accurate (at least more accurate than HMOT) electronic structure. In this lesson we will be introduced to the free **GAMESS computational chemistry package**. We will be able to perform semi-empirical and ab-initio calculations. We will not dwell on the theory, we will just use the system like a black box. There is a whole other course on theoretical chemistry that you can experience if you are inspired to do so.
 # 
 # Along the way we will gain a **better understanding** of molecular orbitals, transition state theory and confromational analysis. 
 # 
@@ -13,7 +13,7 @@
 # - The Z-matrix and constructing GAMESS **input files**
 # - Interpreting GAMESS **output files**
 # - Using GAMESS to interpret the structure of **small molecules and transition states**
-# - Using GAMESS to construct r0tational **energy profiles and reaction coordinates**
+# - Using GAMESS to construct rotational **energy profiles and reaction coordinates**
 # - Using GAMESS and related software to **visualize molecular orbitals**.
 # 
 # -----
@@ -33,10 +33,14 @@
 # ### Instructions
 # This section describes the **activity** that you are to perform for the assignment. Do the following$\ldots$
 # 
-# > **Install** GAMESS and related programs on your computer. Perform calculations as demonstrated in the Monday and Wednesday meetings on your own. try molecules of your own choice as you repeat the methods demonstrated in class.
+# > **Install** GAMESS and related programs on your computer. Perform calculations as demonstrated in the Monday and Wednesday meetings on your own. Try molecules of your own choice as you repeat the methods demonstrated in class. <br>
+# > <br>
+# > **IMPORTANT**: This assignment will take time. Give yourself time to work through glitches and solve problems. Start early.
 # 
 # ### The Report
-# > **write** a report in which you present the local bonding orbitals and the molecular orbitals of the ethyene cation ($C_2H_5^+$). Report all the bond lengths and **comment** of the assymmetry of the methyl bond lengths. Propose an **explanation**. Your report should include relevant diagrams and images (especially graphical representations of the orbitals)
+# > **write** a report in which you present the local bonding orbitals and the molecular orbitals of the ethyene cation ($C_2H_5^+$). Report all the bond lengths and **comment** of the assymmetry of the methyl bond lengths. Propose an **explanation**. Your report should include relevant diagrams and images (especially graphical representations of the orbitals.) You may well have been driven mad with frustration
+# 
+# 
 # 
 # 
 # ### Grading
@@ -75,12 +79,12 @@
 # 
 # ### Friday
 # 
-# There will be **no quiz**. This has been planned to be more of a practical lesson. Bring your **laptop computer** if you have one and are able to do so. We will explore transition states and reactions using GAMESS. Finally the topics for the **next lesson** will be introduced. **Look ahead** to Lesson 4 to see what you should prepare for Monday. 
+# There will be **no quiz** and **no presentations**. This has been planned to be more of a practical lesson and given the likely frustrations with the software we will focus on making sure that all students can use it to get results. **Be prepared to discuss your assignment**. Bring your **laptop computer** if you have one and are able to do so. We will explore transition states and reactions using GAMESS. Finally the topics for the **next lesson** will be introduced. **Look ahead** to Lesson 4 to see what you should prepare for Monday. 
 # 
 # 
 # #### Reading
 # 
-# > **Read** the instructions for performing a **transition state optimization** and calculatingan **intrinsic reaction coordinate** using GAMESS   
+# > **Read** the instructions for performing a **transition state optimization** and calculating an **intrinsic reaction coordinate** using GAMESS   
 # 
 # #### Suggested Problems
 # 
@@ -90,18 +94,18 @@
 # ## 3.5 Resources
 # 
 # ### GAMESS Input Files
-# 1. Methane with Z-matrix
-# 2. Methane with Symmnetry
-# 2. Ethylene with Symmetry
-# 4. Methanol with Z-matrix
+# 1. [Methane with Z-matrix](Resource_Moodle_Link.ipynb)
+# 2. [Methane with Symmnetry](Resource_Moodle_Link.ipynb)
+# 2. [Ethylene with Symmetry](Resource_Moodle_Link.ipynb)
+# 4. [Methanol with Z-matrix](Resource_Moodle_Link.ipynb)
 # 
 # ### For This Lesson
-# 1.  [Instructions for Installing **GAMESS**](MOODLE-LINK_TO_REPLACE)
-# 2.  [Instructions for Installing **Avogadro**](MOODLE-LINK_TO_REPLACE)
-# 3.  [Instructions for Installing **MacMolPlt**](MOODLE-LINK_TO_REPLACE)
-# 4.  [Instructions for using GAMESS (**Monday**)](MOODLE-LINK_TO_REPLACE)
-# 5.  [Instructions for energy profiles in GAMESS (**Wednesday**)](MOODLE-LINK_TO_REPLACE)
-# 6.  [Instructions for energy profiles in GAMESS (**Friday**)](MOODLE-LINK_TO_REPLACE)
+# 1.  [Instructions for Installing **GAMESS**](Resource_Moodle_Link.ipynb)
+# 2.  [Instructions for Installing **Avogadro**](Resource_Moodle_Link.ipynb)
+# 3.  [Instructions for Installing **MacMolPlt**](Resource_Moodle_Link.ipynb)
+# 4.  [Instructions for using GAMESS (**Monday**)](Resource_Moodle_Link.ipynb)
+# 5.  [Instructions for energy profiles in GAMESS (**Wednesday**)](Resource_Moodle_Link.ipynb)
+# 6.  [Instructions for energy profiles in GAMESS (**Friday**)](Resource_Moodle_Link.ipynb)
 # 
 # ### Extra Resources
 # 

@@ -7,7 +7,7 @@
 # -----
 # ## 2.1 Lesson Plan
 # The plan below is not necessarily what will happen in class – it is merely what I **hope** will happen in class. We will explore the following subjects and ideas$\ldots$
-# - **Electronic structure**in molecules: Lewis structure and VSEPR theory 
+# - **Electronic structure** in molecules: Lewis structure and VSEPR theory 
 # - **Hybrid orbitals**, $\pi$ and $\sigma$ bonds and resonance
 # - Constructing **Molecular orbitals** (the textbook presents a fairly complicated method for building accurate molecular orbitals using hybrid orbitals. I will be presenting a simpler method that produces less accurate but equally useful molecular orbitals for interpreting reactivity). 
 # - We will **construct molecular orbitals** for alkenes, ketones and enolates and discuss how the shape and size of the orbitals directs reactivity. **See the Molecular Orbital Tutorial** described in the resources section below and available on the Moodle site.
@@ -17,7 +17,7 @@
 #         - The example of the allyl cation and anion
 #         - The example of the benzyl cation and phenolate anion
 #         - The example of naphthalene and azulene
-# - The computational; power of **Python** will be introduced along with the convenience of **Jupyter** Notebooks. 
+# - The computational; power of **Python** will be introduced along with the convenience of **Jupyter Notebooks**. 
 # 
 # -----
 # ## 2.2 Learning Goals
@@ -27,7 +27,7 @@
 # - Calculate the **hydridization** of a carbon atom from bond angles and use this information to **interpret electronic structure**.
 # - Construct an approximate **molecular orbital diagram** from a basis set of atomic orbitals and be able to **predict reactivity** and relative stability using the diagram.
 # - Use the results of a **HMOT calculations** to interpret reactivity in a conjugated or aromatic system.
-# - Estimate the effects of **polar atoms** in that conjugated system on the MO arrangement.
+# - Use HMOT to estimate the effects of **polar atoms** in that conjugated system on the MO arrangement.
 # - Be able to use interactive **Python** to solve computational problems.
 # 
 # 
@@ -51,7 +51,7 @@
 # 
 # 
 # ### The Report
-# > **Create** a document in which you present the approximate  **molecular orbital diagram** for each reactant and **identify** the **frontier molecular orbitals**. Using this information either **confirm or criticize the arrow pushing**. Be brief in your explanation but be clear. Provide a corrected reactionreaction scheme if needed.
+# > **Create** a document in which you present the approximate  **molecular orbital diagram** for each reactant and **identify** the **frontier molecular orbitals**. Using this information either **confirm or criticize the arrow pushing**. Be brief in your explanation but be clear. Provide a corrected reaction scheme if needed.
 # 
 # 
 # ### Grading
@@ -64,12 +64,12 @@
 # 
 # ### Monday 
 # 
-# We will begin with a discussion of Lewis structure and how it is surprisingly effective in approximating the information available from more sophisticated local molecular orbital (LMO) approaches (LMO). We will then review molecular orbital theory and construct a molecular orbital diagram using the LMO method. How does arrow pushing and Lewis structures relate to the molecular orbital diagrams of reactants and products?
+# We will begin with a discussion of **Lewis structure** and how it is surprisingly effective in approximating the information available from more sophisticated **local molecular orbital (LMO)** approaches. We will then review molecular orbital theory and construct a **molecular orbital diagram** using the LMO method. How does arrow pushing and Lewis structures relate to the molecular orbital diagrams of reactants and products?
 # 
 # #### Reading
 # 
 # > **Read** Chapter 1.1 to 1.4 (feel free to skim section 1.2 and 1.3) <br>
-# > **Read** the **Molecular orbital Tutorial** described in the resources described below and available on the moodle page.
+# > **Read** the [Molecular orbital Tutorial](Resource_Moodle_Link.ipynb) described in the resources described below and available on the moodle page. <br>
 # > Read the instructions and **install** the **Anaconda** package. This will give you the tools to use Jupyter notebooks and Python.
 # 
 # #### Suggested Problems
@@ -80,10 +80,14 @@
 # 
 # We will discuss **simplified Hückel molecular orbital theory (SHMOT)** and use the math of this approach to calculate the molecular orbitals of butadiene and acrolein and discuss what is revealed about their reactivity.
 # 
+# We will use a Python tool to **easily and quickly calculate** the molecular orbitals for a handful of molecules: furan, pyrole and the Cp anion. **Naphthalene and azulene** are aromatic compounds with the same number of carbons and electrons, yet they have very different properties. Can SHMOT reveal why? You will see how computers can be your friends. 
+# 
+# 
 # #### Reading
 # 
-# > **Read** Chapter 14.3<br>
-# > **Examine** the Jupyter notebooks introducing Python described below and available on the moodle page
+# > **Read** Chapter 14.3 & 14.5 <br>
+# > **Examine** the Jupyter-book [introducing Python](https://blinkletter.github.io/MathWithPython/) described in the resources section below and available on the moodle page <br>
+# > **Examine** the Jupyter-book for [HMOT calculations](Resource_Moodle_Link.ipynb) described in the resources section below and available on the moodle page
 # 
 # #### Suggested Problems
 # 
@@ -91,16 +95,15 @@
 # 
 # ### Friday
 # 
-# In our third meeting for this lesson there will be a **short quiz** featuring problems adapted from the suggested textbook problems above. We will explore using Python tools to perform **SHMOT calculations** and introduce the seemingly endless tools made available by other chemists for your use. 
+# In our third meeting for this lesson there will be a **short quiz** featuring problems adapted from the suggested textbook problems above. We will review using Python tools to perform **SHMOT calculations** and introduce the seemingly endless tools made available by other chemists for your use. Finally the topics for the **next lesson** will be introduced. **Look ahead** to Lesson 3 to see what you should prepare for Monday. 
 # 
-# We will **easily and quickly calculate** the molecular orbitals for a handful of molecules. Furan, pyrole and the Cp anion? **Naphthalene and azulene** are aromatic compounds with the same number of carbons and electrons, yet they have very different properties. Can SHMOT reveal why? You will see how computers can be your friends. 
+# #### Presentations
 # 
-# Finally the topics for the **next lesson** will be introduced. **Look ahead** to Lesson 3 to see what you should prepare for Monday. 
+# > Two of you will have been selected on Monday to present the results of the assignment. You will each be give one of the two molecules to present.
 # 
 # #### Reading
 # 
-# > **Read** Chapter 14.3 & 14.5  <br>
-# > **Read and Use** the Jupyter notebooks for HMOT described below and available on the moodle page
+# > **Review** Chapter 1,1, 1,4, 14.3 & 14.5  <br>
 # 
 # #### Suggested Problems
 # 
@@ -109,35 +112,35 @@
 # ------
 # ## 2.5 Resources
 # 
-# ### Jupyter Notebooks
-# 
-# The following notebooks have been made in advance and are available on the moodle site.
-# 
-# #### Notebooks for Introducing Python
-# 
-# 
-# 
-# #### Notebooks for HMO theory
-# 1. HMOT calculations using Eigenvectors
-# 2. HMOT calculations using module
-# 
-# 
 # ### For This Lesson
+# 
+# #### Jupyter Books
+# 
+# The following notebooks have been made in advance and are available in Jupyter-book format. The individual Jupyter notebooks can be downloaded via a link at the top of each chapter in the Jupyter-book.
+# 
+# 1. [Python and Chemistry](https://blinkletter.github.io/MathWithPython/)
+#      - A Jupyter-book introducing some basic skills in using Python to perform calculations and make plots for chemistry. Feel free to cut and paste all the code for your own projects.
+# 
+# 2. [HMOT calculations using Python](Resource_Moodle_Link.ipynb)
+#     - A Jupyter-book that will take you through some ways to use Python to perform simplified Hückel molecular orbital 
+# 
+# 
 # #### Molecular Orbital Theory
-# 1.  [Molecular Orbital Tutorial](MOODLE-LINK_TO_REPLACE)
+# 
+# 1.  [Molecular Orbital Tutorial](Resource_Moodle_Link.ipynb)
 #     - I wrote this review to present a simpler method for constructing a molecular orbital system than that given in the text- book. The textbook method is better and more generally applicable. My method is lesser in every category but works well most of the time. A PDF file on the moodle site
-# 
-# 
 # 
 # ### Extra Resources
 # 
 # #### Molecular Orbital Theory
+# 
 # 3. [Hybrid Orbitals and Bonding](http://www.cpp.edu/~psbeauchamp/pdf/314_lect_02.pdf) 
 #       - This is an overview of hybrid orbitals and bonding from Cal Poly Pomona. 
 # 4. [Molecular Orbitals and Organic Chemical Reactions](https://onlinelibrary-wiley-com.proxy.library.upei.ca/doi/book/10.1002/9780470684306)
 #       - A textbook that examines organic chemistry through the lens of molecular orbital theory. there is a more research oriented "reference version" that contains links to original literature available [here](https://onlinelibrary-wiley-com.proxy.library.upei.ca/doi/book/10.1002/9780470689493).
 # 
 # #### Python for Chemists
+# 
 # 8. [Scientific Computing for Chemists with Python](https://weisscharlesj.github.io/SciCompforChemists/intro.html)
 #      - An online textbook introducing Python and data science tools to chemists who have not used it before.
 # 9. [An Introduction to Python for Chemists](https://pythoninchemistry.org/intro_python_chemists/intro.html)
@@ -151,6 +154,6 @@
 # 11. [ChemPy](https://pypi.org/project/chempy/)
 #      - A python module with chemistry tools. 
 # 12. [Teaching Programming across the Chemistry Curriculum](https://pubs.acs.org/doi/book/10.1021/bk-2021-1387)
-#      _ An ACS symposium series arguing for more computing in chemistry
-
-# 
+#      - An ACS symposium series arguing for more computing in chemistry
+# 13. [Awesome Python Chemistry](https://github.com/lmmentel/awesome-python-chemistry)
+#      - A collection of resources for the Python-friendly chemist.

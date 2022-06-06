@@ -517,7 +517,7 @@ const thebe_selector_output = ".output, .cell_output"
                 
   <div class="tex2jax_ignore mathjax_ignore section" id="lesson-3-computational-chemistry">
 <h1>Lesson 3: Computational Chemistry<a class="headerlink" href="#lesson-3-computational-chemistry" title="Permalink to this headline">¶</a></h1>
-<p>We can do <strong>much more</strong> than estimate the electronic structure of <span class="math notranslate nohighlight">\(\pi\)</span> molecular orbital systems. Using computers we can <strong>optimize structure and energies</strong> to visualize accurate (at least more accurate than HMOT) electronic structure. In this lesson we will be introduced to the free <strong>GAMESS computational chemistry package</strong>. We will be able to perform semi-empirical and ab-initio calculation. We will not dwell on the theory, we will just use the system like a black box. There is a whole other course on theoretical chemistry that you can experience if you are inspired to do so.</p>
+<p>We can do <strong>much more</strong> than estimate the electronic structure of <span class="math notranslate nohighlight">\(\pi\)</span> molecular orbital systems. Using computers we can <strong>optimize structure and energies</strong> to visualize accurate (at least more accurate than HMOT) electronic structure. In this lesson we will be introduced to the free <strong>GAMESS computational chemistry package</strong>. We will be able to perform semi-empirical and ab-initio calculations. We will not dwell on the theory, we will just use the system like a black box. There is a whole other course on theoretical chemistry that you can experience if you are inspired to do so.</p>
 <p>Along the way we will gain a <strong>better understanding</strong> of molecular orbitals, transition state theory and confromational analysis.</p>
 <hr class="docutils" />
 <div class="section" id="lesson-plan">
@@ -528,7 +528,7 @@ const thebe_selector_output = ".output, .cell_output"
 <li><p>The Z-matrix and constructing GAMESS <strong>input files</strong></p></li>
 <li><p>Interpreting GAMESS <strong>output files</strong></p></li>
 <li><p>Using GAMESS to interpret the structure of <strong>small molecules and transition states</strong></p></li>
-<li><p>Using GAMESS to construct r0tational <strong>energy profiles and reaction coordinates</strong></p></li>
+<li><p>Using GAMESS to construct rotational <strong>energy profiles and reaction coordinates</strong></p></li>
 <li><p>Using GAMESS and related software to <strong>visualize molecular orbitals</strong>.</p></li>
 </ul>
 </div>
@@ -551,13 +551,15 @@ const thebe_selector_output = ".output, .cell_output"
 <h3>Instructions<a class="headerlink" href="#instructions" title="Permalink to this headline">¶</a></h3>
 <p>This section describes the <strong>activity</strong> that you are to perform for the assignment. Do the following<span class="math notranslate nohighlight">\(\ldots\)</span></p>
 <blockquote>
-<div><p><strong>Install</strong> GAMESS and related programs on your computer. Perform calculations as demonstrated in the Monday and Wednesday meetings on your own. try molecules of your own choice as you repeat the methods demonstrated in class.</p>
+<div><p><strong>Install</strong> GAMESS and related programs on your computer. Perform calculations as demonstrated in the Monday and Wednesday meetings on your own. Try molecules of your own choice as you repeat the methods demonstrated in class. <br>
+<br>
+<strong>IMPORTANT</strong>: This assignment will take time. Give yourself time to work through glitches and solve problems. Start early.</p>
 </div></blockquote>
 </div>
 <div class="section" id="the-report">
 <h3>The Report<a class="headerlink" href="#the-report" title="Permalink to this headline">¶</a></h3>
 <blockquote>
-<div><p><strong>write</strong> a report in which you present the local bonding orbitals and the molecular orbitals of the ethyene cation (<span class="math notranslate nohighlight">\(C_2H_5^+\)</span>). Report all the bond lengths and <strong>comment</strong> of the assymmetry of the methyl bond lengths. Propose an <strong>explanation</strong>. Your report should include relevant diagrams and images (especially graphical representations of the orbitals)</p>
+<div><p><strong>write</strong> a report in which you present the local bonding orbitals and the molecular orbitals of the ethyene cation (<span class="math notranslate nohighlight">\(C_2H_5^+\)</span>). Report all the bond lengths and <strong>comment</strong> of the assymmetry of the methyl bond lengths. Propose an <strong>explanation</strong>. Your report should include relevant diagrams and images (especially graphical representations of the orbitals.) You may well have been driven mad with frustration</p>
 </div></blockquote>
 </div>
 <div class="section" id="grading">
@@ -604,11 +606,11 @@ const thebe_selector_output = ".output, .cell_output"
 </div>
 <div class="section" id="friday">
 <h3>Friday<a class="headerlink" href="#friday" title="Permalink to this headline">¶</a></h3>
-<p>There will be <strong>no quiz</strong>. This has been planned to be more of a practical lesson. Bring your <strong>laptop computer</strong> if you have one and are able to do so. We will explore transition states and reactions using GAMESS. Finally the topics for the <strong>next lesson</strong> will be introduced. <strong>Look ahead</strong> to Lesson 4 to see what you should prepare for Monday.</p>
+<p>There will be <strong>no quiz</strong> and <strong>no presentations</strong>. This has been planned to be more of a practical lesson and given the likely frustrations with the software we will focus on making sure that all students can use it to get results. <strong>Be prepared to discuss your assignment</strong>. Bring your <strong>laptop computer</strong> if you have one and are able to do so. We will explore transition states and reactions using GAMESS. Finally the topics for the <strong>next lesson</strong> will be introduced. <strong>Look ahead</strong> to Lesson 4 to see what you should prepare for Monday.</p>
 <div class="section" id="id3">
 <h4>Reading<a class="headerlink" href="#id3" title="Permalink to this headline">¶</a></h4>
 <blockquote>
-<div><p><strong>Read</strong> the instructions for performing a <strong>transition state optimization</strong> and calculatingan <strong>intrinsic reaction coordinate</strong> using GAMESS</p>
+<div><p><strong>Read</strong> the instructions for performing a <strong>transition state optimization</strong> and calculating an <strong>intrinsic reaction coordinate</strong> using GAMESS</p>
 </div></blockquote>
 </div>
 <div class="section" id="id4">
@@ -625,21 +627,21 @@ const thebe_selector_output = ".output, .cell_output"
 <div class="section" id="gamess-input-files">
 <h3>GAMESS Input Files<a class="headerlink" href="#gamess-input-files" title="Permalink to this headline">¶</a></h3>
 <ol class="simple">
-<li><p>Methane with Z-matrix</p></li>
-<li><p>Methane with Symmnetry</p></li>
-<li><p>Ethylene with Symmetry</p></li>
-<li><p>Methanol with Z-matrix</p></li>
+<li><p><a class="reference internal" href="Resource_Moodle_Link.html"><span class="doc std std-doc">Methane with Z-matrix</span></a></p></li>
+<li><p><a class="reference internal" href="Resource_Moodle_Link.html"><span class="doc std std-doc">Methane with Symmnetry</span></a></p></li>
+<li><p><a class="reference internal" href="Resource_Moodle_Link.html"><span class="doc std std-doc">Ethylene with Symmetry</span></a></p></li>
+<li><p><a class="reference internal" href="Resource_Moodle_Link.html"><span class="doc std std-doc">Methanol with Z-matrix</span></a></p></li>
 </ol>
 </div>
 <div class="section" id="for-this-lesson">
 <h3>For This Lesson<a class="headerlink" href="#for-this-lesson" title="Permalink to this headline">¶</a></h3>
 <ol class="simple">
-<li><p><span class="xref myst">Instructions for Installing <strong>GAMESS</strong></span></p></li>
-<li><p><span class="xref myst">Instructions for Installing <strong>Avogadro</strong></span></p></li>
-<li><p><span class="xref myst">Instructions for Installing <strong>MacMolPlt</strong></span></p></li>
-<li><p><span class="xref myst">Instructions for using GAMESS (<strong>Monday</strong>)</span></p></li>
-<li><p><span class="xref myst">Instructions for energy profiles in GAMESS (<strong>Wednesday</strong>)</span></p></li>
-<li><p><span class="xref myst">Instructions for energy profiles in GAMESS (<strong>Friday</strong>)</span></p></li>
+<li><p><a class="reference internal" href="Resource_Moodle_Link.html"><span class="doc std std-doc">Instructions for Installing <strong>GAMESS</strong></span></a></p></li>
+<li><p><a class="reference internal" href="Resource_Moodle_Link.html"><span class="doc std std-doc">Instructions for Installing <strong>Avogadro</strong></span></a></p></li>
+<li><p><a class="reference internal" href="Resource_Moodle_Link.html"><span class="doc std std-doc">Instructions for Installing <strong>MacMolPlt</strong></span></a></p></li>
+<li><p><a class="reference internal" href="Resource_Moodle_Link.html"><span class="doc std std-doc">Instructions for using GAMESS (<strong>Monday</strong>)</span></a></p></li>
+<li><p><a class="reference internal" href="Resource_Moodle_Link.html"><span class="doc std std-doc">Instructions for energy profiles in GAMESS (<strong>Wednesday</strong>)</span></a></p></li>
+<li><p><a class="reference internal" href="Resource_Moodle_Link.html"><span class="doc std std-doc">Instructions for energy profiles in GAMESS (<strong>Friday</strong>)</span></a></p></li>
 </ol>
 </div>
 <div class="section" id="extra-resources">
