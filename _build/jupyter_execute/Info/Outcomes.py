@@ -22,7 +22,7 @@
 # - Have developed an understanding of the principles of various **fields of chemistry** (organic, inorganic, physical, analytical, and biochemistry).
 # - Understand the **role of chemistry** in making the world around us better for everyone; and understand the risks and harms that can be caused by chemistry in that pursuit of a better world.
 # - Be able to **safely conduct oneself in chemical laboratory**, and by extension, any location where chemistry is applied.
-# - Be able to **use a variety of modern instruments** for analyzing mixtures and characterizing molecules and materials and to be able to **apply these skills** to appropriate chemical problems.
+# - Be able to **use a variety of modern instruments** for separating and analyzing mixtures and for characterizing molecules and materials and to be able to **apply these skills** to appropriate chemical problems.
 # - Be able to **design and carry out scientific experiments**, accurately record and analyze the results of such experiments and be able to **explore new areas of research** in both chemistry and allied fields of science and technology.
 # - Be able to **document activities** so that others can understand how to repeat and continue the work.
 # - Be able to interpret the modern primary literature of chemistry and to **produce scientific reports** formatted for peer-reviewed publication.
@@ -39,10 +39,10 @@
 # - Be familiar with different types of **reaction mechanisms** and be able to describe different types of **reactive intermediates**.
 # - Be able to **propose a reaction mechanism** after examining the reactants and products of a reaction.
 # - Be able to use reaction kinetics as a tool for **understanding reaction mechanisms**.
-# - To have developed a deeper understanding of **acid/base equilibria** in aqueous and non-aqueus systems and also in very strong acid or base environments and to be able to determine if a reaction is **acid or base catalyzed** (specific or general catalysis).
+# - To have developed a deeper understanding of **acid/base equilibria** in aqueous and non-aqueus systems and to be able to determine if a reaction is **acid or base catalyzed** (specific or general catalysis).
 # - Be able to apply fundamental concepts of **chemical and biochemical catalysis**.
 # - Be able to **investigate** a hypothetical reaction mechanism by: 
-#     - the use of the **Hammett equation** as a tool in studies of organic reactions - 
+#     - the use of the **Hammett equation** as a tool in studies of organic reactions 
 #     - the use of other **linear free energy relationships** (LFERs)
 #     - by the inclusion of **isotopes** 
 #     - by using a variety of **other methods**
@@ -53,7 +53,7 @@
 # 
 # ## Self Evaluation
 # 
-# Almost all students in this course will be in the final year of the chemistry program. **Now is the time** to evaluate yourself as you consider the goals for university and program outcomes. How do you feel? Do you ahve a sense that you are you well on the way to acheiving them? Are there any weakness that we could address while you are taking this course?
+# Almost all students in this course will be in the final year of the chemistry program. **Now is the time** to evaluate yourself as you consider the goals for university and program outcomes. How do you feel? Do you have a sense that you are you well on the way to acheiving them? Are there any weakness that we could address while you are taking this course?
 # 
 # Also consider the goals for the course outcomes of this course. You might feel that you have accomplished some of them already. **Return to this list** every few weeks and check off the goals you feel you have reached or are progressing through. By monitoring your progress you will better be able to see where we need to do more work to ensure that all goals are met. Never hesitate to **ask for more** in one area or another.
 
