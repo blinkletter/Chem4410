@@ -15,3 +15,5 @@ parts:
       - file: Lessons/Lesson1
       - file: Lessons/Lesson2
       - file: Lessons/Lesson3
+      - file: Lessons/Lesson4
+      - file: Lessons/Lesson5

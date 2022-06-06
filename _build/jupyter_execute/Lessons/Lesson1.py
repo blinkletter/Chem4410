@@ -9,29 +9,28 @@
 # 
 # ## How to Use a Lesson
 # 
-# We begin the first week with our first lesson. Each week is organized as a lesson in an aspect of physical organic chemistry. Each lesson document will contain the lesson plan and learning goals for the week. This will be followed by a description of the assignment due at the end of the week. Then there will be a schedule of readings and suggested problems for each day of the week. the lesson will end with a list of resources (if any) that are available on the course moodle page. Follow along with the lesson below and find all of these elements for yourself.
-# 
+# We begin the first week with our first lesson. **Each week** is organized as a **lesson** in an aspect of physical organic chemistry. Each lesson document will contain the **lesson plan and learning goals** for the week. This will be followed by a description of the **assignment** due at the end of the week. Then there will be a schedule of **readings and suggested problems** for each day of the week. The lesson will end with a list of **resources** (if any) that are available on the course moodle page. Follow along with the lesson below and find all of these elements for yourself.
 # 
 # ----
 # ## 1.1 Lesson Plan  
 # 
 # The lesson plans presented in this document are the **ideas** that I hope to explore over the **week** of a given lesson. The plan below is not necessarily what will happen in class – it is merely what I **hope** will happen in class. If we **miss** some of these points I suggest that you **read** about those ideas in the textbook, whether we discuss them in class or not.
 # 
-# - Arrow pushing for. . .
+# - **Arrow pushing** for. . .
 #     - $S_N2$ substitution in amine synthesis: propylamine + bromobutane 
 #     - $E2$ elimination of bromobutane by propylamine
 #     - $S_N1$ solvolysis of t-butyl bromide
 #     - $E1$ elimination in t-butyl bromide
-# - Arrow pushing rules and don’ts
+# - Arrow pushing rules: **do and don’ts**
 #     - Wrong way arrows
 #     - Octet rule (keep track of bonds to hydrogen and lone pairs)
 #     - Bad habits with electrons (lone pairs are the nucleophile, etc...)
 #     - Are you in acid or base? Pick one and stay there!
 #     - Common shortcuts that we will NOT be using in this course.
-# - Arrow pushing in conjugated systems 
+# - Arrow pushing in **conjugated systems**
 #     - Inductive vs. resonance for electronic effects 
 #     - Stabilization of carbanions and carbocations by resonance
-# - Mechanism puzzles
+# - Mechanism **puzzles**
 #     - Why do we observe solvolysis of *t*-butyl bromide but not in *n*-butyl bromide?
 #     - Base hydrolysis of ester, acid hydrolysis of ester (acyl substitution)
 #     - Formation of imine compared with formation of hydrazone
@@ -42,9 +41,13 @@
 # ## 1.2 Learning Goals
 # After **reading** the suggested textbook section, **practicing** the problems and completing the activities of the **assignment** you should be able to$\ldots$
 # 
-# - Predict the hybridization of carbon atoms and be able to identify resonance contributors that stabilize electronic structure in conjugated systems.
-# - Evaluate relative stability of related molecules by examining their electronic structure.
-# - Make a reasonable proposal for the mechanism of unfamiliar reactions using the rules of Lewis structure, your understanding of resonance and arrow pushing to express electron movement.
+# - **Name** simple molecules, identify **stereochemistry**, predict products of addition, elimination and substitution (simple, acyl and aromatic) reactions.
+# - Propose the **synthesis** of simple molecules using carbon nucleophiles and functional group transformations.
+# - Express the **mechanism** of these reactions using curved arrows to show electron movement.
+# - Identify the **hybridization** of carbon atoms and be able to identify **resonance** contributors that stabilize electronic structure in conjugated systems.
+# - Evaluate relative **stability** of related molecules by examining their **electronic structure**.
+# - Make a reasonable **proposal** for the mechanism of unfamiliar reactions using the **rules** of Lewis structure, your understanding of resonance and arrow pushing to express electron movement.
+# 
 # 
 # ----
 # ## 1.3 Assignment
@@ -122,36 +125,100 @@
 # I will only ask you to read journal articles to which UPEI has **subscription access**. However, you may find these lins only work on campus. So you will want to **plan ahead** and download any journal articles while you are on campus. Many journals are "open access" but many are not.
 # 
 # ----
-# ## Resources
+# ## 1.5 Resources
 # You may find the following resources useful as you explore the ideas for todays meeting. **Links** to these resources are **available on the moodle page**. The most important resource in this course will be your textbook but always look for more.
 # 
-# 1. Textbook Table of Contents
+# ### For This Lesson
+# These **resources** are directly related to this lesson and may be assigned reading. 
+# 
+# 1. [Textbook Table of Contents](https://uscibooks.aip.org/wp-content/uploads/adfm_new.pdf)
 #       - This is the front matter from the textbook.
-# 2. Appendix 5 problems
+# 2. [Appendix 5 problems](MOODLE-LINK_TO_REPLACE)
 #       - I have copied these **questions from the textbook** and made them available on the Moodle site. Please acquire a copy of the textbook soon as I won’t be able to do this again. Respect copyright — someday you may be an author.
-# 3. Organic Chemistry Review 
+#       
+# ### Organic Chemistry Review
+# 
+# These are **extra resources** intended to provide more information for reviewing your previous organic chemistry.
+# 
+# 3. [Organic Chemistry Review](MOODLE-LINK_TO_REPLACE) 
 #       - I wrote this as a review of organic chemistry for students who are beginning my biochemistry course.
-# 4. Review of Organic Chemistry: Nucleophilic Carbon 
+# 4. [Review of Organic Chemistry: Nucleophilic Carbon](MOODLE-LINK_TO_REPLACE) 
 #       - I wrote this as a supple- ment for my advanced organic chemistry course as a review of enolate chemistry. It is brief and not very comprehensive but may be helpful. 
-# 5. Summary of Organic Chemistry 
+# 5. [Summary of Organic Chemistry](MOODLE-LINK_TO_REPLACE) 
 #       - I started writing this as an overview of Or- ganic Chemistry for Life Sciences, Chem 243. It was never finished but what is there may be helpful. 
-# 6. A Chemistry Toolkit
+# 6. [A Chemistry Toolkit](MOODLE-LINK_TO_REPLACE)
 #       - I wrote this as a review of introductory chemistry for my beginning organic chjemistry students. It’s been a long time since your first year. How much do you recall? 
-# 7. Virtual Textbook of Organic Chemistry 
+# 7. [Virtual Textbook of Organic Chemistry](https://www2.chemistry.msu.edu/faculty/reusch/virttxtjml/intro1.htm)  
 #       - This is a link to the free textbook by William Reusch. It is a serviceable overview of organic chemistry and it is free. 
-# 8. Organic Chemistry Review
+# 8. [Organic Chemistry Review](http://sites.tufts.edu/andrewrosen/files/2012/11/Orgo-I-Overview1.pdf)
 #       - I found this set of review slides at Tufts University. It is a concise list including most of the reactions that you explored in Chem 2410/2420/3420. Perhaps it will be helpful.
-# 9. Arrow Pushing
+# 9. [Arrow Pushing](http://iverson.cm.utexas.edu/courses/310N/Mechanism%20Sheets/MechanismExplanation.pdf)
 #       - From the University of Texas I found this brief overview of arrow pushing as a way to express reaction mechanism.
-# 10. Organic Chemistry Mechanisms
+# 10. [Organic Chemistry Mechanisms](http://higheredbcs.wiley.com/legacy/college/spencer/047165552X/modules/mod6.pdf)
 #       - This is a link to a module of an out-of-print textbook from Wiley.
-# 11. Hybrid Orbitals and Bonding 
-#       - This is an overview of hybrid orbitals and bonding from Cal Poly Pomona. 
-# 12. More Arrow Pushing
+# 11. [More Arrow Pushing](https://www.chem.wisc.edu/areas/clc/organic/343/03_electron_pushing_343.pdf)
 #       - Another take on arrow pushing in organic chemical mechanisms from the University of Wisconsin. 
-# 13. Organic Chemistry Mechanism Problems with Answers 
+# 12. [Organic Chemistry Mechanism Problems with Answers](MOODLE-LINK_TO_REPLACE) 
 #       - This is a set of problems curated by Sergio Cortes of the University of Texas at Dallas. Try them out before checking the answers.
 # 
+# ### More, More!
 # 
+# These resources are **not related** to this lesson but may change your life as an organic chemist. I certainly wish many of these were around when I was a student. I am placing them here so that you have a place to go to access them if you feel the need. 
+# 
+# 13. [Laboratory Techniques and Methods to Improve Your Experimental Skills](http://www.chem.rochester.edu/notvoodoo/)
+#     - It's not voodoo, it's all in the wrist. This is an excellent set of information for practical lab techniques.
+# 14. [Organic Chemistry Data](https://organicchemistrydata.org/)
+#     - An archive of useful information maintained by the ACS Division of Organic Chemists
+# 15. [Organic Chemistry: An Intermediate Text, Second Edition](https://onlinelibrary-wiley-com.proxy.library.upei.ca/doi/book/10.1002/0471648736)
+#     - This is an excellent book for furthering your organic chemistry skills. It is fairly short and to the point. It is available for free to UPEI students.
+# 16. [Free Organic Books](http://www.digitalbookindex.org/_search/search010menu-chem.asp)
+#     - A list of free books and monographs in the subject of organic chemistry.
+# 17. [ChemTube3D](https://www.chemtube3d.com/main-page/)
+#     - Three-dimensional chemistry animations. Perhaps some will be helpful in visualizing a chemical reaction.
+#     
+# ### Chemical Data Resources
+# In this course we will be needing data. Here are some places where data can be found.
+# 
+# https://commonchemistry.cas.org/
+# https://pubchem.ncbi.nlm.nih.gov/
+# https://webbook.nist.gov/chemistry/
+# https://www.sigmaaldrich.com/CA/en
+# http://www.chemspider.com/
+# https://www.rsc.org/merck-index
+# 
+# #### Links for Me
+# 
+# ##### ACS Symposium Series
+# 
+# - [Free Energy Methods in Drug Discovery: Current State and Future Directions](https://pubs.acs.org/isbn/9780841298064)
+# - [Advances in Online Chemistry Education](https://pubs.acs.org/isbn/9780841298231)
+# - [Teaching Programming across the Chemistry Curriculum](https://pubs.acs.org/isbn/9780841298194)
+# - [Contextualizing Chemistry in Art and Archaeology: Inspiration for Instructors](https://pubs.acs.org/isbn/9780841298330)
+# - [Engaging Students in Organic Chemistry](https://pubs.acs.org/isbn/9780841298446)
+# - [NMR Spectroscopy in the Undergraduate Curriculum, Volume 4: In-Person and Distance Learning Approaches](https://pubs.acs.org/isbn/9780841298507)
+# - [Complete Accounts of Integrated Drug Discovery and Development: Recent Examples from the Pharmaceutical Industry Volume 3](https://pubs.acs.org/isbn/9780841298644)
+# - [Complete Accounts of Integrated Drug Discovery and Development: Recent Examples from the Pharmaceutical Industry Volume 2](https://pubs.acs.org/isbn/9780841234321)
+# - [Complete Accounts of Integrated Drug Discovery and Development: Recent Examples from the Pharmaceutical Industry Volume 1](https://pubs.acs.org/isbn/9780841233980)
+# - [Integrating Professional Skills into Undergraduate Chemistry Curricula](https://pubs.acs.org/isbn/9780841298668)
+# - [Building Your Best Chemistry Career Volume 1: Academic Perspectives](https://pubs.acs.org/isbn/9780841237988)
+# - [Building Your Best Chemistry Career Volume 2: Corporate Perspectives](https://pubs.acs.org/isbn/9780841298705)
+# - [Building Your Best Chemistry Career Volume 3: Broader Perspectives](https://pubs.acs.org/isbn/9780841298682)
+# - [Mechanistic Enzymology: Bridging Structure and Function](https://pubs.acs.org/isbn/9780841298842)
+# - [Chemistry Student Success: A Field-Tested, Evidence-Based Guide](https://pubs.acs.org/isbn/9780841236844)
+# - [Chemistry Education for a Sustainable Society Volume 1: High School, Outreach, & Global Perspectives](https://pubs.acs.org/isbn/9780841237551)
+# - [Chemistry Education for a Sustainable Society Volume 2: Innovations in Undergraduate Curricula](https://pubs.acs.org/isbn/9780841237575)
+# - [From General to Organic Chemistry: Courses and Curricula to Enhance Student Retention](https://pubs.acs.org/isbn/9780841237483)
+# - [Active Learning in General Chemistry: Specific Interventions](https://pubs.acs.org/isbn/9780841237520)
+# - [Biochemistry Education: From Theory to Practice](https://pubs.acs.org/isbn/9780841236332)
+# - [Active Learning in Organic Chemistry: Implementation and Analysis](https://pubs.acs.org/isbn/9780841236295)
+# - [Communication in Chemistry](https://pubs.acs.org/isbn/9780841235106)
+# - [Videos in Chemistry Education: Applications of Interactive Tools](https://pubs.acs.org/isbn/9780841234925)
+# - [Active Learning in General Chemistry: Whole-Class Solutions](https://pubs.acs.org/isbn/9780841236660)
+# - [It’s Just Math: Research on Students’ Understanding of Chemistry and Mathematics](https://pubs.acs.org/isbn/9780841234352)
+# - [Chemistry’s Role in Food Production and Sustainability: Past and Present](https://pubs.acs.org/isbn/9780841234284)
+# - [Using Computational Methods To Teach Chemical Principles](https://pubs.acs.org/isbn/9780841234208)
+# - [The Posthumous Nobel Prize in Chemistry. Volume 2. Ladies in Waiting for the Nobel Prize](https://pubs.acs.org/isbn/9780841233911)
+# - [Citizens First! Democracy, Social Responsibility and Chemistry](https://pubs.acs.org/isbn/9780841233577)
+# - [Best Practices for Chemistry REU Programs](https://pubs.acs.org/isbn/9780841233539)
 
 # 

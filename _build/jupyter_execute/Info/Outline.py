@@ -50,8 +50,8 @@
 # |3	    |Calculating bonds \& molecular orbitals   | Ch. 1 \& Ch. 14          | 
 # |4	    |Thermochemistry and Steric Strain	       | Ch. 2                    |
 # |5	    |Acids and Bases	                       | Ch. 5                    |
-# |6	    |Kinetics and Transition States            | Ch. 7                    |
-# |7	    |Break Week	                               |                          |
+# |6	    |Break Week	                               |                          |
+# |7	    |Kinetics and Transition States            | Ch. 7                    |
 # |8	    |Tools of Physical Organic Chemistry	   | Ch. 8.2 to 8.7           |
 # |9	    |Tools of Physical Organic Chemistry	   | Ch. 8.1                  |
 # |10	    |Catalysis	                               | Ch.9                     |
