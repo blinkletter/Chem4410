@@ -12,8 +12,8 @@ parts:
         - file: Info/Outcomes
     - caption: Lessons
       chapters:
-      - file: Lessons/Lesson1
-      - file: Lessons/Lesson2
-      - file: Lessons/Lesson3
-      - file: Lessons/Lesson4
-      - file: Lessons/Lesson5
+      - file: Lessons/Lesson_01
+      - file: Lessons/Lesson_02
+      - file: Lessons/Lesson_03
+      - file: Lessons/Lesson_04
+      - file: Lessons/Lesson_05
