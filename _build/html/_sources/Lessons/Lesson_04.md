@@ -24,12 +24,12 @@ After reading the suggested textbook section and practicing the problems you sho
 
 The following assignment is to be submitted via moodle before the Friday meeting.
 
-### Instructions
+### The Instructions
 This section describes the **activity** that you are to perform for the assignment. Do the following$\ldots$
 
 > **Make a plot** of the IR stretching frequencies for covalent bonds vs. the corresponding bond dissociation energies. Does IR stretching frequency **correlate** with a measure of bond strength? Use a spreadsheet program or Jupyter notebook for creating the graph. 
 
-### The Report
+### The Deliverable
 > **Comment** on your observations. **Write** the document in a clear and concise style using a word processor or other document creation system. **Document** your activities (where did you get the data, how did you analyze it, what tools did you use? **Include** the data table and the plot, of course. 
 
 

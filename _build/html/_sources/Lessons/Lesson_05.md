@@ -33,12 +33,12 @@ After reading the suggested textbook section and practicing the problems you sho
 
 The following assignment is to be submitted via moodle before the Friday meeting.
 
-### Instructions
+### The Instructions
 This section describes the **activity** that you are to perform for the assignment. Do the following$\ldots$
 
 > Create a **plot** of one set of *pK<sub>a</sub>* values against a set of related *pK<sub>a</sub>* values. Perhaps plot *pK<sub>a</sub>* values in water vs. *pK<sub>a</sub>* values in DMSO. Or plot *pK<sub>a</sub>* values in water vs. gas phase. Or plot *pK<sub>a</sub>* values of **substituted benzoic acids** agains *pK<sub>a</sub>* values of substituted phenols or substituted pyridines or substituted something else. An example will be presented in class so you will know exactly what to do.
 
-### The Report
+### The Deliverable
 > We are now exploring **data analysis** and so your report should be an **executable Jupyter notebook** that documents your activity while providing the code and results of the code. Feel free to start with the example notebook presented during the lesson week and alter it to suit you. You must perform an analysis that is **different** than the one in the sample notebook<br>
 > <br>
 > **Write** your notebook in a neat and well organized form. Include comments on your observations and attempt to **explain** them. Is the result obvious to you, or is it a surprise? **Submit a .zip file** that contains the notebook and the data file that you created. Data analysis projects are presented with code and raw data in modern journals, often as Jupyter notebooks. Keeping the code and data together **helps others** to follow your work.

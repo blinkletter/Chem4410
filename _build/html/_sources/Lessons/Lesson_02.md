@@ -33,7 +33,7 @@ After reading the suggested textbook section and practicing the problems you sho
 
 The following assignment is to be submitted via moodle before the Friday meeting.
 
-### Instructions
+### The Instructions
 This section describes the **activity** that you are to perform for the assignment. Do the following$\ldots$
 
 > **Consider** the two arrow-pushing in {numref}`directive-fig` below for the formation of a carbocation from an alkene and from a ketone. **Do you agree** with the arrow pushing? Think about how the arrow-pushing fits with what you know about the **frontier molecular orbitals** involved.
@@ -47,7 +47,7 @@ name: directive-fig
 ```
 
 
-### The Report
+### The Deliverable
 > **Create** a document in which you present the approximate  **molecular orbital diagram** for each reactant and **identify** the **frontier molecular orbitals**. Using this information either **confirm or criticize the arrow pushing**. Be brief in your explanation but be clear. Provide a corrected reaction scheme if needed.
 
 

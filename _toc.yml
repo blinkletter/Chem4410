@@ -7,9 +7,9 @@ parts:
     - caption: Syllabus
       chapters:
         - file: Info/Course_Info
-        - file: Info/Resources
         - file: Info/Outline
         - file: Info/Outcomes
+        - file: Info/Resources
     - caption: Lessons
       chapters:
       - file: Lessons/Lesson_01

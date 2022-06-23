@@ -27,14 +27,14 @@ After reading the suggested textbook section and practicing the problems you sho
 
 The following assignment is to be submitted via moodle before the Friday meeting.
 
-### Instructions
+### The Instructions
 This section describes the **activity** that you are to perform for the assignment. Do the following$\ldots$
 
 > **Install** GAMESS and related programs on your computer. Perform calculations as demonstrated in the Monday and Wednesday meetings on your own. Try molecules of your own choice as you repeat the methods demonstrated in class. <br>
 > <br>
 > **IMPORTANT**: This assignment will take time. Give yourself time to work through glitches and solve problems. Start early.
 
-### The Report
+### The Deliverable
 > **write** a report in which you present the local bonding orbitals and the molecular orbitals of the ethyene cation ($C_2H_5^+$). Report all the bond lengths and **comment** of the assymmetry of the methyl bond lengths. Propose an **explanation**. Your report should include relevant diagrams and images (especially graphical representations of the orbitals.) You may well have been driven mad with frustration
 
 
