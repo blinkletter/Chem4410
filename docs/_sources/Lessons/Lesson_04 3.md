@@ -3,7 +3,7 @@ Let us use math again to interpret chemistry. Over the last century chemists hav
 
 -----
 ## 4.1 Lesson Plan
-The plan below is not necessarily what will happen in class – it is merely what I **hope** will happen in class. We will explore the following subjects and ideas$\ldots$
+The plan below is not necessarily what will happen in class – it is merely what I **hope** will happen in class. We will explore the following subjects and ideas&hellip;
 
 - Using known **bond dissociation energies** to predict stability and predict the thermochemistry of a reaction. (Ch. 2.1)
 - Using tables of **group increments** to calculate the difference in enthalpy between reactants and products and between reactants, high-energy intermediates and products. (Ch. 2.2)
@@ -13,7 +13,7 @@ The plan below is not necessarily what will happen in class – it is merely wha
 
 -----
 ## 4.2 Learning Goals
-After reading the suggested textbook section and practicing the problems you should be able to$\ldots$
+After reading the suggested textbook section and practicing the problems you should be able to&hellip;
 
 - Interpret the **steric strain** present in a molecule by examining its conformation.
 - Predict the **enthalpy change** for a reaction using group increments.
@@ -25,7 +25,7 @@ After reading the suggested textbook section and practicing the problems you sho
 The following assignment is to be submitted via moodle before the Friday meeting.
 
 ### Instructions
-This section describes the **activity** that you are to perform for the assignment. Do the following$\ldots$
+This section describes the **activity** that you are to perform for the assignment. Do the following&hellip;
 
 > **Make a plot** of the IR stretching frequencies for covalent bonds vs. the corresponding bond dissociation energies. Does IR stretching frequency **correlate** with a measure of bond strength? Use a spreadsheet program or Jupyter notebook for creating the graph. 
 
@@ -85,7 +85,7 @@ No Classes. **Truth & Reconcilliation Day** but it's not a holliday. Time to do 
 
 The following notebooks have been made in advance and are available on the moodle site.
 
-1. [Examples in Group Increments](Resource_Moodle_Link.ipynb)
+1. [Examples in Group Increments](Resource_Moodle_Link.md)
 
 ### For This Lesson
 

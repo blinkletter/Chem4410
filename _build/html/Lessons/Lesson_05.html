@@ -51,8 +51,6 @@ const thebe_selector_input = "pre"
 const thebe_selector_output = ".output, .cell_output"
 </script>
     <script async="async" src="../_static/sphinx-thebe.js"></script>
-    <script async="async" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-    <script>window.MathJax = {"options": {"processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
     <link rel="prev" title="Lesson 4: Thermochemistry and Strain" href="Lesson_04.html" />
@@ -494,12 +492,12 @@ const thebe_selector_output = ".output, .cell_output"
 <hr class="docutils" />
 <div class="section" id="lesson-plan">
 <h2>5.1 Lesson Plan<a class="headerlink" href="#lesson-plan" title="Permalink to this headline">¶</a></h2>
-<p>The plan below is not necessarily what will happen in class – it is merely what I <strong>hope</strong> will happen in class. We will explore the following subjects and ideas<span class="math notranslate nohighlight">\(\ldots\)</span></p>
+<p>The plan below is not necessarily what will happen in class – it is merely what I <strong>hope</strong> will happen in class. We will explore the following subjects and ideas…</p>
 <ul class="simple">
 <li><p>How to <strong>calculate</strong> the fraction of protonated/deprotonated species in a solution of a given acidity. We will make it super easy with a <strong>Jupyter notebook and Python</strong>.</p></li>
 <li><p>What does <em>pK<sub>a</sub></em> mean and how is it useful (even when the value seems ridiculous)? (Ch.5.1)</p></li>
-<li><p>What is ”acidity”? What is <em>pH</em>? I mean, <strong>what is it really</strong>? What if I told you that <em>pH</em> is not really <span class="math notranslate nohighlight">\(−\log[H^+]\)</span>. Can you handle the truth? (Ch. 5.1)</p></li>
-<li><p>Introducing the <strong>Hammett acidity function</strong>, <span class="math notranslate nohighlight">\(H_0\)</span>. (Ch. 5.2)</p></li>
+<li><p>What is ”acidity”? What is <em>pH</em>? I mean, <strong>what is it really</strong>? What if I told you that <em>pH</em> is not really −log[H<sup>+</sup>]. Can you handle the truth? (Ch. 5.1)</p></li>
+<li><p>Introducing the <strong>Hammett acidity function</strong>, <em>H<sub>0</sub></em>. (Ch. 5.2)</p></li>
 <li><p>Predicting <strong>relative acid strengths</strong> by comparing molecular structure (Ch. 5.4)</p></li>
 <li><p><strong>Solvent effects</strong> on acid/base equilibrium (Ch. 5.3)</p></li>
 </ul>
@@ -507,15 +505,15 @@ const thebe_selector_output = ".output, .cell_output"
 <hr class="docutils" />
 <div class="section" id="learning-goals">
 <h2>5.2 Learning Goals<a class="headerlink" href="#learning-goals" title="Permalink to this headline">¶</a></h2>
-<p>After reading the suggested textbook section and practicing the problems you should be able to<span class="math notranslate nohighlight">\(\ldots\)</span></p>
+<p>After reading the suggested textbook section and practicing the problems you should be able to…</p>
 <ul class="simple">
 <li><p>Understand <em>pH</em> as an <strong>acidity function</strong>.</p></li>
 <li><p>Understand <strong>how</strong> the Hammett acidity function <strong>is determined</strong> for various acid mixtures.</p></li>
-<li><p>Determine the <strong>extent of protonation</strong> of a reactant at various <em>pH</em> or <span class="math notranslate nohighlight">\(H_0\)</span> values.</p></li>
+<li><p>Determine the <strong>extent of protonation</strong> of a reactant at various <em>pH</em> or <em>H<sub>0</sub></em> values.</p></li>
 <li><p><strong>Calculate</strong> the <em>pK<sub>a</sub></em> of a reactant from equilibrium data.</p></li>
-<li><p>Understand the <strong>effect of resonance, induction, steric strain and electrostatic effects</strong> on the <span class="math notranslate nohighlight">\(K_a\)</span> value of an acidic functional group.</p></li>
+<li><p>Understand the <strong>effect of resonance, induction, steric strain and electrostatic effects</strong> on the <em>K<sub>a</sub></em> value of an acidic functional group.</p></li>
 <li><p>Be able to <strong>predict</strong> which of two related acids is stronger and explain why.</p></li>
-<li><p>Understand the role of <strong>solvent</strong> in determining the <span class="math notranslate nohighlight">\(K_a\)</span> value of an acidic functional group.</p></li>
+<li><p>Understand the role of <strong>solvent</strong> in determining the <em>K<sub>a</sub></em> value of an acidic functional group.</p></li>
 </ul>
 </div>
 <hr class="docutils" />
@@ -524,7 +522,7 @@ const thebe_selector_output = ".output, .cell_output"
 <p>The following assignment is to be submitted via moodle before the Friday meeting.</p>
 <div class="section" id="the-instructions">
 <h3>The Instructions<a class="headerlink" href="#the-instructions" title="Permalink to this headline">¶</a></h3>
-<p>This section describes the <strong>activity</strong> that you are to perform for the assignment. Do the following<span class="math notranslate nohighlight">\(\ldots\)</span></p>
+<p>This section describes the <strong>activity</strong> that you are to perform for the assignment. Do the following…</p>
 <blockquote>
 <div><p>Create a <strong>plot</strong> of one set of <em>pK<sub>a</sub></em> values against a set of related <em>pK<sub>a</sub></em> values. Perhaps plot <em>pK<sub>a</sub></em> values in water vs. <em>pK<sub>a</sub></em> values in DMSO. Or plot <em>pK<sub>a</sub></em> values in water vs. gas phase. Or plot <em>pK<sub>a</sub></em> values of <strong>substituted benzoic acids</strong> agains <em>pK<sub>a</sub></em> values of substituted phenols or substituted pyridines or substituted something else. An example will be presented in class so you will know exactly what to do.</p>
 </div></blockquote>

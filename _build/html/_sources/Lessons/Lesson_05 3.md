@@ -5,7 +5,7 @@ I didn't truly understand **acid-base equilibria** until I started graduate scho
 
 -----
 ## 5.1 Lesson Plan
-The plan below is not necessarily what will happen in class – it is merely what I **hope** will happen in class. We will explore the following subjects and ideas$\ldots$
+The plan below is not necessarily what will happen in class – it is merely what I **hope** will happen in class. We will explore the following subjects and ideas&hellip;
 
 - How to **calculate** the fraction of protonated/deprotonated species in a solution of a given acidity. We will make it super easy with a **Jupyter notebook and Python**.
 - What does *pK<sub>a</sub>* mean and how is it useful (even when the value seems ridiculous)? (Ch.5.1)
@@ -17,7 +17,7 @@ The plan below is not necessarily what will happen in class – it is merely wha
 
 -----
 ## 5.2 Learning Goals
-After reading the suggested textbook section and practicing the problems you should be able to$\ldots$
+After reading the suggested textbook section and practicing the problems you should be able to&hellip;
 
 - Understand *pH* as an **acidity function**.
 - Understand **how** the Hammett acidity function **is determined** for various acid mixtures.
@@ -34,7 +34,7 @@ After reading the suggested textbook section and practicing the problems you sho
 The following assignment is to be submitted via moodle before the Friday meeting.
 
 ### Instructions
-This section describes the **activity** that you are to perform for the assignment. Do the following$\ldots$
+This section describes the **activity** that you are to perform for the assignment. Do the following&hellip;
 
 > Create a **plot** of one set of *pK<sub>a</sub>* values against a set of related *pK<sub>a</sub>* values. Perhaps plot *pK<sub>a</sub>* values in water vs. *pK<sub>a</sub>* values in DMSO. Or plot *pK<sub>a</sub>* values in water vs. gas phase. Or plot *pK<sub>a</sub>* values of **substituted benzoic acids** agains *pK<sub>a</sub>* values of substituted phenols or substituted pyridines or substituted something else. An example will be presented in class so you will know exactly what to do.
 
@@ -96,17 +96,17 @@ In our third meeting for this lesson there will be a **short quiz** featuring pr
 
 The following notebooks have been made in advance and are available on the moodle site.
 
-1. [Classic Chem 1110 Acid Equilibrium](Resource_Moodle_Link.ipynb)
-2. [Hammett Acidity Function Example](Resource_Moodle_Link.ipynb)
-3. [Example Assignment Notebook](Resource_Moodle_Link.ipynb)
+1. [Classic Chem 1110 Acid Equilibrium](Resource_Moodle_Link.md)
+2. [Hammett Acidity Function Example](Resource_Moodle_Link.md)
+3. [Example Assignment Notebook](Resource_Moodle_Link.md)
 
 
 ### For This Lesson
 
-1. [Tables and Charts of Hammett acidity function values](Resource_Moodle_Link.ipynb) 
+1. [Tables and Charts of Hammett acidity function values](Resource_Moodle_Link.md) 
     - How acidic is 50% sulfuric acid? You can look up the Ho value of that and other acid mixtures in these charts.
 
-2. [Acid-Base Tutorial](Resource_Moodle_Link.ipynb) 
+2. [Acid-Base Tutorial](Resource_Moodle_Link.md) 
     - I wrote this review for my biochemistry class several years ago. It may be useful in reviewing the basics of acid-base equi- libria.
 
 3. [Williams’ Compilation of pKa Tables](https://organicchemistrydata.org/hansreich/resources/pka/)

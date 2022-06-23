@@ -5,7 +5,7 @@ Along the way we will gain a **better understanding** of molecular orbitals, tra
 
 -----
 ## 3.1 Lesson Plan
-The plan below is not necessarily what will happen in class – it is merely what I **hope** will happen in class. We will explore the following subjects and ideas$\ldots$
+The plan below is not necessarily what will happen in class – it is merely what I **hope** will happen in class. We will explore the following subjects and ideas&hellip;
 - **Installing** GAMESS and related software
 - The Z-matrix and constructing GAMESS **input files**
 - Interpreting GAMESS **output files**
@@ -15,7 +15,7 @@ The plan below is not necessarily what will happen in class – it is merely wha
 
 -----
 ## 3.2 Learning Goals
-After reading the suggested textbook section and practicing the problems you should reached the following goals$\ldots$
+After reading the suggested textbook section and practicing the problems you should reached the following goals&hellip;
 
 - To have a **beginners** experience with computational tools.
 - To have learned **problem solving** and zen-like patience in dealing with scientific software.
@@ -28,14 +28,14 @@ After reading the suggested textbook section and practicing the problems you sho
 The following assignment is to be submitted via moodle before the Friday meeting.
 
 ### The Instructions
-This section describes the **activity** that you are to perform for the assignment. Do the following$\ldots$
+This section describes the **activity** that you are to perform for the assignment. Do the following&hellip;
 
 > **Install** GAMESS and related programs on your computer. Perform calculations as demonstrated in the Monday and Wednesday meetings on your own. Try molecules of your own choice as you repeat the methods demonstrated in class. <br>
 > <br>
 > **IMPORTANT**: This assignment will take time. Give yourself time to work through glitches and solve problems. Start early.
 
 ### The Deliverable
-> **write** a report in which you present the local bonding orbitals and the molecular orbitals of the ethyene cation ($C_2H_5^+$). Report all the bond lengths and **comment** of the assymmetry of the methyl bond lengths. Propose an **explanation**. Your report should include relevant diagrams and images (especially graphical representations of the orbitals.) You may well have been driven mad with frustration
+> **write** a report in which you present the local bonding orbitals and the molecular orbitals of the ethyene cation (C<sub>2</sub>H<sub>5</sub><sup>+</sup>). Report all the bond lengths and **comment** of the assymmetry of the methyl bond lengths. Propose an **explanation**. Your report should include relevant diagrams and images (especially graphical representations of the orbitals.) You may well have been driven mad with frustration
 
 
 
@@ -85,24 +85,24 @@ There will be **no quiz** and **no presentations**. This has been planned to be 
 
 #### Suggested Problems
 
-> **Attempt** to determine the structure of the transition state for an $\text{S}_N2$ reaction.
+> **Attempt** to determine the structure of the transition state for an *S<sub>N</sub>2* reaction.
 
 ------
 ## 3.5 Resources
 
 ### GAMESS Input Files
-1. [Methane with Z-matrix](Resource_Moodle_Link.ipynb)
-2. [Methane with Symmnetry](Resource_Moodle_Link.ipynb)
-2. [Ethylene with Symmetry](Resource_Moodle_Link.ipynb)
-4. [Methanol with Z-matrix](Resource_Moodle_Link.ipynb)
+1. [Methane with Z-matrix](Resource_Moodle_Link.md)
+2. [Methane with Symmetry](Resource_Moodle_Link.md)
+2. [Ethylene with Symmetry](Resource_Moodle_Link.md)
+4. [Methanol with Z-matrix](Resource_Moodle_Link.md)
 
 ### For This Lesson
-1.  [Instructions for Installing **GAMESS**](Resource_Moodle_Link.ipynb)
-2.  [Instructions for Installing **Avogadro**](Resource_Moodle_Link.ipynb)
-3.  [Instructions for Installing **MacMolPlt**](Resource_Moodle_Link.ipynb)
-4.  [Instructions for using GAMESS (**Monday**)](Resource_Moodle_Link.ipynb)
-5.  [Instructions for energy profiles in GAMESS (**Wednesday**)](Resource_Moodle_Link.ipynb)
-6.  [Instructions for energy profiles in GAMESS (**Friday**)](Resource_Moodle_Link.ipynb)
+1.  [Instructions for Installing **GAMESS**](Resource_Moodle_Link.md)
+2.  [Instructions for Installing **Avogadro**](Resource_Moodle_Link.md)
+3.  [Instructions for Installing **MacMolPlt**](Resource_Moodle_Link.md)
+4.  [Instructions for using GAMESS (**Monday**)](Resource_Moodle_Link.md)
+5.  [Instructions for energy profiles in GAMESS (**Wednesday**)](Resource_Moodle_Link.md)
+6.  [Instructions for energy profiles in GAMESS (**Friday**)](Resource_Moodle_Link.md)
 
 ### Extra Resources
 

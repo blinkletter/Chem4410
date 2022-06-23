@@ -35,7 +35,7 @@ The lesson plans presented in this document are the **ideas** that I hope to exp
     
 ## 1.2 Learning Goals
 
-After **reading** the suggested textbook sections, **practicing** the problems and completing the activities of the **assignment** you should be able to$\ldots$
+After **reading** the suggested textbook sections, **practicing** the problems and completing the activities of the **assignment** you should be able to&hellip;
 
 - **Name** simple molecules, identify **stereochemistry**, predict products of addition, elimination and substitution (simple, acyl and aromatic) reactions.
 - Propose the **synthesis** of simple molecules using carbon nucleophiles and functional group transformations.
@@ -51,7 +51,7 @@ Each lesson has an assignment. It will be introduced on the Friday before the le
 
 ### The Instructions
 
-This section describes the **activity** that you are to perform for the assignment. Do the following$\ldots$
+This section describes the **activity** that you are to perform for the assignment. Do the following&hellip;
 > **Review** your organic chemistry. <br>
 > **Answer** questions 2C, 2E, 3B, 3E and 3H at the end of appendix 5.
 
@@ -132,7 +132,7 @@ I will only ask you to read journal articles to which UPEI has **subscription ac
 ```
 
 ## 1.5 Resources
-You may find the **following** resources useful as you explore the ideas for today's meeting. **Links** to these resources are [available on the moodle page](Resource_Moodle_Link.ipynb). The most important resource in this course will be your textbook but always look for more.
+You may find the **following** resources useful as you explore the ideas for today's meeting. **Links** to these resources are [available on the moodle page](Resource_Moodle_Link.md). The most important resource in this course will be your textbook but always look for more.
 
 ``` {admonition} About Links to Resources
 The links below to various resources may be **direct links** to an existing **document** or **video** available on the web or they may be links to the course **moodle page** resource section. In the moodle page, you will find the link to the specific resource. They will all be there in a list **organized** by the **lesson number**. The links below will be under "Lesson \# 1" on the moodle course resource page.
@@ -143,20 +143,20 @@ These **resources** are directly related to this lesson and may be assigned read
 
 1. [Textbook Table of Contents](https://uscibooks.aip.org/wp-content/uploads/adfm_new.pdf)
       - This is the front matter from the textbook.
-2. [Appendix 5 problems](Resource_Moodle_Link.ipynb)
+2. [Appendix 5 problems](Resource_Moodle_Link.md)
       - I have copied these **questions from the textbook** and made them available on the Moodle site. Please acquire a copy of the textbook soon as I won’t be able to do this again. Respect copyright — someday you may be an author.
       
 ### Organic Chemistry Review
 
 These are **extra resources** intended to provide more information for reviewing your previous organic chemistry.
 
-3. [Organic Chemistry Review](Resource_Moodle_Link.ipynb) 
+3. [Organic Chemistry Review](Resource_Moodle_Link.md) 
       - I wrote this as a review of organic chemistry for students who are beginning my biochemistry course.
-4. [Review of Organic Chemistry: Nucleophilic Carbon](Resource_Moodle_Link.ipynb) 
+4. [Review of Organic Chemistry: Nucleophilic Carbon](Resource_Moodle_Link.md) 
       - I wrote this as a supplement for my advanced organic chemistry course as a review of enolate chemistry. It is brief and not very comprehensive but may be helpful. 
-5. [Summary of Organic Chemistry](Resource_Moodle_Link.ipynb) 
+5. [Summary of Organic Chemistry](Resource_Moodle_Link.md) 
       - I started writing this as an overview of Or- ganic Chemistry for Life Sciences, Chem 243. It was never finished but what is there may be helpful. 
-6. [A Chemistry Toolkit](Resource_Moodle_Link.ipynb)
+6. [A Chemistry Toolkit](Resource_Moodle_Link.md)
       - I wrote this as a review of introductory chemistry for my beginning organic chjemistry students. It’s been a long time since your first year. How much do you recall? 
 7. [Virtual Textbook of Organic Chemistry](https://www2.chemistry.msu.edu/faculty/reusch/virttxtjml/intro1.htm)  
       - This is a link to the free textbook by William Reusch. It is a serviceable overview of organic chemistry and it is free. 
@@ -168,7 +168,7 @@ These are **extra resources** intended to provide more information for reviewing
       - Another take on arrow pushing in organic chemical mechanisms from the University of Wisconsin. 
 11. [Organic Chemistry Mechanisms](http://higheredbcs.wiley.com/legacy/college/spencer/047165552X/modules/mod6.pdf)
       - This is a link to a module of an out-of-print textbook from Wiley.
-12. [Organic Chemistry Mechanism Problems with Answers](Resource_Moodle_Link.ipynb) 
+12. [Organic Chemistry Mechanism Problems with Answers](Resource_Moodle_Link.md) 
       - This is a set of problems curated by Sergio Cortes of the University of Texas at Dallas. Try them out before checking the answers.
 
 ### More, More!
