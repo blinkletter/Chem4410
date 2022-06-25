@@ -1,11 +1,15 @@
 # Lesson 7: Tools, Part 1
 
-So you've proposed a mechanism - now what? Now you must perfrom an experiment to back up your hypothesis. There are many ways we could do this by using the toolbox of physical organic chemistry.
+So you've proposed a **mechanism** - now what? Now you must perform an **experiment** to back up your **hypothesis**. There are many ways we could do this by using the **toolbox** of physical organic chemistry.
+
+We can use straight forward methods such as **product analysis**. Do the products observed result from your mechanism? Are there any products that cannot be accounted for by your mechanism? **Stereochemistry** can be very important in product analysis. If you hypothesize a reactive intermediate, can you react it with another molecule to prove that it exists. If you can **trap** it you can prove it.
+
+We can get clever. We can change a hydrogen atom for its **isotope**, deuterium.  This will not change the electronic structure and will not change the structure of the transition state. But it will change **vibrational energies** and if that bond is involved with any vibrations in the transition state it may become evident in the reaction kinetics. **Isotope effects** are an important tool in physical organic chemistry.
 
 ## 7.1 Lesson Plan
 The plan below is not necessarily what will happen in class – it is merely what I **hope** will happen in class. We will explore the following subjects and ideas&hellip;
 
-- Isotope effects (Ch. 8.1)
+- Isotope effects (Ch. 8.1) 
 - Product analysis (structure of products and reactants) Ch. 8.8.2 
 - Stereochemical analysis of products Ch. 8.8.6
 - Trapping an intermediate Ch. 8.8.3, 8.8.8
@@ -67,18 +71,11 @@ Idea
 
 #### Reading
 
-> **Read** Chapter X  <br>
-20.2 Textbook Reading
-Chapter 8.1
-
-
+> **Read** Chapter 8.1
 
 #### Suggested Problems
 
-> **Attempt** the following problems at the end of Ch. X:   <br>
-20.4 Suggested Textbook Problems
-Complete the following problems from Ch. 8: 2, 3, 13, 19 & 20
-
+> **Attempt** the following problems from Ch. 8: 2, 3, 13, 19 & 20
 
 ### Wednesday
 
@@ -90,7 +87,7 @@ Idea
 
 #### Suggested Problems
 
-> **Attempt** the following problems at the end of Ch. 5: 2, 4, 9, 11, 13, 17, 19 \& 21 
+> **Attempt** the following problems from Ch. 8: 21, 22, 27
 
 ### Friday
 
@@ -98,8 +95,7 @@ In our third meeting for this lesson there will be a **short quiz** featuring pr
 
 #### Presentations
 
-> Two of you will have been selected on Monday to present the results of the assignment. You will want to ask your presentation partner what they are doing so you can be sure that you are both making different correlations.
-
+> Two of you will have been selected on Monday to present the results of the assignment. 
 
 ## 7.5 Resources
 
@@ -108,7 +104,6 @@ In our third meeting for this lesson there will be a **short quiz** featuring pr
 The following notebooks have been made in advance and are available on the moodle site.
 
 1. [Name](Resource_Moodle_Link.md)
-
 
 ### For This Lesson
 

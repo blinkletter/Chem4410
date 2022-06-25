@@ -36,9 +36,10 @@ This section describes the **activity** that you are to perform for the assignme
 > Create a **plot** of one set of *pK<sub>a</sub>* values against a set of related *pK<sub>a</sub>* values. Perhaps plot *pK<sub>a</sub>* values in water vs. *pK<sub>a</sub>* values in DMSO. Or plot *pK<sub>a</sub>* values in water vs. gas phase. Or plot *pK<sub>a</sub>* values of **substituted benzoic acids** agains *pK<sub>a</sub>* values of substituted phenols or substituted pyridines or substituted something else. An example will be presented in class so you will know exactly what to do.
 
 ### The Deliverable
-> We are now exploring **data analysis** and so your report should be an **executable Jupyter notebook** that documents your activity while providing the code and results of the code. Feel free to start with the example notebook presented during the lesson week and alter it to suit you. You must perform an analysis that is **different** than the one in the sample notebook<br>
-> <br>
-> **Write** your notebook in a neat and well organized form. Include comments on your observations and attempt to **explain** them. Is the result obvious to you, or is it a surprise? **Submit a .zip file** that contains the notebook and the data file that you created. Data analysis projects are presented with code and raw data in modern journals, often as Jupyter notebooks. Keeping the code and data together **helps others** to follow your work.
+
+> You will have tried a few different correlations. Pick your favourite and write a **report** using an executable Jupyter notebook as the medium. The notebook will **document** your activity while providing the **code** and **results** of the code. Feel free to start with the example notebook presented during the lesson week and alter it to suit you. You must perform an analysis that is **different** than the one in the sample notebook.
+
+Write your notebook in a **neat** and well organized form. Include **comments** on your observations and attempt to **explain** them. Is the result obvious to you, or is it a surprise? **Submit a .zip file** that contains the notebook and the data file that you created. Data analysis projects are presented with code and raw data in modern journals, often as Jupyter notebooks. Keeping the code and data together **helps others** to follow your work.
 
 
 ### Grading
@@ -64,7 +65,7 @@ We will explore the **math** of acid/base equilibria using Jupyter notebooks as 
 
 ### Wednesday
 
-We will consider how structure affects acidity. The most obvious example is substituted benzoic acids. 
+We will consider how structure affects acidity. The most obvious example is substituted benzoic acids. We will explore examples involving resonance stabilization, aromaticity and hybridization.
 
 #### Reading
 
@@ -82,7 +83,7 @@ In our third meeting for this lesson there will be a **short quiz** featuring pr
 
 #### Presentations
 
-> Two of you will have been selected on Monday to present the results of the assignment. You will want to ask your presentation partner what they are doing so you can be sure that you are both making different correlations.
+> Two of you will have been selected on Monday to present the results of the assignment. You will want to **ask** your presentation partner what they are doing so you can be sure that you are both making **different** correlations.
 
 
 ## 5.5 Resources

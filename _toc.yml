@@ -21,3 +21,6 @@ parts:
       - file: Lessons/Lesson_07
       - file: Lessons/Lesson_08
       - file: Lessons/Lesson_09
+      - file: Lessons/Lesson_10
+      - file: Lessons/Lesson_11
+      - file: Lessons/Lesson_12

@@ -28,19 +28,15 @@ The following assignment is to be submitted via moodle before the Friday meeting
 This section describes the **activity** that you are to perform for the assignment. Do the following&hellip;
 
 > **Install** GAMESS and related programs on your computer. Perform calculations as demonstrated in the Monday and Wednesday meetings on your own. Try molecules of your own choice as you repeat the methods demonstrated in class. <br>
-> <br>
-> **IMPORTANT**: This assignment will take time. Give yourself time to work through glitches and solve problems. Start early.
+
+**IMPORTANT**: This assignment will take time. Give yourself time to work through glitches and solve problems. Start early.
 
 ### The Deliverable
 > **write** a report in which you present the local bonding orbitals and the molecular orbitals of the ethyene cation (C<sub>2</sub>H<sub>5</sub><sup>+</sup>). Report all the bond lengths and **comment** of the assymmetry of the methyl bond lengths. Propose an **explanation**. Your report should include relevant diagrams and images (especially graphical representations of the orbitals.) You may well have been driven mad with frustration
 
-
-
-
 ### Grading
+
 **Half** of the grade will be for your **answer** and **half** will evaluate how neat, **clear and professional** your are in communicating your answer. Feel free to use a chemical drawing program. Take pride in your work.
-
-
 
 ## 3.4 Lesson Schedule
 
@@ -73,7 +69,6 @@ Bring your **laptop computer** if you have one and are able to do so. We will di
 ### Friday
 
 There will be **no quiz** and **no presentations**. This has been planned to be more of a practical lesson and given the likely frustrations with the software we will focus on making sure that all students can use it to get results. **Be prepared to discuss your assignment**. Bring your **laptop computer** if you have one and are able to do so. We will explore transition states and reactions using GAMESS. Finally the topics for the **next lesson** will be introduced. **Look ahead** to Lesson 4 to see what you should prepare for Monday. 
-
 
 #### Reading
 

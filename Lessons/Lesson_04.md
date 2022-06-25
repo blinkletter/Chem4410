@@ -1,4 +1,5 @@
 # Lesson 4: Thermochemistry and Strain
+
 Let us use math again to interpret chemistry. Over the last century chemists have established **detailed tables** of data for burning hydrocarbons and used this information to establish the **heats of formation**, &Delta;*H<sub>f</sub>*&deg;. Along the way, it was observed that certain **groups contributed** the same portion of &Delta;*H<sub>f</sub>*&deg;. These became known as **group increments** and represent the contribution of a chemical group in a completely unstrained system. We might know the &Delta;*H<sub>f</sub>*&deg; for a molecule and observe that it is significantly **different** than that calculated using a collection of group increments. This difference in energy is most often the result of **strain**.
 
 ## 4.1 Lesson Plan
@@ -29,11 +30,9 @@ This section describes the **activity** that you are to perform for the assignme
 ### The Deliverable
 > **Comment** on your observations. **Write** the document in a clear and concise style using a word processor or other document creation system. **Document** your activities (where did you get the data, how did you analyze it, what tools did you use? **Include** the data table and the plot, of course. 
 
-
 ### Grading
+
 **Half** of the grade will be for your **answer** and **half** will evaluate how neat, **clear and professional** your are in communicating your answer. Feel free to use a chemical drawing program. Take pride in your work.
-
-
 
 ## 4.4 Lesson Schedule
 

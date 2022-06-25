@@ -508,29 +508,35 @@ const thebe_selector_output = ".output, .cell_output"
                 
   <div class="tex2jax_ignore mathjax_ignore section" id="lesson-8-tools-part-2">
 <h1>Lesson 8: Tools, Part 2<a class="headerlink" href="#lesson-8-tools-part-2" title="Permalink to this headline">¶</a></h1>
-<p>INTRO</p>
+<p>You may examine you mechanism and observe that you are proposing a <strong>transition state</strong> that has significantly <strong>more charge</strong> at the reaction center than in the reactants. Modifying your reactants with <strong>subtituents</strong> that stabilize or destabilize that charge should <strong>change the rate</strong> of reaction. Can we make this into a useful quantitative method?</p>
+<p>We must develop a standard <strong>scoring system</strong> for hoe electron-donating or withdrawing the substituent is. Then we can use that standard score to measure the effect of these changes on the reaction. If the <strong>substituent effect</strong> is large then there is a large change in charge. The <strong>magnitude and direction</strong> of the effect can tell us much about the transition state.</p>
+<p>This method has grown into the general stratefy of <strong>linear free energfy relationships</strong>. One system is used to create a score the the substituent effect and then those scores are used to evaluate the magnitude and direction of the effect in another system. We can create scores for <strong>inductive</strong> and <strong>resonance</strong> electronic effects, electrical <strong>field</strong> effects, <strong>size</strong>, solvent <strong>polarity</strong>, <strong>nucleophilicity</strong> and much more.</p>
+<p>Get out your <strong>data tables</strong> and slide rulers. I will go easy on you - we will be using the internet and interactive <em>Python</em> notebooks.</p>
 <div class="section" id="lesson-plan">
 <h2>8.1 Lesson Plan<a class="headerlink" href="#lesson-plan" title="Permalink to this headline">¶</a></h2>
 <p>The plan below is not necessarily what will happen in class – it is merely what I <strong>hope</strong> will happen in class. We will explore the following subjects and ideas…</p>
 <ul class="simple">
-<li><p>Substituent can change the energy in transition states and equilibria (Ch. 8.2)</p>
+<li><p>Substituents can change the energy in transition states and equilibria (Ch. 8.2)</p>
 <ul>
-<li><p>Inductive effects, resonance effects, rield effects &amp; rteric effects</p></li>
+<li><p>Inductive effects, resonance effects, field effects &amp; steric effects</p></li>
 </ul>
 </li>
-<li><p>A standard system to investigate substituent effects – the substituted phenyl group (Ch. 8.3)</p>
+<li><p>Hammett’s approach: a standard system to investigate substituent effects
+– The substituted phenyl group (Ch. 8.3)</p>
 <ul>
 <li><p>Measuring substituent effects</p></li>
-<li><p>Hammett parameters</p></li>
+<li><p>Hammett parameters (σ)</p></li>
 <li><p>Hammett plots</p></li>
 </ul>
 </li>
-<li><p>Application of Hammett plots</p></li>
-<li><p>The Brown-Okamoto parameters</p></li>
+<li><p>Application of Hammett plots</p>
+<ul>
+<li><p>The Brown-Okamoto parameters (σ<sup>+</sup>, σ<sup>-</sup>)</p></li>
 <li><p>The Yukawa-Tsuno two parameter plot</p></li>
 <li><p>Observing changes in transition state structure, rate-determining step or changes in mechanism by using Hammett plots (curved plots) (Ch. 8.3)</p></li>
-<li><p>Isolating different substituent effects: Separating sterics from electron-
-ics
+</ul>
+</li>
+<li><p>Isolating different substituent effects: Separating sterics from electronics
 – The Taft-Ingold parameters and plot (Ch. 8.4)</p></li>
 <li><p>Measuring solvent effects
 – The Grunwald-Winstein plot (Ch. 8.4)</p></li>
@@ -557,13 +563,13 @@ ics
 <h3>The Instructions<a class="headerlink" href="#the-instructions" title="Permalink to this headline">¶</a></h3>
 <p>This section describes the <strong>activity</strong> that you are to perform for the assignment. Do the following…</p>
 <blockquote>
-<div><p>What</p>
+<div><p>Hammett Plot Assignment</p>
 </div></blockquote>
 </div>
 <div class="section" id="the-deliverable">
 <h3>The Deliverable<a class="headerlink" href="#the-deliverable" title="Permalink to this headline">¶</a></h3>
 <blockquote>
-<div><p>What</p>
+<div><p>Hammett Plot Assignment</p>
 </div></blockquote>
 </div>
 <div class="section" id="grading">
@@ -575,47 +581,44 @@ ics
 <h2>8.4 Lesson Schedule<a class="headerlink" href="#lesson-schedule" title="Permalink to this headline">¶</a></h2>
 <div class="section" id="monday">
 <h3>Monday<a class="headerlink" href="#monday" title="Permalink to this headline">¶</a></h3>
-<p>Idea</p>
+<p>How can you score the <strong>electronic effect</strong> of a <strong>substituent</strong> in a system. First, find a <strong>reference</strong> system where the only effect is electronic. Louis Hammett used <em>meta</em> and <em>para</em>-substituted <strong>benzoic acids</strong> and created a series of <strong>substituent parameters</strong>. These evolved into the substituent parameters we use today: σ<sub>m</sub>, σ<sub>p</sub>, σ<sup>+</sup>, &amp; σ<sup>-</sup>.</p>
+<p>We will explore how we can use this score for electronic effects in benzoic acids to measure the <strong>sensitivity</strong> of a transtion state to changes in electron density. This information will enables us to test our hypothesis for the mechanism in many cases.</p>
 <div class="section" id="reading">
 <h4>Reading<a class="headerlink" href="#reading" title="Permalink to this headline">¶</a></h4>
 <blockquote>
-<div><p><strong>Read</strong> Chapter X  <br>
-Chapter 8.2, 8.3 &amp; 8.6</p>
+<div><p><strong>Read</strong> Chapter 8.2, 8.3 &amp; 8.6</p>
 </div></blockquote>
 </div>
 <div class="section" id="suggested-problems">
 <h4>Suggested Problems<a class="headerlink" href="#suggested-problems" title="Permalink to this headline">¶</a></h4>
 <blockquote>
-<div><p><strong>Attempt</strong> the following problems at the end of Ch. X:   <br>
-Complete the following problems from Ch. 8: 11, 14, 15 &amp; 18</p>
+<div><p><strong>Attempt</strong> the following problems from Ch. 8: 11, 14, 15 &amp; 18</p>
 </div></blockquote>
 </div>
 </div>
 <div class="section" id="wednesday">
 <h3>Wednesday<a class="headerlink" href="#wednesday" title="Permalink to this headline">¶</a></h3>
-<p>Idea</p>
+<p>We will explore <strong>other methods</strong> that use the idea of LFER. We can <strong>separate</strong> inductive and resonance effects using the <strong>Yukawa-Tsuno equation</strong>, we can examine the sensitivity of the reaction to <strong>solvent polarity</strong>, we can explore the sensitivity of the reaction to <strong>changes in nucleophile</strong> and leaving group nad we can score the sensitivity of the reaction to the <strong>acid or base</strong> involved. There are many other LFER schemes but we will stick to this short list.</p>
 <div class="section" id="id1">
 <h4>Reading<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h4>
-<p>Chapter 8.3, 8.4 &amp; 8.7</p>
 <blockquote>
-<div><p><strong>Read and Use</strong> the Example Assignment Jupyter notebooks for plotting <em>pK<sub>a</sub></em> values agains each other described below and available on the moodle page</p>
+<div><p><strong>Read</strong> Chapter 8.4, 8.5 &amp; 8.7</p>
 </div></blockquote>
 </div>
 <div class="section" id="id2">
 <h4>Suggested Problems<a class="headerlink" href="#id2" title="Permalink to this headline">¶</a></h4>
-<p>Complete the following problems from Ch. 8: 9, 10, 12, 16 &amp; 24</p>
 <blockquote>
-<div><p><strong>Attempt</strong> the following problems at the end of Ch. 5:  <br></p>
+<div><p><strong>Attempt</strong> the following problems from Ch. 8: 9, 10, 12, 16 &amp; 24</p>
 </div></blockquote>
 </div>
 </div>
 <div class="section" id="friday">
 <h3>Friday<a class="headerlink" href="#friday" title="Permalink to this headline">¶</a></h3>
-<p>In our third meeting for this lesson there will be a <strong>short quiz</strong> featuring problems adapted from the suggested textbook problems above. After the presentations, we will then discuss …. Finally the topics for the <strong>next lesson</strong> will be introduced. <strong>Look ahead</strong> to Lesson 6 to see what you should prepare for Monday.</p>
+<p>In our third meeting for this lesson there will be a <strong>short quiz</strong> featuring problems adapted from the suggested textbook problems above. After the presentations, we will then discuss the assigment and selected problems. Finally the topics for the <strong>next lesson</strong> will be introduced. <strong>Look ahead</strong> to Lesson 9 to see what you should prepare for Monday.</p>
 <div class="section" id="presentations">
 <h4>Presentations<a class="headerlink" href="#presentations" title="Permalink to this headline">¶</a></h4>
 <blockquote>
-<div><p>Two of you will have been selected on Monday to present the results of the assignment. You will want to ask your presentation partner what they are doing so you can be sure that you are both making different correlations.</p>
+<div><p>Two of you will have been selected on Monday to present the results of the assignment.</p>
 </div></blockquote>
 </div>
 </div>

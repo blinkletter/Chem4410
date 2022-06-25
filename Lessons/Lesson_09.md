@@ -36,14 +36,27 @@ The following assignment is to be submitted via moodle before the Friday meeting
 ### The Instructions
 This section describes the **activity** that you are to perform for the assignment. Do the following&hellip;
 
-> What
+> Ph rate profile assignment
+
+> Choose 3 topics and sample papers for starting your student exploration.
 
 ### The Deliverable
-> What
 
+> Ph rate profile assignment
+
+> Choose 3 topics and sample papers for starting your student exploration.
 
 ### Grading
+
 **Half** of the grade will be for your **answer** and **half** will evaluate how neat, **clear and professional** your are in communicating your answer. Feel free to use a chemical drawing program. Take pride in your work.
+
+### Looking Ahead to the Big One
+
+Each week has an assignment associated with it but now you will be working on two assignements in the remaining weeks. There will be the weekly project and there will be a single longer project that will continue until the end of the course. There will still be only a single assignment due each week but you will want to start this larger capstone assignment early.
+
+The next lesson will have an assignment where you examine an exploration of a literature topic that I have prepared. You will also choose a topic for your own exploration. Choose a topic that you have some interest in and apply the principle s of physical organic chemistry as you investigate the primarty literature. Do not pick a topic and then figure out it doesn't suit your plans two weeks from now.  You need to do preliminary work early.  Choose three topics and look into them and choose the best one for you.
+
+You will see that this weeks assignment includes finding three topics and initial starter literature examples. Who knows where you will end up but you must start now.
 
 ## 9.4 Lesson Schedule
 
@@ -78,11 +91,11 @@ Complete the following problems from Ch. 9: 3, 4, 6, 10, 11, 12, 13 & 16
 
 ### Friday
 
-In our third meeting for this lesson there will be a **short quiz** featuring problems adapted from the suggested textbook problems above. After the presentations, we will then discuss .... Finally the topics for the **next lesson** will be introduced. **Look ahead** to Lesson 6 to see what you should prepare for Monday. 
+In our third meeting for this lesson there will be a **short quiz** featuring problems adapted from the suggested textbook problems above. After the presentations, we will then discuss the assignment and selected problems. Finally the topics for the **next lesson** will be introduced. **Look ahead** to Lesson 10 to see what you should prepare for Monday. 
 
 #### Presentations
 
-> Two of you will have been selected on Monday to present the results of the assignment. You will want to ask your presentation partner what they are doing so you can be sure that you are both making different correlations.
+> Two of you will have been selected on Monday to present the results of the assignment. 
 
 
 ## 9.5 Resources

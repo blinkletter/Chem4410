@@ -1,4 +1,5 @@
 # Lesson 6: Reaction Kinetics
+
 From the first year of your journey in chemistry umtil now, you have been studying reaction kinetics. Rate **laws**, integrated rate **equations**, transition state **theory**, the **Arrhenius** and **Eyring** equations and more are in your toolbox and ready to be deployed as we dive deeper into the nature of this important subject. We will create rate laws for **complex reactions** and plot the integrated rate laws using *Python* tools. We will consider how chemical kinetics experiments are **designed**. We will return to the idea of the **reaction coordinate** and explore how we can interpret the structure of the transition state using **Hammond's postulate**.  
 
 ## 6.1 Lesson Plan
@@ -46,23 +47,20 @@ The following assignment is to be submitted via moodle before the Friday meeting
 ### The Instructions
 This section describes the **activity** that you are to perform for the assignment. Do the following&hellip;
 
-Draw a **reaction coordinate diagram** to demonstrate the following core statements of physical organic chemistry&hellip;
+> Draw a **reaction coordinate diagram** to demonstrate the core statements of physical organic chemistry in the list below. Then **write** a justification of how each diagram demonstrates the idea that you presenting. **Math** can be useful in backing up your explanation. Do **all five** activities.
 - The Hammond Postulate
-- The reactivity-selectivity principle - The Curtin-Hammett principle
+- The reactivity-selectivity principle 
+- The Curtin-Hammett principle
 - Microscopic reversibility
 - Kinetic vs. thermodynamic control
 
-Then **write** a justification of how each diagram demonstrates the idea that you presenting. **Math** can be useful in backing up your explanation. Do **all five** activities and make a clear and professional presenatation of **one** of them as described below.
-
-
 ### The Deliverable
 
-Students will be assigned **one** key postulate or principle to demonstrate in the submitted deliverable. **Choose** a subject using the table below. You will have **randomly** been assigned a topic by drawing cards. **Draw** the reaction coordinate and **explain** how it is consistent with the idea that you are presenting. Make a concise one-page **document** with the diagram appropriately sized and the explanatory text below. Don’t forget a title, you name, a figure legend, etc...
+> Make a clear and professional report of **one** of these core concepts. **Choose** a subject using the table below. You will have **randomly** been assigned a topic by drawing cards. **Draw** the reaction coordinate and **explain** how it is consistent with the idea that you are presenting. Can math help you prove your point?
 
-You may hand-draw the diagram but, when you photograph it, please **adjust** contrast and brightness so that the lines are dark and the paper is white. I cannot interpret shades of grey. I am a graphical extremist. My world is black or white.
+Make a concise one-page **document** with the diagram appropriately sized and the explanatory text below. Don’t forget a title, you name, a figure legend, etc. You may hand-draw the diagram but, when you photograph it, please **adjust** contrast and brightness so that the lines are dark and the paper is white. I cannot interpret shades of grey. I am a graphical extremist. My world is black or white.
 
-**I dare you** to do this by using a vector graphics editor (*Inkscape* is a free exam- ple). Presentation programs like Microspft *Powerpoint* also have drawing tools.
-
+**I dare you** to draw your coordinate diagram by using a vector graphics editor (*Inkscape* is a free example). Presentation programs like Microspft *Powerpoint* also have drawing tools. Hand-drawn is very "kindergarten" and the *Shark Tank*&trade; investors agree with me.
 
 | Card     |    Topic                              |
 | :------- | :-------                              |
@@ -72,11 +70,9 @@ You may hand-draw the diagram but, when you photograph it, please **adjust** con
 | 4 or 9   |  Kinetic vs. thermodynamic control    |
 | 5 or 10  |  The Hammond Postulate                |
 
-
 ### Grading
 
 **Half** of the grade will be for your **answer** and **half** will evaluate how neat, **clear and professional** your are in communicating your answer. Feel free to use a chemical drawing program. Take pride in your work.
-
 
 ## 6.4 Lesson Schedule
 
@@ -85,14 +81,23 @@ You may hand-draw the diagram but, when you photograph it, please **adjust** con
 You will **review** the basics of chemical kinetics **on your own**. (Ch. 7.1, 7.2 and 7.4. We will **start** the meeting reviewing the basic assumptions of physical chemistry (Ch. 7.3) and then **demonstrate** the math of some complex rate laws (Ch. 7.5). We will briefly remind ourselves about **integrating** simple rate laws. The integration of complex rate equations will be demonstrated using *Python* numerical method tools. We can integrate anything without actually integrating. 
 
 #### Reading
+
 > **Read** Chapter 7.1 to 7.5
+
 #### Suggested Problems
+
 > **Attempt** the following problems from Ch. 7: 3-7, 9, 11, 13 & 14
+
 ### Wednesday
+
 The idea of **transition state structure** and how it can be influenced by changes in the reactants or environment will be discussed. The More-O'Farrel-jencks plot will be introduced as a tool for **visualizing** this concept.  
+
 #### Reading
+
 > **Read** Chapter 7.6 to 7.8
+
 #### Suggested Problems
+
 > **Attempt** the following problems from Ch. 7: 8, 10, 12, 15–17 & 23–25
 
 ### Friday
@@ -103,9 +108,10 @@ There will be a **short quiz** featuring problems adapted from the suggested tex
 
 Two of you will have been **selected** on Monday to present the results of the assignment. Imagine you are the professor trying to **explain** your idea to the class.
 
-## 5.5 Resources
+## 6.5 Resources
 
 ### Jupyter Notebooks
+
 The following notebooks have been made in advance and are available on the moodle site.
 1. [Graphing Integrated Rate Laws](Resource_Moodle_Link.md)  TBA
 2. [3D Energy Surface](Resource_Moodle_Link.md)  TBA 
