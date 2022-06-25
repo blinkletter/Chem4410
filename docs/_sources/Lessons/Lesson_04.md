@@ -21,11 +21,7 @@ After reading the suggested textbook section and practicing the problems you sho
 
 The following assignment is to be submitted via moodle before the Friday meeting.
 
-<<<<<<<< HEAD:docs/_sources/Lessons/Lesson_04.md
 ### The Instructions
-========
-### Instructions
->>>>>>>> 2acb493443590655e216370fab1d864945db1bc7:_build/html/_sources/Lessons/Lesson_04 3.md
 This section describes the **activity** that you are to perform for the assignment. Do the following&hellip;
 
 > **Make a plot** of the IR stretching frequencies for covalent bonds vs. the corresponding bond dissociation energies. Does IR stretching frequency **correlate** with a measure of bond strength? Use a spreadsheet program or Jupyter notebook for creating the graph. 

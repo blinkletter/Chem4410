@@ -24,11 +24,7 @@ After reading the suggested textbook section and practicing the problems you sho
 
 The following assignment is to be submitted via moodle before the Friday meeting.
 
-<<<<<<<< HEAD:docs/_sources/Lessons/Lesson_03.md
 ### The Instructions
-========
-### Instructions
->>>>>>>> 2acb493443590655e216370fab1d864945db1bc7:_build/html/_sources/Lessons/Lesson_03 3.md
 This section describes the **activity** that you are to perform for the assignment. Do the following&hellip;
 
 > **Install** GAMESS and related programs on your computer. Perform calculations as demonstrated in the Monday and Wednesday meetings on your own. Try molecules of your own choice as you repeat the methods demonstrated in class. <br>

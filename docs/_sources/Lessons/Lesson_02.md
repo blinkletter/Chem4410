@@ -30,11 +30,7 @@ After reading the suggested textbook section and practicing the problems you sho
 
 The following assignment is to be submitted via moodle before the Friday meeting.
 
-<<<<<<<< HEAD:docs/_sources/Lessons/Lesson_02.md
 ### The Instructions
-========
-### Instructions
->>>>>>>> 2acb493443590655e216370fab1d864945db1bc7:_build/html/_sources/Lessons/Lesson_02 3.md
 This section describes the **activity** that you are to perform for the assignment. Do the following&hellip;
 
 > **Consider** the two arrow-pushing in {numref}`directive-fig` below for the formation of a carbocation from an alkene and from a ketone. **Do you agree** with the arrow pushing? Think about how the arrow-pushing fits with what you know about the **frontier molecular orbitals** involved.
@@ -114,7 +110,7 @@ In our third meeting for this lesson there will be a **short quiz** featuring pr
 
 The following notebooks have been made in advance and are available in Jupyter-book format. The individual Jupyter notebooks can be downloaded via a link at the top of each chapter in the Jupyter-book.
 
-1. [Python and Chemistry](https://blinkletter.github.io/MathWithPython/)
+1. [Python and Chemistry](Resource_Moodle_Link.md)
      - A Jupyter-book introducing some basic skills in using Python to perform calculations and make plots for chemistry. Feel free to cut and paste all the code for your own projects.
 
 2. [HMOT calculations using Python](Resource_Moodle_Link.md)

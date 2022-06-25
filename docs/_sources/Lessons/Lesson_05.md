@@ -30,11 +30,7 @@ After reading the suggested textbook section and practicing the problems you sho
 
 The following assignment is to be submitted via moodle before the Friday meeting.
 
-<<<<<<<< HEAD:docs/_sources/Lessons/Lesson_05.md
 ### The Instructions
-========
-### Instructions
->>>>>>>> 2acb493443590655e216370fab1d864945db1bc7:_build/html/_sources/Lessons/Lesson_05 3.md
 This section describes the **activity** that you are to perform for the assignment. Do the following&hellip;
 
 > Create a **plot** of one set of *pK<sub>a</sub>* values against a set of related *pK<sub>a</sub>* values. Perhaps plot *pK<sub>a</sub>* values in water vs. *pK<sub>a</sub>* values in DMSO. Or plot *pK<sub>a</sub>* values in water vs. gas phase. Or plot *pK<sub>a</sub>* values of **substituted benzoic acids** agains *pK<sub>a</sub>* values of substituted phenols or substituted pyridines or substituted something else. An example will be presented in class so you will know exactly what to do.

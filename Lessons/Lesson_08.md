@@ -25,12 +25,12 @@ ics
 ## 8.2 Learning Goals
 After reading the suggested textbook section and practicing the problems you should be able to&hellip;
 
-• Interpret data from LFER experiments and draw conclusions about the structure of transition states or high energy intermediates.
-• Describe what the parameters of various LFER plots measure and how the reference reaction was set up.
-• Evaluate the suitability of a give LFER approach for a given investigation.
-• Predict the likely effects if a substituent on a reaction centre (inductive, resonance, field and steric effects).
-• Use Hammett plots to make conclusions about the structure of a transition state or high energy intermediate in a reaction.
-• Correctly use the Brown-Okamoto parameters (&sigma;<sup>+</sup>, &sigma;<sup>-</sup>) when required.
+- Interpret data from LFER experiments and draw conclusions about the structure of transition states or high energy intermediates.
+- Describe what the parameters of various LFER plots measure and how the reference reaction was set up.
+- Evaluate the suitability of a give LFER approach for a given investigation.
+- Predict the likely effects if a substituent on a reaction centre (inductive, resonance, field and steric effects).
+- Use Hammett plots to make conclusions about the structure of a transition state or high energy intermediate in a reaction.
+- Correctly use the Brown-Okamoto parameters (&sigma;<sup>+</sup>, &sigma;<sup>-</sup>) when required.
 - Understand the usefulness of parameters that score phytsical properties, such a size of a substituent, in QSAR.
 
 
