@@ -1,11 +1,10 @@
 # Lesson 2: Molecular Structure
 What holds the world together? **Chemical bonds**. What are they? They are not lines or dots, they are an arrangement of electrons and nuclei that are lower in energy than other options. Let us explore what bonds really are by considering the **electronic structure** of a molecule.
 
------
 ## 2.1 Lesson Plan
-The plan below is not necessarily what will happen in class – it is merely what I **hope** will happen in class. We will explore the following subjects and ideas$\ldots$
+The plan below is not necessarily what will happen in class – it is merely what I **hope** will happen in class. We will explore the following subjects and ideas&hellip;
 - **Electronic structure** in molecules: Lewis structure and VSEPR theory 
-- **Hybrid orbitals**, &pi; and $\sigma$ bonds and resonance
+- **Hybrid orbitals**, &pi; and &sigma; bonds and resonance
 - Constructing **Molecular orbitals** (the textbook presents a fairly complicated method for building accurate molecular orbitals using hybrid orbitals. I will be presenting a simpler method that produces less accurate but equally useful molecular orbitals for interpreting reactivity). 
 - We will **construct molecular orbitals** for alkenes, ketones and enolates and discuss how the shape and size of the orbitals directs reactivity. **See the Molecular Orbital Tutorial** described in the resources section below and available on the Moodle site.
 - We will then explore how molecular orbital theory revelas details that Lewis structure cannot and explore this idea using **Hückel Molecular orbital theory (HMOT)**.
@@ -16,9 +15,8 @@ The plan below is not necessarily what will happen in class – it is merely wha
         - The example of naphthalene and azulene
 - The computational; power of **Python** will be introduced along with the convenience of **Jupyter Notebooks**. 
 
------
 ## 2.2 Learning Goals
-After reading the suggested textbook section and practicing the problems you should be able to$\ldots$
+After reading the suggested textbook section and practicing the problems you should be able to&hellip;
 
 - Understand how **hydrid orbitals** are constructed from atomic orbitals according to bond angles.
 - Calculate the **hydridization** of a carbon atom from bond angles and use this information to **interpret electronic structure**.
@@ -28,13 +26,12 @@ After reading the suggested textbook section and practicing the problems you sho
 - Be able to use interactive **Python** to solve computational problems.
 
 
------
 ## 2.3 Assignment \#2
 
 The following assignment is to be submitted via moodle before the Friday meeting.
 
-### Instructions
-This section describes the **activity** that you are to perform for the assignment. Do the following$\ldots$
+### The Instructions
+This section describes the **activity** that you are to perform for the assignment. Do the following&hellip;
 
 > **Consider** the two arrow-pushing in {numref}`directive-fig` below for the formation of a carbocation from an alkene and from a ketone. **Do you agree** with the arrow pushing? Think about how the arrow-pushing fits with what you know about the **frontier molecular orbitals** involved.
 
@@ -47,7 +44,7 @@ name: directive-fig
 ```
 
 
-### The Report
+### The Deliverable
 > **Create** a document in which you present the approximate  **molecular orbital diagram** for each reactant and **identify** the **frontier molecular orbitals**. Using this information either **confirm or criticize the arrow pushing**. Be brief in your explanation but be clear. Provide a corrected reaction scheme if needed.
 
 
@@ -56,7 +53,6 @@ name: directive-fig
 
 
 
------
 ## 2.4 Lesson Schedule
 
 ### Monday 
@@ -66,7 +62,7 @@ We will begin with a discussion of **Lewis structure** and how it is surprisingl
 #### Reading
 
 > **Read** Chapter 1.1 to 1.4 (feel free to skim section 1.2 and 1.3) <br>
-> **Read** the [Molecular orbital Tutorial](Resource_Moodle_Link.ipynb) described in the resources described below and available on the moodle page. <br>
+> **Read** the [Molecular orbital Tutorial](Resource_Moodle_Link.md) described in the resources described below and available on the moodle page. <br>
 > Read the instructions and **install** the **Anaconda** package. This will give you the tools to use Jupyter notebooks and Python.
 
 #### Suggested Problems
@@ -84,7 +80,7 @@ We will use a Python tool to **easily and quickly calculate** the molecular orbi
 
 > **Read** Chapter 14.3 & 14.5 <br>
 > **Examine** the Jupyter-book [introducing Python](https://blinkletter.github.io/MathWithPython/) described in the resources section below and available on the moodle page <br>
-> **Examine** the Jupyter-book for [HMOT calculations](Resource_Moodle_Link.ipynb) described in the resources section below and available on the moodle page
+> **Examine** the Jupyter-book for [HMOT calculations](Resource_Moodle_Link.md) described in the resources section below and available on the moodle page
 
 #### Suggested Problems
 
@@ -106,7 +102,6 @@ In our third meeting for this lesson there will be a **short quiz** featuring pr
 
 > **Explore** the Jupyter notebooks and change them to calculate the &pi;-MOs of a molecule of your choice. Please **practice** with them before the Friday meeting.
 
-------
 ## 2.5 Resources
 
 ### For This Lesson
@@ -118,13 +113,13 @@ The following notebooks have been made in advance and are available in Jupyter-b
 1. [Python and Chemistry](https://blinkletter.github.io/MathWithPython/)
      - A Jupyter-book introducing some basic skills in using Python to perform calculations and make plots for chemistry. Feel free to cut and paste all the code for your own projects.
 
-2. [HMOT calculations using Python](Resource_Moodle_Link.ipynb)
+2. [HMOT calculations using Python](Resource_Moodle_Link.md)
     - A Jupyter-book that will take you through some ways to use Python to perform simplified Hückel molecular orbital 
 
 
 #### Molecular Orbital Theory
 
-1.  [Molecular Orbital Tutorial](Resource_Moodle_Link.ipynb)
+1.  [Molecular Orbital Tutorial](Resource_Moodle_Link.md)
     - I wrote this review to present a simpler method for constructing a molecular orbital system than that given in the text- book. The textbook method is better and more generally applicable. My method is lesser in every category but works well most of the time. A PDF file on the moodle site
 
 ### Extra Resources

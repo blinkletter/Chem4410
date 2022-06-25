@@ -1,6 +1,14 @@
-# Course Description
+# Course Information
 
-This course examines the qualitative and quantitative **relationships** between the **rates and mechanisms** of organic reactions, and the **electronic and physical structures** of reactants. Among the topics considered are: theory and applications of inductive and resonance effects, **linear free energy relationships**, kinetic isotope effects, solvent effects, steric effects in substitution and elimination reactions, acids and bases and pericyclic reactions, applications of semi-empirical and ab initio molecular orbital calculations. **Prerequisite**: Chemistry 2420, 3420
+## Description
+
+This course examines the qualitative and quantitative **relationships** between the **rates and mechanisms** of organic reactions, and the **electronic and physical structures** of reactants. Among the topics considered are: theory and applications of inductive and resonance effects, **linear free energy relationships**, kinetic isotope effects, solvent effects, steric effects in substitution and elimination reactions, acids and bases and pericyclic reactions, applications of semi-empirical and ab initio molecular orbital calculations. 
+
+Course materials and communications are available through Moodle.
+
+## Prerequisite: 
+
+Chemistry 2420, 3420
 
 ## Where \& When
 We meet in KCI 202 at 9:30 on MWF.
@@ -12,22 +20,17 @@ BSc. - University of Prince Edward Island  <br>
 PhD. – McGill University (Jik Chin)<br>
 Post Doc. – University of California at Santa Barbara (T.C. Bruice)
 
-### Contact Information
 Room 213 <br>
 KCI Chemistry Building <br>
 628-4328 <br>
 blinkletter@upei.ca <br>
-Course materials and communications are available through Moodle.
 
 
 ## Office Hours
-I will be **available** for office hours at the times listed below. you can also make an appointment. 
+I will be **available** for office hours at the times listed below. you can also make an appointment. You can meet me in person or by web conference.
 
 ### Schedule
-Monday to Thursday: 10:30 – 11:15 in my office.
-
-### Preparation 
-Come **prepared** with your question and be able to describe the problem and your attempts to solve it. Do not come to my office and expect to go through the notes of the entire class or just be handed an answer. You should read the book, talk with classmates and make a real attempt to solve the problem before coming to me. It is my goal to develop the **independent** learning skills of my students. You can solve any problem if you apply the necessary resources. Be confident, plunge ahead and come to me if you get stuck.
+Monday to Thursday: 10:30 – 11:15
 
 
 ## Textbook
@@ -58,7 +61,7 @@ On **Friday**, two of you will be selected to present their work on their assign
 | :-------------   | :----- |
 | Class activities | 30%    | 
 | Assignments	   | 30%    |
-| Presentation	   | 10%    |
+| Presentations	   | 10%    |
 | Class quizzes	   | 30%    |
 
 This grading scheme is open for revision. Any ideas?.
@@ -70,7 +73,7 @@ You will be evaluated on your preparedness for lectures. Students are expected t
 Each week will feature an **assignment** to be completed. Most of these assignments will involve writing a **short report**. Students will have at least 4 days to complete an assignment and submit the report. Late reports will not be accepted without a valid reason. Reports are to be your own **individual work**. 
 
 ### Presentation
-There will a **major presentation** during the course by each student. Your presentation is to be short but substantial (10 to 15 minutes). Each presentation must be accompanied by a handout for your fellow students. More details will be available when the topics are assigned.
+There will two or three **presentations** by each student during this course. Your presentation is to be short but substantial (less than 10 minutes). Each presentation will feature your work on an assignment or part of an assignment. You will be **tasked** in turn with a week's notice. More details will be available when the topics are assigned.
 
 ### Class Quizzes
 Most weeks will have a short **class quiz** on Friday. You will be given a list of possible quiz topics or questions (this will usually be the textbook problems assigned for Mondays and Wednesday). The quiz will be based on a selection of those. If a student cannot attend a test, they must have a valid reason and must inform the instructor in advance of the test to make alternate arrangements. 

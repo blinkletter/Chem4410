@@ -16,7 +16,7 @@ One of the most obvious ways to show the affect of structure on the energy of a 
 
 Now we will move into topics that are familiar but include new ideas for interpreting how structure affects reactivity. 
 
-To fully understand how structure influences reactivity, we must understand the path from reactant to product. We will develope a deeper understanding of the **reaction coordinate and the transition state**. We will see how changing the structure of reactants can change the timing of bond changes in the transition state. We will express this via 2-dimensional reaction coordinate diagrams and 3-dimensional reaction **energy surfaces** as we try to get as close to the truth as simple line drawings will permit.
+To fully understand how structure influences reactivity, we must understand the path from reactant to product. We will develop a deeper understanding of the **reaction coordinate** and the **transition state**. We will see how changing the structure of reactants can change the timing of bond changes in the transition state. We will express this via 2-dimensional reaction coordinate diagrams and 3-dimensional reaction **energy surfaces** as we try to get as close to the truth as simple line drawings will permit.
 
 We will encounter **acid/base chemistry** yet again. The fifth time is the charm. The math of acid equilibria will be explored using computational tools and we will leave the world of water behind and experience a place where strong acids show their true power. How can you **measure** the *pH* of pure sulphuric acid? Physical organic chemistry will show you.
 
@@ -31,7 +31,7 @@ Even tiny changes can have measurable effects. Exchanging a hydrogen for **deute
 
 We can interpret the details in chemical reaction mechanism through other observations and detective work. There are many **clever methods** and we will explore several options and encounter others as we consider examples of physical organic chemistry.
     
-## Examples 
+## Explorations \& Examples 
 
 **We can go anywhere** now. What would you like to investigate? Each year we will create a body of work that future students can build on.  We will begin with biologically relevant **examples of catalysis** and then we will **go wherever you wish**. Would you like to explore physical organic chemistry as it is applied to a **particular problem**? Would you like to **survey the work** of a significant physical organic chemist? We can do anything. And we will record it all in the form of a Jupyterbook and perhaps we might even contribute to wikipedia.
 
@@ -45,15 +45,16 @@ Below is a list of topics and the corresponding textbook sections.
 | :---- | :--------------------------------------- | :----------------------- |
 |1	    |Remembering the Past	                   | Appendix 5 & handout     |
 |2	    |Molecular structure	                   | Ch. 1 & handout          | 
-|3	    |Calculating bonds \& molecular orbitals   | Ch. 1 \& Ch. 14          | 
+|3	    |Calculating bonds \& molecular orbitals   | Ch. 14 \& 15          | 
 |4	    |Thermochemistry and Steric Strain	       | Ch. 2                    |
 |5	    |Acids and Bases	                       | Ch. 5                    |
-|6	    |Break Week	                               |                          |
-|7	    |Kinetics and Transition States            | Ch. 7                    |
+|	    |Break Week	                               |                          |
+|6	    |Kinetics and Transition States            | Ch. 7                    |
+|7	    |Tools of Physical Organic Chemistry	   | Ch. 8.1 & 8.8            |
 |8	    |Tools of Physical Organic Chemistry	   | Ch. 8.2 to 8.7           |
-|9	    |Tools of Physical Organic Chemistry	   | Ch. 8.1                  |
-|10	    |Catalysis	                               | Ch.9                     |
-|11	    |Student Exploration	                   | Primary Literature                  |
-|12	    |Example Reaction Mechanisms	           | Ch. 10 \& 11             |
-|13	    |Example Reaction Mechanisms	           | Ch. 10 \& 11             |
+|9 	    |Catalysis	                               | Ch.9                     |
+|10	    |Student Exploration	                   | Textbook & primary literature                  |
+|11	    |"Non-classical Cations or Nonsense?"  | Ch. 11.5, 14.5 and literature            |
+|12	    |Current Events and Recent Literature    | Ch. 10 \& 11 and literature             |
+|13	    |Review and Wrap-up    | Ch. 10 \& 11 and literature             |
 

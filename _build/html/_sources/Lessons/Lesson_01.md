@@ -1,27 +1,26 @@
-
 # Lesson 1: Remembering The Past
 Life is about **making** things and **breaking** things, mostly chemical bonds. All of the reactions of the famous **glycolysis** pathway can be understood using organic chemistry. A deeper understanding of **physical organic chemistry** will enable you to interpret how **enzymes** provide the catalysis that enables the pathway to operate at the speed needed to be meaniful in providing **energy** for cells. Let us embark on our journey to greater understanding of all chemical reactions that make and break bonds by **reviewing** a small slice of our **previous experience**.
 
 Our first two meetings will focus on reviewing organic chemistry.  
 
-## How to Use a Lesson
-
+```{admonition} How to Use a Lesson
 **Each week** is organized as a **lesson** in an aspect of physical organic chemistry. Each lesson will contain the **lesson plan and learning goals** for the week. This will be followed by a description of the **assignment** due at the end of the week. Then there will be a schedule of **readings and suggested problems** for each day of the week. The lesson will end with a list of **resources** (if any) that are available on the course moodle page. Follow along with the lesson below and find all of these elements for yourself.
+```
 
-----
 ## 1.1 Lesson Plan  
 
 The lesson plans presented in this document are the **ideas** that I hope to explore over the **week** of a given lesson. The plan below is not necessarily what will happen in class – it is merely what I **hope** will happen in class. If we **miss** some of these points I suggest that you **read** about those ideas in the textbook, whether we discuss them in class or not.
 
 - **Arrow pushing** for. . .
-    - $S_N2$ substitution in amine synthesis: propylamine + bromobutane 
-    - $E2$ elimination of bromobutane by propylamine
-    - $S_N1$ solvolysis of t-butyl bromide
-    - $E1$ elimination in t-butyl bromide
+    - *S<sub>N</sub>2* substitution
+    - *E2* elimination
+    - *S<sub>N</sub>1* 
+    - *E1* elimination
+    - Addition and Substitution at carbonyl groups
 - Arrow pushing rules: **do and don’ts**
     - Wrong way arrows
     - Octet rule (keep track of bonds to hydrogen and lone pairs)
-    - Bad habits with electrons (lone pairs are the nucleophile, etc...)
+    - Good habits with electrons (lone pairs are the nucleophile, etc...)
     - Are you in acid or base? Pick one and stay there!
     - Common shortcuts that we will NOT be using in this course.
 - Arrow pushing in **conjugated systems**
@@ -35,7 +34,7 @@ The lesson plans presented in this document are the **ideas** that I hope to exp
     
 ## 1.2 Learning Goals
 
-After **reading** the suggested textbook sections, **practicing** the problems and completing the activities of the **assignment** you should be able to$\ldots$
+After **reading** the suggested textbook sections, **practicing** the problems and completing the activities of the **assignment** you should be able to&hellip;
 
 - **Name** simple molecules, identify **stereochemistry**, predict products of addition, elimination and substitution (simple, acyl and aromatic) reactions.
 - Propose the **synthesis** of simple molecules using carbon nucleophiles and functional group transformations.
@@ -45,18 +44,17 @@ After **reading** the suggested textbook sections, **practicing** the problems a
 - Make a reasonable **proposal** for the mechanism of unfamiliar reactions using the **rules** of Lewis structure and your understanding of resonance. 
 
 
-----
 ## 1.3 Assignment
 
 Each lesson has an assignment. It will be introduced on the Friday before the lesson and will be due on the Friday of the lesson. Our first week is short so the assignment is small. It is to be handed in Friday before class meeting via moodle. 
 
-### Instructions
+### The Instructions
 
-This section describes the **activity** that you are to perform for the assignment. Do the following$\ldots$
+This section describes the **activity** that you are to perform for the assignment. Do the following&hellip;
 > **Review** your organic chemistry. <br>
 > **Answer** questions 2C, 2E, 3B, 3E and 3H at the end of appendix 5.
 
-### The Report
+### The Deliverable
 
 This section describes the **deliverable** that you are to produce for this assignment. 
 
@@ -76,7 +74,7 @@ Use the **table below** to match the **last digit** of your student number to th
 
 Half of the grade will be for your **answer** and half will evaluate how neat, **clear and professional** your work is. Feel free to use a chemical drawing program.
 
-#### A Note About Deliverables
+```{admonition} A Note About Deliverables
 
 The deliverable is what you ”deliver” to your instructor. Quite often **assignments** will have many questions to answer, but students will be assigned a subset of those questions to include in a **report**. Always **read the instructions** and deliverable sections carefully. These detail what I want you to do and what I want you to hand in to me. Use this information to give me what I want - the customer is always right.
 
@@ -85,14 +83,16 @@ The report that you submit should be prepared **using a computer**. All structur
 Submit your report via Moodle. All assignment reports can be submitted using the corresponding link that will be present in the Moodle page. Click on the link and follow the instructions to submit your report. Only **PDF files** will be accepted.
 
 In the modern world, documents are exchanged electronically. Printing is unnecessary and wasteful. Please create a **PDF file** containing your report. Use a word processor to create a document with a **title** and **author** and any other explanatory text that you care to add. Include citations of literature if needed. Size any figures or images appropriately and use figure legends. After it all looks **sharp and professional**, export the document as a PDF. Then **upload** the PDF to moodle.
+```
 
-#### “Boss Quality" Documents
+
+``` {admonition} “Boss Quality" Documents
 
 In this course you are not only **exploring** advanced topics in chemistry and **mastering** your chemical instincts, you are preparing to depart from the cocoon and spread your wings in the wide world. It is time to pay attention to details that are more important in the real world than they are here. One of these is the **impression** that your work gives to those who receive it. It is not enough to be correct, you need to **effectively communicate** with others. Whether you are writing a document for your first boss or for your early investors, you will need to be **clear and easily understood**. The quality of your writing and the appearance of your work are going to matter. Presenting sloppy work shows a lack of respect for the people who are receiving it.
 
-What kind of report would you hand to your boss? She will forgive your mistakes, but sloppy work will forever **define you** in the eyes of others. **First impressions matter** in every aspect of life. Don’t let the first impression of your work be a poor one. This course does not require "fancy", it only required "**boss quality**". What would you hand if if you had a job that you wanted to keep?
+What kind of report would you hand to your boss? She will forgive your mistakes, but sloppy work will forever **define you** in the eyes of others. **First impressions matter** in every aspect of life. Don’t let the first impression of your work be a poor one. This course does not require "fancy", it only required "**boss quality**". What would you hand in if you had a job that you wanted to keep?
+```
 
-----
 ## 1.4 Lesson Schedule
 
 ### Wednesday
@@ -109,9 +109,9 @@ During our first meeting we will attempt a few selections the following **proble
 
 > **Problems**: Appendix 5 - 1, 2, 3 & 4
 
-##### A Note on Suggested Problems
-I am often asked **what to expect** on the tests. I can’t tell you what the questions will be, but I can say there will be **few surprises** if you do the suggested problems from the textbook and the assignments.
-
+```{admonition} A Note on Suggested Problems
+I am often asked **what to expect** on the class quizzes and tests. I can’t tell you what the questions will be, but I can say there will be **few surprises** if you do the suggested problems from the textbook and the assignments.
+```
 
 ### Friday
 In our second meeting there will be a **short quiz** featuring a few of the reactions that you were given to review. We will **discuss** the problems suggested previously from appendix 5. be prepared to contribute. We will try to define what is meant by the words "physical organic chemsitry" and I will also introduce my vision of wrapping the activities of this course around computer tools. Finally the topics for the **next lesson** will be introduced. **Look ahead** to Lesson 2 to see what you should prepare for Monday. 
@@ -122,32 +122,32 @@ For this second meeting in the course I would like you to **come prepared** to d
 >  **Read** the preface of your textbook (pages xxiii to xxiv) <br>
 >  **Read** "Physical-Organic Chemistry: A Swiss Army Knife." G.M. Whitesides, *Isr. J. Chem.*, **2016**, *56*, 66-82. https://doi-org.proxy.library.upei.ca/10.1002/ijch.201500061
 
-##### A Note on Links to Journals
+```{admonition} A Note on Links to Journals
 I will only ask you to read journal articles to which UPEI has **subscription access**. However, you may find these links only work on campus. So you will want to **plan ahead** and download any journal articles while you are on campus. Many journals are "open access", but many are not.
+```
 
-----
 ## 1.5 Resources
-You may find the following resources useful as you explore the ideas for today's meeting. **Links** to these resources are [available on the moodle page](Resource_Moodle_Link.ipynb). The most important resource in this course will be your textbook but always look for more.
+You may find the following resources useful as you explore the ideas for today's meeting. **Links** to these resources are [available on the moodle page](Resource_Moodle_Link.md). The most important resource in this course will be your textbook but always look for more.
 
 ### For This Lesson
 These **resources** are directly related to this lesson and may be assigned reading. 
 
 1. [Textbook Table of Contents](https://uscibooks.aip.org/wp-content/uploads/adfm_new.pdf)
       - This is the front matter from the textbook.
-2. [Appendix 5 problems](Resource_Moodle_Link.ipynb)
+2. [Appendix 5 problems](Resource_Moodle_Link.md)
       - I have copied these **questions from the textbook** and made them available on the Moodle site. Please acquire a copy of the textbook soon as I won’t be able to do this again. Respect copyright — someday you may be an author.
       
 ### Organic Chemistry Review
 
 These are **extra resources** intended to provide more information for reviewing your previous organic chemistry.
 
-3. [Organic Chemistry Review](Resource_Moodle_Link.ipynb) 
+3. [Organic Chemistry Review](Resource_Moodle_Link.md) 
       - I wrote this as a review of organic chemistry for students who are beginning my biochemistry course.
-4. [Review of Organic Chemistry: Nucleophilic Carbon](Resource_Moodle_Link.ipynb) 
+4. [Review of Organic Chemistry: Nucleophilic Carbon](Resource_Moodle_Link.md) 
       - I wrote this as a supplement for my advanced organic chemistry course as a review of enolate chemistry. It is brief and not very comprehensive but may be helpful. 
-5. [Summary of Organic Chemistry](Resource_Moodle_Link.ipynb) 
+5. [Summary of Organic Chemistry](Resource_Moodle_Link.md) 
       - I started writing this as an overview of Or- ganic Chemistry for Life Sciences, Chem 243. It was never finished but what is there may be helpful. 
-6. [A Chemistry Toolkit](Resource_Moodle_Link.ipynb)
+6. [A Chemistry Toolkit](Resource_Moodle_Link.md)
       - I wrote this as a review of introductory chemistry for my beginning organic chjemistry students. It’s been a long time since your first year. How much do you recall? 
 7. [Virtual Textbook of Organic Chemistry](https://www2.chemistry.msu.edu/faculty/reusch/virttxtjml/intro1.htm)  
       - This is a link to the free textbook by William Reusch. It is a serviceable overview of organic chemistry and it is free. 
@@ -159,7 +159,7 @@ These are **extra resources** intended to provide more information for reviewing
       - Another take on arrow pushing in organic chemical mechanisms from the University of Wisconsin. 
 11. [Organic Chemistry Mechanisms](http://higheredbcs.wiley.com/legacy/college/spencer/047165552X/modules/mod6.pdf)
       - This is a link to a module of an out-of-print textbook from Wiley.
-12. [Organic Chemistry Mechanism Problems with Answers](Resource_Moodle_Link.ipynb) 
+12. [Organic Chemistry Mechanism Problems with Answers](Resource_Moodle_Link.md) 
       - This is a set of problems curated by Sergio Cortes of the University of Texas at Dallas. Try them out before checking the answers.
 
 ### More, More!
@@ -187,37 +187,3 @@ https://www.sigmaaldrich.com/CA/en  <br>
 http://www.chemspider.com/  <br>
 https://www.rsc.org/merck-index
 
-#### Links for Me
-
-##### ACS Symposium Series
-
-- [Free Energy Methods in Drug Discovery: Current State and Future Directions](https://pubs.acs.org/isbn/9780841298064)
-- [Advances in Online Chemistry Education](https://pubs.acs.org/isbn/9780841298231)
-- [Teaching Programming across the Chemistry Curriculum](https://pubs.acs.org/isbn/9780841298194)
-- [Contextualizing Chemistry in Art and Archaeology: Inspiration for Instructors](https://pubs.acs.org/isbn/9780841298330)
-- [Engaging Students in Organic Chemistry](https://pubs.acs.org/isbn/9780841298446)
-- [NMR Spectroscopy in the Undergraduate Curriculum, Volume 4: In-Person and Distance Learning Approaches](https://pubs.acs.org/isbn/9780841298507)
-- [Complete Accounts of Integrated Drug Discovery and Development: Recent Examples from the Pharmaceutical Industry Volume 3](https://pubs.acs.org/isbn/9780841298644)
-- [Complete Accounts of Integrated Drug Discovery and Development: Recent Examples from the Pharmaceutical Industry Volume 2](https://pubs.acs.org/isbn/9780841234321)
-- [Complete Accounts of Integrated Drug Discovery and Development: Recent Examples from the Pharmaceutical Industry Volume 1](https://pubs.acs.org/isbn/9780841233980)
-- [Integrating Professional Skills into Undergraduate Chemistry Curricula](https://pubs.acs.org/isbn/9780841298668)
-- [Building Your Best Chemistry Career Volume 1: Academic Perspectives](https://pubs.acs.org/isbn/9780841237988)
-- [Building Your Best Chemistry Career Volume 2: Corporate Perspectives](https://pubs.acs.org/isbn/9780841298705)
-- [Building Your Best Chemistry Career Volume 3: Broader Perspectives](https://pubs.acs.org/isbn/9780841298682)
-- [Mechanistic Enzymology: Bridging Structure and Function](https://pubs.acs.org/isbn/9780841298842)
-- [Chemistry Student Success: A Field-Tested, Evidence-Based Guide](https://pubs.acs.org/isbn/9780841236844)
-- [Chemistry Education for a Sustainable Society Volume 1: High School, Outreach, & Global Perspectives](https://pubs.acs.org/isbn/9780841237551)
-- [Chemistry Education for a Sustainable Society Volume 2: Innovations in Undergraduate Curricula](https://pubs.acs.org/isbn/9780841237575)
-- [From General to Organic Chemistry: Courses and Curricula to Enhance Student Retention](https://pubs.acs.org/isbn/9780841237483)
-- [Active Learning in General Chemistry: Specific Interventions](https://pubs.acs.org/isbn/9780841237520)
-- [Biochemistry Education: From Theory to Practice](https://pubs.acs.org/isbn/9780841236332)
-- [Active Learning in Organic Chemistry: Implementation and Analysis](https://pubs.acs.org/isbn/9780841236295)
-- [Communication in Chemistry](https://pubs.acs.org/isbn/9780841235106)
-- [Videos in Chemistry Education: Applications of Interactive Tools](https://pubs.acs.org/isbn/9780841234925)
-- [Active Learning in General Chemistry: Whole-Class Solutions](https://pubs.acs.org/isbn/9780841236660)
-- [It’s Just Math: Research on Students’ Understanding of Chemistry and Mathematics](https://pubs.acs.org/isbn/9780841234352)
-- [Chemistry’s Role in Food Production and Sustainability: Past and Present](https://pubs.acs.org/isbn/9780841234284)
-- [Using Computational Methods To Teach Chemical Principles](https://pubs.acs.org/isbn/9780841234208)
-- [The Posthumous Nobel Prize in Chemistry. Volume 2. Ladies in Waiting for the Nobel Prize](https://pubs.acs.org/isbn/9780841233911)
-- [Citizens First! Democracy, Social Responsibility and Chemistry](https://pubs.acs.org/isbn/9780841233577)
-- [Best Practices for Chemistry REU Programs](https://pubs.acs.org/isbn/9780841233539)
