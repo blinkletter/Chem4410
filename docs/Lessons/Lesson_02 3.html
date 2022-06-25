@@ -51,6 +51,8 @@ const thebe_selector_input = "pre"
 const thebe_selector_output = ".output, .cell_output"
 </script>
     <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <script>window.MathJax = {"options": {"processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
+    <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
     <link rel="next" title="Lesson 3: Computational Chemistry" href="Lesson_03.html" />
@@ -106,22 +108,17 @@ const thebe_selector_output = ".output, .cell_output"
 <ul class="nav bd-sidenav">
  <li class="toctree-l1">
   <a class="reference internal" href="../Info/Course_Info.html">
-   Course Information
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="../Info/Outline.html">
-   Course Outline
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="../Info/Outcomes.html">
-   Outcomes
+   Course Description
   </a>
  </li>
  <li class="toctree-l1">
   <a class="reference internal" href="../Info/Resources.html">
    Essential Tools
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../Info/Outline.html">
+   Course Outline
   </a>
  </li>
 </ul>
@@ -154,26 +151,6 @@ const thebe_selector_output = ".output, .cell_output"
  <li class="toctree-l1">
   <a class="reference internal" href="Lesson_05.html">
    Lesson 5: Acids and Bases
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="Lesson_06.html">
-   Lesson 6: Reaction Kinetics
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="Lesson_07.html">
-   20 Isotope Effects 20.1 Deliverable
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="Lesson_08.html">
-   21 Substituent Effects
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="Lesson_09.html">
-   26 Catalysis
   </a>
  </li>
 </ul>
@@ -279,13 +256,13 @@ const thebe_selector_output = ".output, .cell_output"
   </a>
   <ul class="nav section-nav flex-column">
    <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#the-instructions">
-     The Instructions
+    <a class="reference internal nav-link" href="#instructions">
+     Instructions
     </a>
    </li>
    <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#the-deliverable">
-     The Deliverable
+    <a class="reference internal nav-link" href="#the-report">
+     The Report
     </a>
    </li>
    <li class="toc-h3 nav-item toc-entry">
@@ -435,13 +412,13 @@ const thebe_selector_output = ".output, .cell_output"
   </a>
   <ul class="nav section-nav flex-column">
    <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#the-instructions">
-     The Instructions
+    <a class="reference internal nav-link" href="#instructions">
+     Instructions
     </a>
    </li>
    <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#the-deliverable">
-     The Deliverable
+    <a class="reference internal nav-link" href="#the-report">
+     The Report
     </a>
    </li>
    <li class="toc-h3 nav-item toc-entry">
@@ -567,12 +544,13 @@ const thebe_selector_output = ".output, .cell_output"
   <div class="tex2jax_ignore mathjax_ignore section" id="lesson-2-molecular-structure">
 <h1>Lesson 2: Molecular Structure<a class="headerlink" href="#lesson-2-molecular-structure" title="Permalink to this headline">¶</a></h1>
 <p>What holds the world together? <strong>Chemical bonds</strong>. What are they? They are not lines or dots, they are an arrangement of electrons and nuclei that are lower in energy than other options. Let us explore what bonds really are by considering the <strong>electronic structure</strong> of a molecule.</p>
+<hr class="docutils" />
 <div class="section" id="lesson-plan">
 <h2>2.1 Lesson Plan<a class="headerlink" href="#lesson-plan" title="Permalink to this headline">¶</a></h2>
-<p>The plan below is not necessarily what will happen in class – it is merely what I <strong>hope</strong> will happen in class. We will explore the following subjects and ideas…</p>
+<p>The plan below is not necessarily what will happen in class – it is merely what I <strong>hope</strong> will happen in class. We will explore the following subjects and ideas<span class="math notranslate nohighlight">\(\ldots\)</span></p>
 <ul class="simple">
 <li><p><strong>Electronic structure</strong> in molecules: Lewis structure and VSEPR theory</p></li>
-<li><p><strong>Hybrid orbitals</strong>, π and σ bonds and resonance</p></li>
+<li><p><strong>Hybrid orbitals</strong>, <span class="math notranslate nohighlight">\(\pi\)</span> and <span class="math notranslate nohighlight">\(\sigma\)</span> bonds and resonance</p></li>
 <li><p>Constructing <strong>Molecular orbitals</strong> (the textbook presents a fairly complicated method for building accurate molecular orbitals using hybrid orbitals. I will be presenting a simpler method that produces less accurate but equally useful molecular orbitals for interpreting reactivity).</p></li>
 <li><p>We will <strong>construct molecular orbitals</strong> for alkenes, ketones and enolates and discuss how the shape and size of the orbitals directs reactivity. <strong>See the Molecular Orbital Tutorial</strong> described in the resources section below and available on the Moodle site.</p></li>
 <li><p>We will then explore how molecular orbital theory revelas details that Lewis structure cannot and explore this idea using <strong>Hückel Molecular orbital theory (HMOT)</strong>.</p>
@@ -590,9 +568,10 @@ const thebe_selector_output = ".output, .cell_output"
 <li><p>The computational; power of <strong>Python</strong> will be introduced along with the convenience of <strong>Jupyter Notebooks</strong>.</p></li>
 </ul>
 </div>
+<hr class="docutils" />
 <div class="section" id="learning-goals">
 <h2>2.2 Learning Goals<a class="headerlink" href="#learning-goals" title="Permalink to this headline">¶</a></h2>
-<p>After reading the suggested textbook section and practicing the problems you should be able to…</p>
+<p>After reading the suggested textbook section and practicing the problems you should be able to<span class="math notranslate nohighlight">\(\ldots\)</span></p>
 <ul class="simple">
 <li><p>Understand how <strong>hydrid orbitals</strong> are constructed from atomic orbitals according to bond angles.</p></li>
 <li><p>Calculate the <strong>hydridization</strong> of a carbon atom from bond angles and use this information to <strong>interpret electronic structure</strong>.</p></li>
@@ -602,12 +581,13 @@ const thebe_selector_output = ".output, .cell_output"
 <li><p>Be able to use interactive <strong>Python</strong> to solve computational problems.</p></li>
 </ul>
 </div>
+<hr class="docutils" />
 <div class="section" id="assignment-2">
 <h2>2.3 Assignment #2<a class="headerlink" href="#assignment-2" title="Permalink to this headline">¶</a></h2>
 <p>The following assignment is to be submitted via moodle before the Friday meeting.</p>
-<div class="section" id="the-instructions">
-<h3>The Instructions<a class="headerlink" href="#the-instructions" title="Permalink to this headline">¶</a></h3>
-<p>This section describes the <strong>activity</strong> that you are to perform for the assignment. Do the following…</p>
+<div class="section" id="instructions">
+<h3>Instructions<a class="headerlink" href="#instructions" title="Permalink to this headline">¶</a></h3>
+<p>This section describes the <strong>activity</strong> that you are to perform for the assignment. Do the following<span class="math notranslate nohighlight">\(\ldots\)</span></p>
 <blockquote>
 <div><p><strong>Consider</strong> the two arrow-pushing in <a class="reference internal" href="#directive-fig"><span class="std std-numref">Fig. 1</span></a> below for the formation of a carbocation from an alkene and from a ketone. <strong>Do you agree</strong> with the arrow pushing? Think about how the arrow-pushing fits with what you know about the <strong>frontier molecular orbitals</strong> involved.</p>
 </div></blockquote>
@@ -616,8 +596,8 @@ const thebe_selector_output = ".output, .cell_output"
 <p class="caption"><span class="caption-number">Fig. 1 </span><span class="caption-text"><em>Protonation of alkene and protonation of a carbonyl group</em></span><a class="headerlink" href="#directive-fig" title="Permalink to this image">¶</a></p>
 </div>
 </div>
-<div class="section" id="the-deliverable">
-<h3>The Deliverable<a class="headerlink" href="#the-deliverable" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="the-report">
+<h3>The Report<a class="headerlink" href="#the-report" title="Permalink to this headline">¶</a></h3>
 <blockquote>
 <div><p><strong>Create</strong> a document in which you present the approximate  <strong>molecular orbital diagram</strong> for each reactant and <strong>identify</strong> the <strong>frontier molecular orbitals</strong>. Using this information either <strong>confirm or criticize the arrow pushing</strong>. Be brief in your explanation but be clear. Provide a corrected reaction scheme if needed.</p>
 </div></blockquote>
@@ -627,6 +607,7 @@ const thebe_selector_output = ".output, .cell_output"
 <p><strong>Half</strong> of the grade will be for your <strong>answer</strong> and <strong>half</strong> will evaluate how neat, <strong>clear and professional</strong> your are in communicating your answer. Feel free to use a chemical drawing program. Take pride in your work.</p>
 </div>
 </div>
+<hr class="docutils" />
 <div class="section" id="lesson-schedule">
 <h2>2.4 Lesson Schedule<a class="headerlink" href="#lesson-schedule" title="Permalink to this headline">¶</a></h2>
 <div class="section" id="monday">
@@ -684,11 +665,12 @@ Read the instructions and <strong>install</strong> the <strong>Anaconda</strong>
 <div class="section" id="id4">
 <h4>Suggested Problems<a class="headerlink" href="#id4" title="Permalink to this headline">¶</a></h4>
 <blockquote>
-<div><p><strong>Explore</strong> the Jupyter notebooks and change them to calculate the π-MOs of a molecule of your choice. Please <strong>practice</strong> with them before the Friday meeting.</p>
+<div><p><strong>Explore</strong> the Jupyter notebooks and change them to calculate the <span class="math notranslate nohighlight">\(\pi\)</span>-MOs of a molecule of your choice. Please <strong>practice</strong> with them before the Friday meeting.</p>
 </div></blockquote>
 </div>
 </div>
 </div>
+<hr class="docutils" />
 <div class="section" id="resources">
 <h2>2.5 Resources<a class="headerlink" href="#resources" title="Permalink to this headline">¶</a></h2>
 <div class="section" id="for-this-lesson">
@@ -697,7 +679,7 @@ Read the instructions and <strong>install</strong> the <strong>Anaconda</strong>
 <h4>Jupyter Books<a class="headerlink" href="#jupyter-books" title="Permalink to this headline">¶</a></h4>
 <p>The following notebooks have been made in advance and are available in Jupyter-book format. The individual Jupyter notebooks can be downloaded via a link at the top of each chapter in the Jupyter-book.</p>
 <ol class="simple">
-<li><p><a class="reference internal" href="Resource_Moodle_Link.html"><span class="doc std std-doc">Python and Chemistry</span></a></p>
+<li><p><a class="reference external" href="https://blinkletter.github.io/MathWithPython/">Python and Chemistry</a></p>
 <ul class="simple">
 <li><p>A Jupyter-book introducing some basic skills in using Python to perform calculations and make plots for chemistry. Feel free to cut and paste all the code for your own projects.</p></li>
 </ul>

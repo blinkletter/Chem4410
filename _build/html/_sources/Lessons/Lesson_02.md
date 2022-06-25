@@ -110,7 +110,7 @@ In our third meeting for this lesson there will be a **short quiz** featuring pr
 
 The following notebooks have been made in advance and are available in Jupyter-book format. The individual Jupyter notebooks can be downloaded via a link at the top of each chapter in the Jupyter-book.
 
-1. [Python and Chemistry](https://blinkletter.github.io/MathWithPython/)
+1. [Python and Chemistry](Resource_Moodle_Link.md)
      - A Jupyter-book introducing some basic skills in using Python to perform calculations and make plots for chemistry. Feel free to cut and paste all the code for your own projects.
 
 2. [HMOT calculations using Python](Resource_Moodle_Link.md)

@@ -1,10 +1,11 @@
 # Lesson 2: Molecular Structure
 What holds the world together? **Chemical bonds**. What are they? They are not lines or dots, they are an arrangement of electrons and nuclei that are lower in energy than other options. Let us explore what bonds really are by considering the **electronic structure** of a molecule.
 
+-----
 ## 2.1 Lesson Plan
 The plan below is not necessarily what will happen in class – it is merely what I **hope** will happen in class. We will explore the following subjects and ideas&hellip;
 - **Electronic structure** in molecules: Lewis structure and VSEPR theory 
-- **Hybrid orbitals**, &pi; and &sigma; bonds and resonance
+- **Hybrid orbitals**, &pi; and $\sigma$ bonds and resonance
 - Constructing **Molecular orbitals** (the textbook presents a fairly complicated method for building accurate molecular orbitals using hybrid orbitals. I will be presenting a simpler method that produces less accurate but equally useful molecular orbitals for interpreting reactivity). 
 - We will **construct molecular orbitals** for alkenes, ketones and enolates and discuss how the shape and size of the orbitals directs reactivity. **See the Molecular Orbital Tutorial** described in the resources section below and available on the Moodle site.
 - We will then explore how molecular orbital theory revelas details that Lewis structure cannot and explore this idea using **Hückel Molecular orbital theory (HMOT)**.
@@ -15,6 +16,7 @@ The plan below is not necessarily what will happen in class – it is merely wha
         - The example of naphthalene and azulene
 - The computational; power of **Python** will be introduced along with the convenience of **Jupyter Notebooks**. 
 
+-----
 ## 2.2 Learning Goals
 After reading the suggested textbook section and practicing the problems you should be able to&hellip;
 
@@ -26,15 +28,12 @@ After reading the suggested textbook section and practicing the problems you sho
 - Be able to use interactive **Python** to solve computational problems.
 
 
+-----
 ## 2.3 Assignment \#2
 
 The following assignment is to be submitted via moodle before the Friday meeting.
 
-<<<<<<<< HEAD:docs/_sources/Lessons/Lesson_02.md
-### The Instructions
-========
 ### Instructions
->>>>>>>> 2acb493443590655e216370fab1d864945db1bc7:_build/html/_sources/Lessons/Lesson_02 3.md
 This section describes the **activity** that you are to perform for the assignment. Do the following&hellip;
 
 > **Consider** the two arrow-pushing in {numref}`directive-fig` below for the formation of a carbocation from an alkene and from a ketone. **Do you agree** with the arrow pushing? Think about how the arrow-pushing fits with what you know about the **frontier molecular orbitals** involved.
@@ -48,7 +47,7 @@ name: directive-fig
 ```
 
 
-### The Deliverable
+### The Report
 > **Create** a document in which you present the approximate  **molecular orbital diagram** for each reactant and **identify** the **frontier molecular orbitals**. Using this information either **confirm or criticize the arrow pushing**. Be brief in your explanation but be clear. Provide a corrected reaction scheme if needed.
 
 
@@ -57,6 +56,7 @@ name: directive-fig
 
 
 
+-----
 ## 2.4 Lesson Schedule
 
 ### Monday 
@@ -106,6 +106,7 @@ In our third meeting for this lesson there will be a **short quiz** featuring pr
 
 > **Explore** the Jupyter notebooks and change them to calculate the &pi;-MOs of a molecule of your choice. Please **practice** with them before the Friday meeting.
 
+------
 ## 2.5 Resources
 
 ### For This Lesson

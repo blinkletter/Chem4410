@@ -1,6 +1,7 @@
 # Lesson 4: Thermochemistry and Strain
-Let us use math again to interpret chemistry. Over the last century chemists have established **detailed tables** of data for burning hydrocarbons and used this information to establish the **heats of formation**, &Delta;*H<sub>f</sub>*&deg;. Along the way, it was observed that certain **groups contributed** the same portion of &Delta;*H<sub>f</sub>*&deg;. These became known as **group increments** and represent the contribution of a chemical group in a completely unstrained system. We might know the &Delta;*H<sub>f</sub>*&deg; for a molecule and observe that it is significantly **different** than that calculated using a collection of group increments. This difference in energy is most often the result of **strain**.
+Let us use math again to interpret chemistry. Over the last century chemists have established **detailed tables** of data for burning hydrocarbons and used this information to establish the **heats of formation**, $\Delta H_f^{\circ}$. Along the way, it was observed that certain **groups contributed** the same portion of $\Delta H_f^{\circ}$. These became known as **group increments** and represent the contribution of a chemical group in a completely unstrained system. We might know the $\Delta H_f^{\circ}$ for a molecule and observe that it is significantly **different** than that calculated using a collection of group increments. This difference in energy is most often the result of **strain**.
 
+-----
 ## 4.1 Lesson Plan
 The plan below is not necessarily what will happen in class – it is merely what I **hope** will happen in class. We will explore the following subjects and ideas&hellip;
 
@@ -10,6 +11,7 @@ The plan below is not necessarily what will happen in class – it is merely wha
 - **Electronic effects vs. steric effects** and the example of the anomeric effect (Ch. 2.4)
 - All calculations will be demonstrated in the class meeting using Jupyter notebooks and **Python** as the calculator.
 
+-----
 ## 4.2 Learning Goals
 After reading the suggested textbook section and practicing the problems you should be able to&hellip;
 
@@ -17,20 +19,17 @@ After reading the suggested textbook section and practicing the problems you sho
 - Predict the **enthalpy change** for a reaction using group increments.
 - Use experimental enthalpy changes and calculated enthalpy changes to estimate steric strain and **resonance stabilization**.
 
+-----
 ## 4.3 Assignment \#4
 
 The following assignment is to be submitted via moodle before the Friday meeting.
 
-<<<<<<<< HEAD:docs/_sources/Lessons/Lesson_04.md
-### The Instructions
-========
 ### Instructions
->>>>>>>> 2acb493443590655e216370fab1d864945db1bc7:_build/html/_sources/Lessons/Lesson_04 3.md
 This section describes the **activity** that you are to perform for the assignment. Do the following&hellip;
 
 > **Make a plot** of the IR stretching frequencies for covalent bonds vs. the corresponding bond dissociation energies. Does IR stretching frequency **correlate** with a measure of bond strength? Use a spreadsheet program or Jupyter notebook for creating the graph. 
 
-### The Deliverable
+### The Report
 > **Comment** on your observations. **Write** the document in a clear and concise style using a word processor or other document creation system. **Document** your activities (where did you get the data, how did you analyze it, what tools did you use? **Include** the data table and the plot, of course. 
 
 
@@ -39,6 +38,7 @@ This section describes the **activity** that you are to perform for the assignme
 
 
 
+-----
 ## 4.4 Lesson Schedule
 
 ### Monday 
@@ -78,6 +78,7 @@ No Classes. **Truth & Reconcilliation Day** but it's not a holliday. Time to do 
 > **Read** [Where are the Children Buried?](https://ehprnh2mwo3.exactdn.com/wp-content/uploads/2021/05/AAA-Hamilton-cemetery-FInal.pdf). Available on the **National Centre of Truth and Reconcilliation** [website](https://nctr.ca/).
 
 
+------
 ## 4.5 Resources
 
 ### Jupyter Notebooks
