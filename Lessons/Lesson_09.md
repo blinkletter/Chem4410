@@ -63,13 +63,13 @@ You will see that this weeks assignment includes finding three topics and initia
 
 ### Monday 
 
-Idea
+Catalysts **change** the **rate** of a reaction without being consumed during the process. Small amounts of catalyst can change the outcome of a reaction by making one result much **faster** than other possibilities. Glucose and ATP in water will produce no change in the glucose. After a **few days** we will observe glucose and hydrolysis products of ATP. Buy if the enzyme hexokinase is present, we will so only glucose-6-phosphate **rapidly** produced. Both reactions are exothermic, but we catalyzed only one possibility and changed the outcome.
+
+**Enzyme catalysis** is one of the most important topics in chemistry. We will explore how reactions can be catalyzed and how enzymes can acheive their **efficiency** as catalysts using the example of **acid/base catalysis**.
 
 #### Reading
 
-> **Read** Chapter X  <br>
-Chapter 9.1, 9.2 & 9.3
-
+> **Read** Chapter 9.1, 9.2 & 9.3
 
 #### Suggested Problems
 
@@ -77,16 +77,15 @@ Chapter 9.1, 9.2 & 9.3
 
 ### Wednesday
 
-Idea
+**General** and **specific** acid/base catalysis are important catalytic strategies employed by enzymes. We will use the field of bio-piorganic chemistry to **model** enzyme reactions and investigate these catalytic tools. We will use interactive *Python* to **explore the math** of the *pH* rate profile and **calculate** kinetic parameters for the reactions involved.
 
 #### Reading
-Chapter 8.5, 9.3, 9.4
 
-Complete the following problems from Ch. 9: 3, 4, 6, 10, 11, 12, 13 & 16
-
+> **Read** Chapter 8.5, 9.3, 9.4
 
 #### Suggested Problems
 
+> Complete the following problems from Ch. 9: 3, 4, 6, 10, 11, 12, 13 & 16
 > **Attempt** the following problems from Ch. 9: 5, 8, 14, 17 & 18 
 
 ### Friday

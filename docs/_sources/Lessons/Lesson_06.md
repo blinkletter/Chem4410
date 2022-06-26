@@ -7,23 +7,24 @@ The plan below is not necessarily what will happen in class – it is merely wha
 
 - Review (Ch. 7.1, 7.2, 7.4)
     - Rate laws 
+        - The **pre-equilibrium** approach
+        - The **steady-state** assumption (Ch. 7.5)
     - Reaction coordinates
-    - The transition state and transition state theory
+    - The **transition state** and transition state theory
     - Using the Arrhenius and Eyring equations
     - Reaction Kinetics Experiments 
         - 1<sup>st</sup> and 2<sup>nd</sup> order reactions
-        - Pseudo first order conditions and initial rate methods
-- Core ideas of physical organic chemistry (Ch. 7.3) 
+        - **Pseudo first order** conditions and initial rate methods
+- Core **statements** in physical organic chemistry (Ch. 7.3) 
     - The Hammond Postulate
     - The Curtin-Hammett principle
     - Microscopic reversibility
     - The reactivity-selectivity principle
     - Kinetic vs. thermodynamic control
-- The pre-equilibrium and the steady-state assumption (Ch. 7.5)
-- What is a reaction coordinate, really? I mean really? No really, what is a reaction coordinate? Are you ready for the truth? (Ch. 7.1, 7.8)
-- Multiple axes in reaction coordinates (Ch. 7.8) 
-    - Changes in TS structure caused by changes in reactant structure (Ch. 7.8)
-- Review of experimental design (Ch. 7.6) 
+- What is a **reaction coordinate**, really? (Ch. 7.1, 7.8)
+- **Multiple axes** in reaction coordinates (Ch. 7.8) 
+    - **Changes** in TS structure caused by **changes** in reactant structure (Ch. 7.8)
+- Review of **experimental design** (Ch. 7.6) 
 
 ## 6.2 Learning Goals
 After reading the suggested textbook section and practicing the problems you should be able to&hellip;

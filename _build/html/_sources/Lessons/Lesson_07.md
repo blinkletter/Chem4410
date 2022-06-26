@@ -66,7 +66,7 @@ If you make a hand-drawn plot please adjust contrast and brightness so that the 
 
 ### Monday 
 
-Idea
+**Isotopes** are electronically **identical**. Why would there be a **difference**? It seems that **mass** matters. The differnce in **vibrational energy** due to mass will be evident if the **bond** involved **changes** during the reaction. **Isotope effects** can reveal if a bond is **breaking** or changing hybridization in the **transition state**.
 
 #### Reading
 
@@ -78,7 +78,7 @@ Idea
 
 ### Wednesday
 
-Idea
+There are many **other methods** to investigate mechanism.  **Choosing** a reactant so that the structure of the product can **confirm** your hypothesis or rule out alternate ideas is a good strategy. we can also seek to **trap** proposed intermediates or **label** positions with isotopes and see where then appear in products. We can investigate mechanism through clever **experiments**.
 
 #### Reading
 

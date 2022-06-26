@@ -31,6 +31,7 @@ After reading the suggested material and practicing the problems you should be a
 The following assignment is to be submitted via moodle before the Friday meeting.
 
 ### The Instructions
+
 This section describes the **activity** that you are to perform for the assignment. Do the following&hellip;
 
 > Choose the topic from the three proposed ideas or a complete new topic.
@@ -39,8 +40,8 @@ This section describes the **activity** that you are to perform for the assignme
 
 > A written proposal and plan as well as an initial publication.
 
-
 ### Grading
+
 **Half** of the grade will be for your **answer** and **half** will evaluate how neat, **clear and professional** your are in communicating your answer. Feel free to use a chemical drawing program. Take pride in your work.
 
 ## 10.4 Lesson Schedule
@@ -53,7 +54,6 @@ Reference to publication
 #### Reading
 
 > **Read** the exploration on...
-
 
 #### Suggested Problems
 

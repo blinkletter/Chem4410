@@ -20,7 +20,7 @@ After reading the suggested textbook section and practicing the problems you sho
 
 ## 4.3 Assignment \#4
 
-The following assignment is to be submitted via moodle before the Friday meeting.
+The following assignment is to be submitted via moodle before Friday (there is no meeting this friday).
 
 ### The Instructions
 This section describes the **activity** that you are to perform for the assignment. Do the following&hellip;
@@ -47,11 +47,11 @@ We will use **group increments** to determine the heats of formation of a number
 #### Suggested Problems
 
 > **Attempt** the following problems at the end of Chapter 2: 2, 7, 8, 9, 10, 11 \& 51 <br>
-> Use **GAMESS** to optimize the structure of hydrazine (problem 11) and compare the calculated result with your proposed cconformation.
+> Use **GAMESS** to optimize the structure of hydrazine (problem 11) and compare the calculated result with your proposed conformation.
 
 ### Wednesday
 
-Group increments and bond dissociation energies can be used to interpret reactions and make predictions. Can we identifty the stabilization that aromaticity brings above and beyond mere conjugation. Three bonds in a row seem to have very different properties when arranged in a circle. Why?
+**Group increments** and bond dissociation energies can be used to **interpret reactions** and make predictions. Can we identifty the stabilization that **aromaticity** brings above and beyond mere conjugation. Three bonds in a row seem to have very different properties when arranged in a circle. Why?
 
 **Look ahead** to Lesson 5 to see what you should prepare for Monday.
 

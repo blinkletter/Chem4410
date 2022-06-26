@@ -5,30 +5,30 @@ Lots of things want to happen but are just **too slow** to matter. Ethyl acetate
 ## 9.1 Lesson Plan
 The plan below is not necessarily what will happen in class – it is merely what I **hope** will happen in class. We will explore the following subjects and ideas&hellip;
 
-- Definitions in catalysis (Ch. 9.1, 9.2)
-- Reaction kinetics with catalysis
-    - Example of the famous Michael-Menten equation
-- Definition of acid and base catalysis 
-    - Specific acid/base catalysis
-    - General acid/base catalysis
-    - Rate laws in complex reaction schemes involving acid/base catalysis (Ch. 9.3)
-    - Interpreting pH rate profiles. (Ch. 9.3) 
-    - The Bronsted plot (Chapter 8.5)
-- Examples of enzyme catalysis (Ch. 9.4) 
+- Definitions in **catalysis** (Ch. 9.1, 9.2)
+- Reaction **kinetics** with catalysis
+    - Example of the famous **Michael-Menten** equation
+- Definition of **acid and base catalysis** 
+    - **Specific** acid/base catalysis
+    - **General** acid/base catalysis
+    - **Rate laws** in complex reaction schemes involving acid/base catalysis (Ch. 9.3)
+    - Interpreting **pH rate profiles**. (Ch. 9.3) 
+    - The Brönsted plot (Chapter 8.5)
+- Examples of **enzyme catalysis** (Ch. 9.4) 
 
 ## 9.2 Learning Goals
 After reading the suggested textbook section and practicing the problems you should be able to&hellip;
 
-- Describe the various ways that a reaction can be catalyzed and understand how the reaction coordinate is changed with catalysis.
-- Construct a rate law for a catalyzed reaction.
-- Understand the difference between specific and general acid/base catalysis.
+- Describe the various ways that a reaction can be **catalyzed** and understand how the reaction coordinate is changed with catalysis.
+- Construct a **rate law** for a catalyzed reaction.
+- Understand the difference between **specific and general** acid/base catalysis.
      - Describe the difference in rate-determining step and the structure of the transition state in each case.
     - Construct rate laws for specific and general acid/base catalysis and be able to interpret reaction kinetics to confirm the rate law.
-- Understand the Brønsted relationship in acid/base catalysis and how Brønsted plots can be used to investigate acid/base catalyzed reactions.
-- Interpret the structure of an active site in an enzyme and explain the various catalytic strategies that are being exploited in the active site.
-    - Understand the meanings of the Michaelis-Menten parameters *K<sub>M</sub>* , *k<sub>cat</sub>* and *k<sub>cat</sub>/K<sub>M</sub>*.
-- Understand the uses of Taft steric parameters in quantitative structure-activity relationships (QSAR) and how QSAR is used to investigate enzyme active sites and develop new drugs.
-- Apply relevant methods from chapters 7 and 8 in interpreting enzyme mechanisms.
+- Understand the Brønsted relationship in acid/base catalysis and how **Brønsted plots** can be used to investigate acid/base catalyzed reactions.
+- Interpret the structure of an **active site** in an enzyme and explain the various **catalytic strategies** that are being exploited in the active site.
+    - Understand the meanings of the Michaelis-Menten **parameters** *K<sub>M</sub>* , *k<sub>cat</sub>* and *k<sub>cat</sub>/K<sub>M</sub>*.
+- Understand the uses of Taft **steric parameters** in quantitative structure-activity relationships (QSAR) and how QSAR is used to **investigate** enzyme active sites and **develop** new drugs.
+- Apply relevant methods from chapters 7 and 8 in interpreting **enzyme mechanisms**.
 
 ## 9.3 Assignment \#9
 
@@ -63,13 +63,13 @@ You will see that this weeks assignment includes finding three topics and initia
 
 ### Monday 
 
-Idea
+Catalysts **change** the **rate** of a reaction without being consumed during the process. Small amounts of catalyst can change the outcome of a reaction by making one result much **faster** than other possibilities. Glucose and ATP in water will produce no change in the glucose. After a **few days** we will observe glucose and hydrolysis products of ATP. Buy if the enzyme hexokinase is present, we will so only glucose-6-phosphate **rapidly** produced. Both reactions are exothermic, but we catalyzed only one possibility and changed the outcome.
+
+**Enzyme catalysis** is one of the most important topics in chemistry. We will explore how reactions can be catalyzed and how enzymes can acheive their **efficiency** as catalysts using the example of **acid/base catalysis**.
 
 #### Reading
 
-> **Read** Chapter X  <br>
-Chapter 9.1, 9.2 & 9.3
-
+> **Read** Chapter 9.1, 9.2 & 9.3
 
 #### Suggested Problems
 
@@ -77,16 +77,15 @@ Chapter 9.1, 9.2 & 9.3
 
 ### Wednesday
 
-Idea
+**General** and **specific** acid/base catalysis are important catalytic strategies employed by enzymes. We will use the field of bio-piorganic chemistry to **model** enzyme reactions and investigate these catalytic tools. We will use interactive *Python* to **explore the math** of the *pH* rate profile and **calculate** kinetic parameters for the reactions involved.
 
 #### Reading
-Chapter 8.5, 9.3, 9.4
 
-Complete the following problems from Ch. 9: 3, 4, 6, 10, 11, 12, 13 & 16
-
+> **Read** Chapter 8.5, 9.3, 9.4
 
 #### Suggested Problems
 
+> Complete the following problems from Ch. 9: 3, 4, 6, 10, 11, 12, 13 & 16
 > **Attempt** the following problems from Ch. 9: 5, 8, 14, 17 & 18 
 
 ### Friday

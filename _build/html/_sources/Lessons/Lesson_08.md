@@ -11,33 +11,33 @@ Get out your **data tables** and slide rulers. I will go easy on you - we will b
 ## 8.1 Lesson Plan
 The plan below is not necessarily what will happen in class – it is merely what I **hope** will happen in class. We will explore the following subjects and ideas&hellip;
 
-- Substituents can change the energy in transition states and equilibria (Ch. 8.2)
+- **Substituents** can change the energy in transition states and equilibria (Ch. 8.2)
     - Inductive effects, resonance effects, field effects & steric effects
-- Hammett's approach: a standard system to investigate substituent effects 
+- The **Hammett equation**: a standard system to investigate substituent effects 
     – The substituted phenyl group (Ch. 8.3)
-    - Measuring substituent effects
+    - Measuring **substituent effects**
     - Hammett parameters (&sigma;)
     - Hammett plots
-- Application of Hammett plots
+- Application of **Hammett plots**
     - The Brown-Okamoto parameters (&sigma;<sup>+</sup>, &sigma;<sup>-</sup>)
     - The Yukawa-Tsuno two parameter plot
-    - Observing changes in transition state structure, rate-determining step or changes in mechanism by using Hammett plots (curved plots) (Ch. 8.3)
-- Isolating different substituent effects: Separating sterics from electronics
+    - Observing **changes** in transition state **structure**, rate-determining step or changes in mechanism by using Hammett plots (curved plots) (Ch. 8.3)
+- **Separating** sterics from electronics
     – The Taft-Ingold parameters and plot (Ch. 8.4)
-- Measuring solvent effects
+- Measuring **solvent effects**
     – The Grunwald-Winstein plot (Ch. 8.4)
-- What is a linear free energy relationship (LFER)? (Ch. 8.6)
+- What is a linear free energy relationship (((LFER)))? (Ch. 8.6)
 
 ## 8.2 Learning Goals
 After reading the suggested textbook section and practicing the problems you should be able to&hellip;
 
-- Interpret data from LFER experiments and draw conclusions about the structure of transition states or high energy intermediates.
-- Describe what the parameters of various LFER plots measure and how the reference reaction was set up.
-- Evaluate the suitability of a give LFER approach for a given investigation.
-- Predict the likely effects if a substituent on a reaction centre (inductive, resonance, field and steric effects).
-- Use Hammett plots to make conclusions about the structure of a transition state or high energy intermediate in a reaction.
+- **Interpret** data from LFER **experiments** and draw conclusions about the **structure** of transition states or high energy intermediates.
+- **Describe** what the parameters of various LFER plots measure and how the **reference** reaction was set up.
+- Evaluate the **suitability** of a give LFER approach for a given investigation.
+- **Predict** the likely **effects** if a substituent on a **reaction** centre (inductive, resonance, field and steric effects).
+- Use **Hammett plots** to make conclusions about the structure of a **transition state** or high energy intermediate in a reaction.
 - Correctly use the Brown-Okamoto parameters (&sigma;<sup>+</sup>, &sigma;<sup>-</sup>) when required.
-- Understand the usefulness of parameters that score phytsical properties, such a size of a substituent, in QSAR.
+- Understand the **usefulness** of parameters that score phytsical properties, such as the **size** of a substituent, in QSAR.
 
 ## 8.3 Assignment \#5
 
