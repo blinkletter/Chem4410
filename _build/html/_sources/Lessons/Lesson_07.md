@@ -22,11 +22,10 @@ The plan below is not necessarily what will happen in class – it is merely wha
 ## 7.2 Learning Goals
 After reading the suggested textbook section and practicing the problems you should be able to&hellip;
 
-- Calculate the maximum possible isotope effect for isotopic substitution at a given bond.
-- Predict if a reaction should show a primary or secondary isotope effect and if that effect is regular or inverse.
-- Use reaction kinetic data from isotopic substitution experiments to confirm or refute the hypothesis derived above.
-- Use isotope effects to investigate reaction mechanism.
-- Design an experiment to investigate a mechanism hypothesis using isotopic substitution, product analysis, chemical kinetics or other relevant methods.
+- **Calculate** the maximum possible **isotope effect** for isotopic substitution at a given bond.
+- **Predict** if a reaction should show a **primary** or **secondary** isotope effect and if that effect is **regular** or **inverse**.
+- Use reaction kinetic **data** from isotopic substitution experiments to **confirm or refute** the **hypothesis** derived above.
+- **Design** an **experiment** to investigate a mechanism **hypothesis** using isotopic substitution, product analysis, chemical kinetics or other relevant methods.
 
 ## 7.3 Assignment \#7
 
@@ -37,11 +36,11 @@ This section describes the **activity** that you are to perform for the assignme
 
 > **Draw** a More O’Farrell–Jencks plot for each of the following cases. Place structures of reactants and intermediates **appropriately** at the corners of the plot. Draw the typical **path** for the reaction in each case and locate the **transition states** and any intermediates on the plots. Then draw the vectors for **movement** along the coordinate and perpendicular to the coordinate as the reactants are changed as described in each case. use this diagram to discuss the **changes** in transition state structure.
 
-1. **Case #1**: A *S<sub>N</sub>2* reaction for the reaction of ethylamine with benzylchloride to produce the protonated secondary amine product. Then consider the change in the reaction coordinate and transition state when we use a better leaving group (e.g. bromide)
-2. **Case #2**: A *S<sub>N</sub>2* reaction for the reaction of ethylamine with benzylchloride to produce the protonated secondary amine product. Then consider the change in the reaction coordinate and transition state when we use a stronger nucleophile (e.g. hydrazine)
-3. **Case #3**: An *E2* reaction for the reaction of ethylamine with (2-Chloroethyl)benzene to produce styrene. Then consider the change in the reaction coordinate and transition state when we use a stronger base (e.g. DBU)
-4. **Case #4**: An *E2* reaction for the reaction of ethylamine with (2-Chloroethyl)benzene to produce styrene. Then consider the change in the reaction coordinate and transition state when we use a better leaving group (e.g. bromide)
-5. **Case #5**: An *E2* reaction for the reaction of ethylamine with (2-Chloroethyl)benzene to produce styrene. Then consider the change in the reaction coordinate and transition state when we use a more electron-deficient reactant (e.g. p-(2-Chloroethyl)nitrobenzene)
+1. **Case #1**: A ***S<sub>N</sub>2*** reaction for the reaction of ethylamine with benzylchloride to produce the protonated secondary amine product. Then consider the **change** in the reaction coordinate and transition state when we use a **better leaving group** (e.g. bromide)
+2. **Case #2**: A ***S<sub>N</sub>2*** reaction for the reaction of ethylamine with benzylchloride to produce the protonated secondary amine product. Then consider the **change** in the reaction coordinate and transition state when we use a **stronger nucleophile** (e.g. hydrazine)
+3. **Case #3**: An ***E2* reaction** for the reaction of ethylamine with (2-Chloroethyl)benzene to produce styrene. Then consider the **change** in the reaction coordinate and transition state when we use a **stronger base** (e.g. DBU)
+4. **Case #4**: An ***E2* reaction** for the reaction of ethylamine with (2-Chloroethyl)benzene to produce styrene. Then consider the **change** in the reaction coordinate and transition state when we use a **better leaving group** (e.g. bromide)
+5. **Case #5**: An ***E2* reaction** for the reaction of ethylamine with (2-Chloroethyl)benzene to produce styrene. Then consider the **change** in the reaction coordinate and transition state when we use a more **electron-deficient** reactant (e.g. p-(2-Chloroethyl)nitrobenzene)
 
 
 ### The Deliverable

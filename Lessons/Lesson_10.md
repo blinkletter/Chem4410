@@ -5,26 +5,26 @@ We will explore some literature examples that I have prepared as guides for a st
 The plan below is not necessarily what will happen in class – it is merely what I **hope** will happen in class. We will explore the following subjects and ideas&hellip;
 
 - Commentary on the literature part 1
-    - Is there life after the transition state?
-    - We will examine a body of work that argues that a reaction can chan ge its destiniy after the transition state. This goes against the dogma of transition state theory. Is this heresey?
+    - Is there life **after** the transition state?
+    - We will examine a body of work that **argues** that a reaction can change its destiniy after the transition state. This goes **against the dogma** of transition state theory. Is this **heresey**?
 - Commentary on the literature part 2
-    - Three parameter LFER plots. Have they gone too far?
-    - We will examine a body or work where a three parameter plot is used in LFER analysis of a reaction.
-    - There is extensive kinetic and pH rate profile data to mine here. We will analyze the data from the supplementary material and see if we agree with the conclusions.
+    - **Three** parameter LFER plots. Have they gone **too far**?
+    - We will examine a body or work where a three parameter plot is used in **LFER analysis** of a reaction.
+    - There is extensive kinetic and pH rate profile **data to mine** here. We will analyze the data from the **supplementary material** and see if we agree with the conclusions.
 
  
 
 
 ## 10.2 Learning Goals
-After reading the suggested textbook section and practicing the problems you should be able to&hellip;
+After reading the suggested material and practicing the problems you should be able to&hellip;
 
-- Be able to search the primary literature
-- Interpret methods and results in primary literature
-- Apply your understanding of physical organic chemistry to interpret the arguments and conclusions in a literature contribution.
-- Know how to access additional data and information in suplementary material
-- Have the confidence to disagree with the authors and the humility to accept if they are correct after investigating (and the courage to stick to your guns if you are right)
-- Write a document summarizing and interpreting a series of publications.
-- Use data analysis tools to confirm or criticize conclusions in a paper and document you analysis useing *Jupyter* notebooks.
+- Be able to **search** the primary literature
+- **Interpret** methods and results in primary literature
+- **Apply** your understanding of ((physical organic chemistry)) to interpret the arguments and conclusions in a literature contribution.
+- Know how to access **additional data** and information in suplementary material
+- Have the **confidence** to disagree with the authors and the **humility** to accept if they are correct after investigating (and the **courage** to stick to your guns if you are right)
+- **Write** a document summarizing and interpreting a series of publications.
+- Use **data analysis** tools to confirm or criticize conclusions in a paper and **document** your analysis using *Jupyter* notebooks.
 
 ## 10.3 Assignment \#10
 
