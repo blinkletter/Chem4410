@@ -48,7 +48,7 @@ This section describes the **activity** that you are to perform for the assignme
 
 In your report you will present your assigned **More-O’Farrell–Jencks plot** as described above. You may submit a report containing a very neat hand-drawn version of your plot or use more professional **tools**. Since all documents that you produce represent you more effectively than that message-T-shirt you have been considering, I suggest upping your game at this point.
 
-If you make a hand-drawn plot please adjust contrast and brightness so that the lines are dark and the paper is white. 
+If you make a hand-drawn plot, please adjust contrast and brightness so that the lines are dark and the paper is white. 
 
 | Card      |  Assignment  |
 | :---      | :---         |

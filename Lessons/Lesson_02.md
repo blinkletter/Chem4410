@@ -43,14 +43,13 @@ name: directive-fig
 *Protonation of alkene and protonation of a carbonyl group*
 ```
 
-
 ### The Deliverable
+
 > **Create** a document in which you present the approximate  **molecular orbital diagram** for each reactant and **identify** the **frontier molecular orbitals**. Using this information either **confirm or criticize the arrow pushing**. Be brief in your explanation but be clear. Provide a corrected reaction scheme if needed.
 
-
 ### Grading
-**Half** of the grade will be for your **answer** and **half** will evaluate how neat, **clear and professional** your are in communicating your answer. Feel free to use a chemical drawing program. Take pride in your work.
 
+**Half** of the grade will be for your **answer** and **half** will evaluate how neat, **clear and professional** your are in communicating your answer. Feel free to use a chemical drawing program. Take pride in your work.
 
 
 ## 2.4 Lesson Schedule
@@ -79,7 +78,7 @@ We will use a Python tool to **easily and quickly calculate** the molecular orbi
 #### Reading
 
 > **Read** Chapter 14.3 & 14.5 <br>
-> **Examine** the Jupyter-book [introducing Python](https://blinkletter.github.io/MathWithPython/) described in the resources section below and available on the moodle page <br>
+> **Examine** the Jupyter-book [Python and Chemistry](https://blinkletter.github.io/MathWithPython/) described in the resources section below and available on the moodle page <br>
 > **Examine** the Jupyter-book for [HMOT calculations](Resource_Moodle_Link.md) described in the resources section below and available on the moodle page
 
 #### Suggested Problems
@@ -101,6 +100,47 @@ In our third meeting for this lesson there will be a **short quiz** featuring pr
 #### Suggested Problems
 
 > **Explore** the Jupyter notebooks and change them to calculate the &pi;-MOs of a molecule of your choice. Please **practice** with them before the Friday meeting.
+
+````{admonition} A Suggested Personal Schedule
+
+As we **get started**, here is a suggested schedule for getting it all done. The purpose of this schedule is to make the case for **starting early** on your weekly efforts to make **best use** of your time. 
+
+```{admonition} Friday and the Weekend
+
+**Last week** on Friday you will have looked ahead to this chapter and read this text so you will know to start on Friday. 
+
+1. Read the **assigned** readings for Monday and attampt the **suggested** problems.
+
+2. For the **assignment**, use what you learned in the reading to **start** sketching out the molecular orbitals.
+```
+```{admonition} Monday and Tuesday
+
+On Monday you can ask questions. You will have **questions** if you have begun the work. You will participate in a discussion of how Lewis structure relates to molecular orbitals and practice using graphical methods to combine atomic orbitals. Now you can proceed by doing the following:
+
+1. **Complete** the molecular orbital **diagram** for both systems in the assignment. Then **begin** making a neat and tidy version for you report. Try to see how the frontier orbitals **match up** (or not) with the **arrow-pushing** in the proposed reaction mechanisms.
+
+2. **Read** the assigned readings for Wednesday and **attempt** the suggested problems.
+```
+```{admonition} Wednesday and Thursday
+
+Oh you will hopefully have more **questions**. On Wednesday you can ask them. You will be introduced to using python notebooks to make Hückel molecular orbital theory calculations.
+
+1. Now, after seeing **further examples** of molecular orbitals and mechanism, complete the assignment report. You will be better able to construct MOs in conjugated systems after gaining an introduction to HMOT.
+
+2. Don't study for the quiz. **Doing** the problems is all you need.
+
+3. **Hack** the Jupyter notebooks demonstrated in class. Try **different** molecules.
+
+4. For the two **chosen ones** who are asked to present their assignments, make **two slides** explaining your work and presenting your MO digram and conclusions.
+```
+```{admonition} Friday
+
+You will submit your **assignments** before class. In class there will be the **quiz** followed by the two short **presentations**. Discussion may follow. You will get a heads up on the **next topic** and will **look ahead** to the next chapter to see what you need to do this weekend.
+
+Thats it. Rinse and repeat. **Apply** this schedule to every lesson for best results. Always **start early** on problems and assignments. You can't ask questions at midnight.
+
+```
+````
 
 ## 2.5 Resources
 

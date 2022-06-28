@@ -37,27 +37,26 @@ The following assignment is to be submitted via moodle before the Friday meeting
 ### The Instructions
 This section describes the **activity** that you are to perform for the assignment. Do the following&hellip;
 
-> Ph rate profile assignment
+> On the moodle page is a data set of **reaction rates** are various *pH* values in various concentrations of buffer. **Extrapolate** the rates at each give *pH* value to zero buffer concentration. Then **plot** a *pH* rate profile for each data set. **Propose** a mechanism and construct a **rate law** for the catalyzed reaction. Attempt to **fit** the rate law to the data and obtain all relevant rate and equilibrium constants from the fit.
 
-> Choose 3 topics and sample papers for starting your student exploration.
 
 ### The Deliverable
 
-> Ph rate profile assignment
+> You will randomly be assigned a single example to present in a formal report. **You know what to do** now. Present the proposed mechanism, your rate law and any relevant plots. **Discuss** how the observation supports your hypothesis. Report all rate and equilibrium constants. Can you provide a confidence range for your values?
 
-> Choose 3 topics and sample papers for starting your student exploration.
+``` {admonition} Looking Ahead to the Big One
+Each week has an **assignment** associated with it but now you will be working on **two** assignments in the remaining weeks. There will be the **weekly project** (dsecribed above) and there will be a single **longer project** (described in detail in the next chapter) that will continue until the end of the course. There will still be only a single assignment **due each week** but you will want to start this larger capstone assignment early and work on it week by week.
+```
 
 ### Grading
 
 **Half** of the grade will be for your **answer** and **half** will evaluate how neat, **clear and professional** your are in communicating your answer. Feel free to use a chemical drawing program. Take pride in your work.
 
-### Looking Ahead to the Big One
 
-Each week has an **assignment** associated with it but now you will be working on **two** assignments in the remaining weeks. There will be the **weekly project** and there will be a single **longer project** that will continue until the end of the course. There will still be only a single assignment **due each week** but you will want to start this larger capstone assignment early.
 
-The next lesson will have an **assignment** where you examine an exploration of a literature topic that I have prepared. You will also choose **three topics** for your own exploration. Choose a topic that you have some **interest** in and apply the principles of **physical organic chemistry** as you investigate the primarty literature. Do not pick a topic and then figure out it doesn't suit your plans two weeks from now.  You need to do preliminary work **early**.  Choose three topics and look into them and choose the best one for you.
 
-You will see that this weeks assignment includes finding three topics and initial  **literature examples**. Who knows where you will end up, but you must **start now**.
+
+
 
 ## 9.4 Lesson Schedule
 
@@ -77,7 +76,7 @@ Catalysts **change** the **rate** of a reaction without being consumed during th
 
 ### Wednesday
 
-**General** and **specific** acid/base catalysis are important catalytic strategies employed by enzymes. We will use the field of bio-piorganic chemistry to **model** enzyme reactions and investigate these catalytic tools. We will use interactive *Python* to **explore the math** of the *pH* rate profile and **calculate** kinetic parameters for the reactions involved.
+**General** and **specific** acid/base catalysis are important catalytic strategies employed by enzymes. We will use the field of bio-organic chemistry to **model** enzyme reactions and investigate these catalytic tools. We will use interactive *Python* to **explore the math** of the *pH* rate profile and **calculate** kinetic parameters for the reactions involved.
 
 #### Reading
 
@@ -85,7 +84,7 @@ Catalysts **change** the **rate** of a reaction without being consumed during th
 
 #### Suggested Problems
 
-> Complete the following problems from Ch. 9: 3, 4, 6, 10, 11, 12, 13 & 16
+> **Attempt**  the following problems from Ch. 9: 3, 4, 6, 10, 11, 12, 13 & 16
 > **Attempt** the following problems from Ch. 9: 5, 8, 14, 17 & 18 
 
 ### Friday
@@ -96,6 +95,51 @@ In our third meeting for this lesson there will be a **short quiz** featuring pr
 
 > Two of you will have been selected on Monday to present the results of the assignment. 
 
+````{admonition} A Suggested Personal Schedule
+
+That is a lot of work and not something to be left to the final day. Here is a proposed schedule.
+
+```{admonition} Friday and the weekend
+
+**Last week** on Friday you will have looked ahead to this chapter and have read this text, so you will know to start on Friday. You will have **read ahead** to the next section and will know that you will soon be asked to choose a topic fo a major investigation. Start both now.
+
+1. Decide on a topic and search the very **recent literature** looking for contributions that involve reaction mechanism, self assembly, catalysis (regular or enzymatic), or anything else that would benefit from **applying** the principles of physical organic chemistry. Download three papers and look through them.
+
+2. Read the **assigned** readings for Monday and attampt the **suggested** problems.
+
+3. For your selected **assignment** topic, **propose** the mechanism and **plot** the buffer runs, extrapolating to zero buffer concentrations. You will now have three papers that you are reading and a set of rate vs. *pH* data. **Document** your calculations in a *Jupyter* notebook and **write** some commentary about your mechanism.
+```
+```{admonition} Monday and Tuesday
+
+On Monday you can ask questions. I guarantee that you will have **questions** if you have begun the work. Now you can proceed by doing the following:
+
+1. Decide on one of the three papers chosen over the weekend as a **starting point**. Now search for more on that topic or more by that research group. **Follow** the trail and look for a contribution with physical organic chemistry meat on its bones.
+
+2. After discussing acid/base catalysis on Monday and seeing a **rate law** for a *pH* rate profile demonstrated, you can examine your rate law and see if it needs any changes. **Plot** the rate vs. *pH* data and try a first few frustrating attempts to **fit** the data. **Write** some commentary about how your mechanism is explained by the pH rate profile.
+
+3. **Read** the assigned readings for Wednesday and **attempt** the suggested problems.
+```
+```{admonition} Wednesday and Thursday
+
+Oh you will have **questions** for sure now. On Wednesday you can ask them. 
+
+1. Now, after seeing **further examples** of acid/base catalysis, you can perfect your rate law and your *Python* code in the curve fit. Since the rate profile plot is **all done**, this is the **only thing** left to do. **Write** some commentary about the curve fit and then pull it all together in a **final draft**. 
+
+2. You have completed the **readings** over the weekend and on Monday/Tuesday and attempted the problems. You've had a chance to ask **questions** so you can now use that information to work on any **remaining** problems that vex you.
+
+3. Never study for the quiz. **Doing** the problems is all you need.
+
+4. For the two **chosen ones** who are asked to present their assignments, make **two slides** explaining your work and presenting your mechanism, rate law and rate profile.
+
+5. Keep reading around your chosen paper. Look at papers that it refernces. Look for more recenmt work by the authors. Don't stop where you started, the good stuff is found by digging.
+```
+```{admonition} Friday
+
+You will submit your **assignments** before class. In class there will be the **quiz** followed by the two short **presentations**. Discussion may follow. You will get a heads up on the **next topic** and will **look ahead** to the next chapter to see what you need to do this weekend.
+
+After considering the **topics** for you personal exploration and having a possible **favourite**, you will be in a good place for next weeks assignment. **Read ahead**.
+```
+````
 
 ## 9.5 Resources
 

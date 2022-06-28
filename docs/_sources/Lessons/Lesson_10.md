@@ -12,9 +12,6 @@ The plan below is not necessarily what will happen in class – it is merely wha
     - We will examine a body or work where a three parameter plot is used in **LFER analysis** of a reaction.
     - There is extensive kinetic and pH rate profile **data to mine** here. We will analyze the data from the **supplementary material** and see if we agree with the conclusions.
 
- 
-
-
 ## 10.2 Learning Goals
 After reading the suggested material and practicing the problems you should be able to&hellip;
 
@@ -34,15 +31,22 @@ The following assignment is to be submitted via moodle before the Friday meeting
 
 This section describes the **activity** that you are to perform for the assignment. Do the following&hellip;
 
-> Choose the topic from the three proposed ideas or a complete new topic.
+> **Choose** a topic and search the current literature for three examples of reports that feature the **principles** of physical organic chemistry. Read the literature examples and make a summary of each. Choose one topic in the end and write a short justification for your choice.
+
+In this **assignment**, you will begin on a project where you present exploration of a literature topic that you have chosen. In the end you will produce a document similar to the two that we will explore in class this week. This is just the beginning. 
+
+Pick a topic that you have some **interest** in and apply the principles of **physical organic chemistry** as you investigate the primarty literature. Do not pick a topic and then figure out it doesn't suit your plans two weeks from now. You need to do preliminary work **early**. 
+
+Hopefully you heeded the advice to **start** looking for publications **last week**. It takes time to search the literature and it is best done by **reading widely** before you narrow your focus. Who knows where you will end up, but you must **start early**.
 
 ### The Deliverable
 
-> A written proposal and plan as well as an initial publication.
+> Submit the **three** literature examples and a **document** justifying your choise of topic, providing a summary of each example and then a discussion justifying your final choice. Then present a short proposed outline for your exploration project. Is there supplementary data to expore? Will you follow the topic through a few papers that relate to your choice or are from the same research group? What's **your plan**?
 
 ### Grading
 
 **Half** of the grade will be for your **answer** and **half** will evaluate how neat, **clear and professional** your are in communicating your answer. Feel free to use a chemical drawing program. Take pride in your work.
+
 
 ## 10.4 Lesson Schedule
 

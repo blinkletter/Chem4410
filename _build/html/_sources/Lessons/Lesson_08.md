@@ -46,13 +46,26 @@ The following assignment is to be submitted via moodle before the Friday meeting
 ### The Instructions
 This section describes the **activity** that you are to perform for the assignment. Do the following&hellip;
 
-> Hammett Plot Assignment
+> Take a **data set** fom the moodle site for the reactions listed below. **Draw** out a mechamism for the reaction. **Plot** the Hammett plot using the corresponding data sets. **Write** a report in which you present your mechanism, the Hammett plot and a discussion on how the plot supports your **hypothesis**. Did you have to adjust your hypothesis after making the plot? Did it **prove** that you we right all along? If the Hammett plot forced you to change your hypothesis, please indicate your journey from your hypothesis to the revised model.
+
+Try all of the following reactions and plot all of the following data sets. 
+
+|  Card    | Reaction | Data Set |
+| :----     | :-----   | :------  |
+| 1 or 7     | Hydrolysis of benzyl chorides | BzCl_1.csv |
+|  2 or 8    | Hydrolysis of chlorodiphenylmethanes | ClDPhM.csv |
+|  3 or 9    | Basic Elimination of 1-Phenyl-1-ethanols |   1P1E_B.csv    |
+|  4 or 10    | Basic Elimination of 2-Phenyl-1-ethanols |   2P1E_B.csv    |
+|   5 or Jack   | Acidic Elimination of 1-Phenyl-1-ethanols |   2P1E_A.csv    |
+|   6 or Queen   | Acidic Elimination of 2-Phenyl-1-ethanols |   2P1E_A.csv    |
+
 
 ### The Deliverable
 
-> Hammett Plot Assignment
+> You will be randomly assigned a **single example** from the data sets provided to present in a formal **report**. Include all of the elements described above. Be neat and professional. Use proper chemical **drawing tools** and plotting software. I recommend *Marvin* for the chemical structures and a *Jupyter* Notebook for the plots.
 
 ### Grading
+
 **Half** of the grade will be for your **answer** and **half** will evaluate how neat, **clear and professional** your are in communicating your answer. Feel free to use a chemical drawing program. Take pride in your work.
 
 ## 8.4 Lesson Schedule
@@ -89,7 +102,7 @@ In our third meeting for this lesson there will be a **short quiz** featuring pr
 
 #### Presentations
 
-> Two of you will have been selected on Monday to present the results of the assignment. 
+> Two of you will have been selected on Monday to present your results from the assignment. 
 
 ## 8.5 Resources
 

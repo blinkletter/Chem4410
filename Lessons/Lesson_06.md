@@ -61,7 +61,7 @@ This section describes the **activity** that you are to perform for the assignme
 
 Make a concise one-page **document** with the diagram appropriately sized and the explanatory text below. Don’t forget a title, you name, a figure legend, etc. You may hand-draw the diagram but, when you photograph it, please **adjust** contrast and brightness so that the lines are dark and the paper is white. I cannot interpret shades of grey. I am a graphical extremist. My world is black or white.
 
-**I dare you** to draw your coordinate diagram by using a vector graphics editor (*Inkscape* is a free example). Presentation programs like Microspft *Powerpoint* also have drawing tools. Hand-drawn is very "kindergarten" and the *Shark Tank*&trade; investors agree with me.
+**I dare you** to draw your coordinate diagram by using a vector graphics editor (*Inkscape* is a free example). Presentation programs like Microsoft *Powerpoint* also have drawing tools. Hand-drawn is very "kindergarten" and the *Shark Tank*&trade; investors agree with me.
 
 | Card     |    Topic                              |
 | :------- | :-------                              |

@@ -20,7 +20,9 @@ The following assignment is to be submitted via moodle before the Friday meeting
 ### The Instructions
 This section describes the **activity** that you are to perform for the assignment. Do the following&hellip;
 
-> What
+> What <br>
+> Perhaps TS structures for norbornyl rearrangements? Or 1,2 migrations in cations with different substitutions. Or hammett plots or isotope experiments with norbornyl systems.
+
 
 ### The Deliverable
 > What
