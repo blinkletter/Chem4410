@@ -27,13 +27,13 @@ The heart of physical organic chemistry is the **correlation** of one system wit
 If we can quantify how structure affects reactivity, perhaps we can quantify how structure affects the activity of drugs. This is the idea of **quantitative structure-activity relationships (QSAR)** and is a major tool in drug development. Drug companies are investing billions of dollars into the big data of drug discovery. They are now applying AI. What's next?
 
 
-Even tiny changes can have measurable effects. Exchanging a hydrogen for **deuterium** can have measurable effects on the energy of a reaction. We can investigate a reaction through structural changes that are not really changes. This will be especially useful where slight changes in size may be a deal-breaker, such as in enzyme mechanisms. This idea is called the **kinetic isotope effect** and it is an important tool.
+Even tiny changes can have measurable effects. Exchanging a hydrogen for **deuterium** can change the activation energy of a reaction. We can investigate a reaction through structural changes that are not really changes. This will be especially useful where slight changes in size may be a deal-breaker, such as in enzyme mechanisms. This idea is called the **kinetic isotope effect** and it is an important tool.
 
 We can interpret the details in chemical reaction mechanism through other observations and detective work. There are many **clever methods** and we will explore several options and encounter others as we consider examples of physical organic chemistry.
     
 ## Explorations \& Examples 
 
-**We can go anywhere** now. What would you like to investigate? Each year we will create a body of work that future students can build on.  We will begin with biologically relevant **examples of catalysis** and then we will **go wherever you wish**. Would you like to explore physical organic chemistry as it is applied to a **particular problem**? Would you like to **survey the work** of a significant physical organic chemist? We can do anything. And we will record it all in the form of a Jupyterbook and perhaps we might even contribute to wikipedia.
+**We can go anywhere** now. What would you like to investigate? Each year we will create a body of work that future students can build on.  We will begin with biologically relevant **examples of catalysis** and then we will **go wherever you wish**. Would you like to explore physical organic chemistry as it is applied to a **particular problem**? Would you like to **survey the work** of a significant physical organic chemist? We can do anything. And we will record it all in the form of a report.
 
 
 # Topics

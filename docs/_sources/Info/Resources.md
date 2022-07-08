@@ -24,15 +24,15 @@ Below is a **list** of **software** that will be **available** on many campus co
 1. Interactive *Python* with the ***Jupyter* notebook** environment
     * This can be acquired via the [*Anaconda*](https://www.anaconda.com/) package, available for all operating systems. We will be using *Python* for our data anaysis and plotting. You will see that it is a powerful tool that you will be using for the forseeable future in your scientific career. The *Anaconda* system also includes "*R*" and other tools, but we will keep it simple and stick with *Python*. 
 2. ***GAMESS*** computation chemistry application
-    - We can calculate the structure and energies of small molecules on your own computer. Using this we can calculate the effects of structure changes on bonds in a molecule. We will also be able to visualize molecular orbitals. [*GAMESS*](https://www.msg.chem.iastate.edu/gamess/) is a minor nightmare to get going and is dependant on a command line skill set. We will all struggle together.   
+    - We can calculate the structure and energies of small molecules on your own computer. Using this we can estimate the effects of structure changes on bonds in a molecule. We will also be able to visualize molecular orbitals. [*GAMESS*](https://www.msg.chem.iastate.edu/gamess/) is a minor nightmare to get going and is dependant on a command line skill set. We will all struggle together.   
 3.  ***MacMolPlt***
-    - [*MacMolPlt*](https://brettbode.github.io/wxmacmolplt/) is a graphical interface for building and visualizing input and output files for GAMESS.
+    - [*MacMolPlt*](https://brettbode.github.io/wxmacmolplt/) is a graphical interface for building and visualizing input and output files for *GAMESS*.
 4. ***Avogadro***
-    - [*Avogadro*](https://avogadro.cc/) is a free chemical visualization program. It can read and write files that interface with GAMESS and perform simple structural optimizations. 
+    - [*Avogadro*](https://avogadro.cc/) is a free chemical visualization program. It can read and write files that interface with *GAMESS* and perform simple structural optimizations. 
 5. A **chemical drawing** program
     - There are many options. I recommend the [*Marvin*](https://chemaxon.com/products/marvin) package from ChemAxon. It will run on any operating system.   
 6. The usual stuff
-    - You will need a **word processor**, **spreadsheet** and **presentation program**. A free option is the [*LibreOffice*](https://www.libreoffice.org/) package but [*Office 365*](https://www.upei.ca/learning2020/technology-basics/useful-applications) is available to all students via the university. I recommend the commercial offering in this case, since it is already paid for.
+    - You will need a **word processor**, **spreadsheet** and **presentation program**. A free option is the [*LibreOffice*](https://www.libreoffice.org/) package and [*Office 365*](https://www.upei.ca/learning2020/technology-basics/useful-applications) is available to all students via the university. I recommend the commercial offering in this case, since it is already paid for.
 
 ## Your Time
 

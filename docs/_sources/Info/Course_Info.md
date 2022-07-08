@@ -51,29 +51,34 @@ The course will be organized in a weekly format. Each **Friday**, I will briefly
 
 On the following **Monday**, I will present some more material on the subject and discuss some selected problems. I will also answer any questions that you have come up with over the weekend as you began your reading and started working on the problems. 
 
-In the **Wednesday** class, I will be calling on individual students to present their work on the assigned problems. We will help each other with any difficulties that we encounter – so do take a look at all the problems that have been assigned so that you are ready to participate and help your peers.
+In the **Wednesday** class, I will be calling on individual students to present their work on the suggested problems. We will help each other with any difficulties that we encounter – so do take a look at all the problems that have been assigned so that you are ready to participate and help your peers.
 
-On **Friday**, two of you will be selected to present their work on their assignment (you will know in advance who is presenting.) We will then have a 20-minute quiz. Then I will introduce the next week’s topic and the cycle continues…
+On **Friday**, two of you will be selected to present their work on their assignment (you will know in advance who is presenting.) We will also enjoy a short quiz. Then I will introduce the next week’s topic and the cycle continues…
  
 ## Evaluation
 
 | Component        | Grade  |
 | :-------------   | :----- |
-| Class activities | 30%    | 
+| Class participation | 10%    | 
+| Presentations | 15%    | 
 | Assignments	   | 30%    |
-| Presentations	   | 10%    |
+| Personal Exploration	   | 15%    |
 | Class quizzes	   | 30%    |
 
 This grading scheme is open for revision. Any ideas?.
 
-### Class Activities 
+### Class Participation 
 You will be evaluated on your preparedness for lectures. Students are expected to **arrive prepared** to participate in discussion of the topic. **Readings and exercises** will be assigned in advance to assist students in preparing for each class. Feel free to help each other with **in-class questions**. The class questions are meant to stimulate **discussion** and develop your skills. Academic integrity is a new focus at UPEI due to the online nature of the courses, but **do not hesitate to work together on class problems**.  Just thank those who helped you when presenting your solution. Take note that the **assignments** (see below) are to be completed **individually**.
 
 ### Assignments
 Each week will feature an **assignment** to be completed. Most of these assignments will involve writing a **short report**. Students will have at least 4 days to complete an assignment and submit the report. Late reports will not be accepted without a valid reason. Reports are to be your own **individual work**. 
 
-### Presentation
-There will two or three **presentations** by each student during this course. Your presentation is to be short but substantial (less than 10 minutes). Each presentation will feature your work on an assignment or part of an assignment. You will be **tasked** in turn with a week's notice. More details will be available when the topics are assigned.
+### Presentations
+There will two or three **presentations** by each student during this course. Your presentation is to be short but substantial (less than 10 minutes). Each presentation will feature your work on an assignment or part of an assignment. You will be **tasked** in turn. More details will be available when the topics are assigned.
+
+### Personal Exploration
+
+At about the three-quarter point in the course you will begin a major assignment called the "personal exploration". You will **choose** a topic that features physical organic chemustry and explore the **current literature**. This exercise will be developed over the final four weeks of the course and in the end you will produce a major **report** on your activities. 
 
 ### Class Quizzes
 Most weeks will have a short **class quiz** on Friday. You will be given a list of possible quiz topics or questions (this will usually be the textbook problems assigned for Mondays and Wednesday). The quiz will be based on a selection of those. If a student cannot attend a test, they must have a valid reason and must inform the instructor in advance of the test to make alternate arrangements. 

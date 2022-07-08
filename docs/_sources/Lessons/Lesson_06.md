@@ -99,7 +99,7 @@ The idea of **transition state structure** and how it can be influenced by chang
 
 #### Suggested Problems
 
-> **Attempt** the following problems from Ch. 7: 8, 10, 12, 15–17 & 23–25
+> **Attempt** the following problems from Ch. 7: 8, 12, 15–17 & 23–25
 
 ### Friday
 

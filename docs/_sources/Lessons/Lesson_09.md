@@ -85,7 +85,7 @@ Catalysts **change** the **rate** of a reaction without being consumed during th
 #### Suggested Problems
 
 > **Attempt**  the following problems from Ch. 9: 3, 4, 6, 10, 11, 12, 13 & 16
-> **Attempt** the following problems from Ch. 9: 5, 8, 14, 17 & 18 
+> **Attempt** the following problems from Ch. 9: 5, 8, 14, 17 & 18, 19 
 
 ### Friday
 

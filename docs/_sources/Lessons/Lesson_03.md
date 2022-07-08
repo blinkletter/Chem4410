@@ -46,13 +46,13 @@ Bring your **laptop computer** if you have one and are able to do so. On Monday 
 
 #### Reading
 
-> **Read** Chapter 14.1 and 14.2. Be gentle on yourself, we will not be emphasizing the theory here but you should be exposed to it to help understand the results of our GAMESS calculations.  <br>
-> **Read** the instructions for installing and using GAMESS.  
+> **Read** Chapter 14.1 and 14.2. Be gentle with yourself, we will not be emphasizing the theory here but you should be exposed to it to help understand the results of our GAMESS calculations.  <br>
+> **Read** the instructions for installing and using GAMESS. (the Chapters 1 to 3 of the [Using **GAMESS** Book](Resource_Moodle_Link.md))  
 
 #### Suggested Problems
 
 > **Install GAMESS** and related software. Be patient, this will be frustrating. <br>
-> **Attempt** to complete the calculation described in the instructions above. We will be discussing all your frustrations on Monday so be sure to try this before class. Give yourself **lots of time**.
+> **Attempt** to complete the calculation described in the [Using **GAMESS** Book](Resource_Moodle_Link.md) above. We will be discussing all your frustrations on Monday so be sure to try this before class. Give yourself **lots of time**.
 
 ### Wednesday
 
@@ -60,7 +60,7 @@ Bring your **laptop computer** if you have one and are able to do so. We will di
 
 #### Reading
 
-> **Read** the instructions for constructing an **energy profile** using GAMESS.    
+> **Read** the instructions for constructing an **energy profile** using GAMESS. (Chapters 4 and 5 in the [Using **GAMESS** Book](Resource_Moodle_Link.md))  
 
 #### Suggested Problems
 
@@ -72,7 +72,7 @@ There will be **no quiz** and **no presentations**. This has been planned to be 
 
 #### Reading
 
-> **Read** the instructions for performing a **transition state optimization** and calculating an **intrinsic reaction coordinate** using GAMESS   
+> **Read** the instructions for visualizing molecular orbitals using *GAMESS* (Chapters )  
 
 #### Suggested Problems
 
@@ -85,14 +85,10 @@ There will be **no quiz** and **no presentations**. This has been planned to be 
 2. [Methane with Symmnetry](Resource_Moodle_Link.md)
 2. [Ethylene with Symmetry](Resource_Moodle_Link.md)
 4. [Methanol with Z-matrix](Resource_Moodle_Link.md)
+5. [More Files to Check Out](Resource_Moodle_Link.md)
 
 ### For This Lesson
-1.  [Instructions for Installing **GAMESS**](Resource_Moodle_Link.md)
-2.  [Instructions for Installing **Avogadro**](Resource_Moodle_Link.md)
-3.  [Instructions for Installing **MacMolPlt**](Resource_Moodle_Link.md)
-4.  [Instructions for using GAMESS (**Monday**)](Resource_Moodle_Link.md)
-5.  [Instructions for energy profiles in GAMESS (**Wednesday**)](Resource_Moodle_Link.md)
-6.  [Instructions for energy profiles in GAMESS (**Friday**)](Resource_Moodle_Link.md)
+1.  [Using **GAMESS** Book](Resource_Moodle_Link.md)
 
 ### Extra Resources
 

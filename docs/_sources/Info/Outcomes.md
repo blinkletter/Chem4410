@@ -1,9 +1,9 @@
 # Outcomes
 
-One must approach all endeavours with a **set of goals**. Here are the expected outcomes of a university education, the chemistry department, and this course.
+One must approach all endeavours with a **set of goals**. Here are the expected outcomes of a university education, the chemistry program, and this course.
 
 ## University Outcomes
-Students who have completed a **bachelors degree** at a university will have acheived the following goals:
+Students who have completed a **bachelor of science degree** will have acheived the following goals:
 
 - Be able to **gather information** through a well documented process of **inquiry**.
 - Be able to **analyze and interpret** that information and produce a **conclusion**.

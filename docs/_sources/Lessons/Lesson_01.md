@@ -1,4 +1,5 @@
 # Lesson 1: Remembering The Past
+
 Life is about **making** things and **breaking** things, mostly chemical bonds. All of the reactions of the famous **glycolysis** pathway can be understood using organic chemistry. A deeper understanding of **physical organic chemistry** will enable you to interpret how **enzymes** provide the catalysis that enables the pathway to operate at the speed needed to be meaniful in providing **energy** for cells. Let us embark on our journey to greater understanding of all chemical reactions that make and break bonds by **reviewing** a small slice of our **previous experience**.
 
 Our first two meetings will focus on reviewing organic chemistry.  
@@ -28,7 +29,7 @@ The lesson plans presented in this document are the **ideas** that I hope to exp
     - Stabilization of carbanions and carbocations by resonance
 - Mechanism **puzzles**
     - Why do we observe solvolysis of *t*-butyl bromide but not in *n*-butyl bromide?
-    - Base hydrolysis of ester, acid hydrolysis of ester (acyl substitution)
+    - Base hydrolysis of esters, acid hydrolysis of esters (acyl substitution)
     - Formation of an imine compared with formation of a hydrazone
 
     
@@ -75,10 +76,9 @@ Use the **table below** to match the **last digit** of your student number to th
 Half of the grade will be for your **answer** and half will evaluate how neat, **clear and professional** your work is. Feel free to use a chemical drawing program.
 
 ```{admonition} A Note About Deliverables
-
 The deliverable is what you ”deliver” to your instructor. Quite often **assignments** will have many questions to answer, but students will be assigned a subset of those questions to include in a **report**. Always **read the instructions** and deliverable sections carefully. These detail what I want you to do and what I want you to hand in to me. Use this information to give me what I want - the customer is always right.
 
-The report that you submit should be prepared **using a computer**. All structures presented should be made using a **chemical drawing program** such as Chemdraw, Chemsketch or Marvin. All of those programs can give you the curved arrows needed to express electron flow. Strive to make it look professional.
+The report that you submit should be prepared **using a computer**. All structures presented should be made using a **chemical drawing program** such as *Chemdraw*, *Chemsketch* or *Marvin*. All of those programs can give you the curved arrows needed to express electron flow. Strive to make it look professional.
 
 Submit your report via Moodle. All assignment reports can be submitted using the corresponding link that will be present in the Moodle page. Click on the link and follow the instructions to submit your report. Only **PDF files** will be accepted.
 
@@ -87,7 +87,6 @@ In the modern world, documents are exchanged electronically. Printing is unneces
 
 
 ``` {admonition} “Boss Quality" Documents
-
 In this course you are not only **exploring** advanced topics in chemistry and **mastering** your chemical instincts, you are preparing to depart from the cocoon and spread your wings in the wide world. It is time to pay attention to details that are more important in the real world than they are here. One of these is the **impression** that your work gives to those who receive it. It is not enough to be correct, you need to **effectively communicate** with others. Whether you are writing a document for your first boss or for your early investors, you will need to be **clear and easily understood**. The quality of your writing and the appearance of your work are going to matter. Presenting sloppy work shows a lack of respect for the people who are receiving it.
 
 What kind of report would you hand to your boss? She will forgive your mistakes, but sloppy work will forever **define you** in the eyes of others. **First impressions matter** in every aspect of life. Don’t let the first impression of your work be a poor one. This course does not require "fancy", it only required "**boss quality**". What would you hand in if you had a job that you wanted to keep?
@@ -96,7 +95,7 @@ What kind of report would you hand to your boss? She will forgive your mistakes,
 ## 1.4 Lesson Schedule
 
 ### Wednesday
-In our first meeting you will be asked to **propose a mechanism** for the hydrolysis of t-butyl bromide in acidic water, for the elimination reaction of t-butyl bromide in basic water, and for the hydrolysis of methyl acetate in both acidic and basic water. Your challenge will be to not only propose the **correct** mechanism, but to propose **every possible** mechanism. Then **evaluate** each mechanism and **explain** why you think each may be unlikely or likely to contribute to the observed rate of the reaction. You will leave the meeting with a handout of reactions to review for Friday.
+In our first meeting you will be asked to **propose a mechanism** for the hydrolysis of *t*-butyl bromide in acidic water, for the elimination reaction of *t*-butyl bromide in basic water, and for the hydrolysis of methyl acetate in both acidic and basic water. Your challenge will be to not only propose the **correct** mechanism, but to propose **every possible** mechanism. Then **evaluate** each mechanism and **explain** why you think each may be unlikely or likely to contribute to the observed rate of the reaction. You will leave the meeting with a handout of reactions to review for Friday.
 
 #### Reading
 There is no reading to do in advance of starting the course however you will want to very quickly **review appendix 5 of the textbook** and try the problems you see there.
@@ -137,20 +136,20 @@ These **resources** are directly related to this lesson and may be assigned read
 2. [Appendix 5 problems](Resource_Moodle_Link.md)
       - I have copied these **questions from the textbook** and made them available on the Moodle site. Please acquire a copy of the textbook soon as I won’t be able to do this again. Respect copyright — someday you may be an author.
       
-### Organic Chemistry Review
+### Other Resources
 
 These are **extra resources** intended to provide more information for reviewing your previous organic chemistry.
+
+#### Organic Chemistry Review
 
 3. [Organic Chemistry Review](Resource_Moodle_Link.md) 
       - I wrote this as a review of organic chemistry for students who are beginning my biochemistry course.
 4. [Review of Organic Chemistry: Nucleophilic Carbon](Resource_Moodle_Link.md) 
-      - I wrote this as a supplement for my advanced organic chemistry course as a review of enolate chemistry. It is brief and not very comprehensive but may be helpful. 
+      - I wrote this review of enolate chemistry as a supplement for my advanced organic chemistry course. It is brief and not very comprehensive, but may be helpful. 
 5. [Summary of Organic Chemistry](Resource_Moodle_Link.md) 
-      - I started writing this as an overview of Or- ganic Chemistry for Life Sciences, Chem 243. It was never finished but what is there may be helpful. 
+      - I started writing this as an overview of Organic Chemistry for Life Sciences, Chem 2430. It was never finished but what is there may be helpful. 
 6. [A Chemistry Toolkit](Resource_Moodle_Link.md)
-      - I wrote this as a review of introductory chemistry for my beginning organic chjemistry students. It’s been a long time since your first year. How much do you recall? 
-7. [Virtual Textbook of Organic Chemistry](https://www2.chemistry.msu.edu/faculty/reusch/virttxtjml/intro1.htm)  
-      - This is a link to the free textbook by William Reusch. It is a serviceable overview of organic chemistry and it is free. 
+      - I wrote this as a review of introductory chemistry for organic chemistry students. It’s been a long time since your first year. How much do you recall? 
 8. [Organic Chemistry Review](http://sites.tufts.edu/andrewrosen/files/2012/11/Orgo-I-Overview1.pdf)
       - I found this set of review slides at Tufts University. It is a concise list including most of the reactions that you explored in Chem 2410/2420/3420. Perhaps it will be helpful.
 9. [Arrow Pushing](http://iverson.cm.utexas.edu/courses/310N/Mechanism%20Sheets/MechanismExplanation.pdf)
@@ -162,7 +161,16 @@ These are **extra resources** intended to provide more information for reviewing
 12. [Organic Chemistry Mechanism Problems with Answers](Resource_Moodle_Link.md) 
       - This is a set of problems curated by Sergio Cortes of the University of Texas at Dallas. Try them out before checking the answers.
 
-### More, More!
+#### Organic Chemistry Textbooks
+
+7. [Virtual Textbook of Organic Chemistry](https://www2.chemistry.msu.edu/faculty/reusch/virttxtjml/intro1.htm)  
+    - This is a link to the free textbook by William Reusch. It is a serviceable overview of organic chemistry and it is free. 
+15. [Organic Chemistry: An Intermediate Text, Second Edition](https://onlinelibrary-wiley-com.proxy.library.upei.ca/doi/book/10.1002/0471648736)
+    - This is an excellent book for furthering your organic chemistry skills. It is fairly short and to the point. It is available for free to UPEI students.
+16. [Free Organic Books](http://www.digitalbookindex.org/_search/search010menu-chem.asp)
+    - A list of free books and monographs in the subject of organic chemistry.
+
+#### Miscellaneous
 
 These resources are **not related** to this lesson but may change your life as an organic chemist. I certainly wish many of these were around when I was a student. I am placing them here so that you have a place to go to access them if you feel the need. 
 
@@ -170,10 +178,6 @@ These resources are **not related** to this lesson but may change your life as a
     - It's not voodoo, it's all in the wrist. This is an excellent set of information for practical lab techniques.
 14. [Organic Chemistry Data](https://organicchemistrydata.org/)
     - An archive of useful information maintained by the ACS Division of Organic Chemists
-15. [Organic Chemistry: An Intermediate Text, Second Edition](https://onlinelibrary-wiley-com.proxy.library.upei.ca/doi/book/10.1002/0471648736)
-    - This is an excellent book for furthering your organic chemistry skills. It is fairly short and to the point. It is available for free to UPEI students.
-16. [Free Organic Books](http://www.digitalbookindex.org/_search/search010menu-chem.asp)
-    - A list of free books and monographs in the subject of organic chemistry.
 17. [ChemTube3D](https://www.chemtube3d.com/main-page/)
     - Three-dimensional chemistry animations. Perhaps some will be helpful in visualizing a chemical reaction.
     

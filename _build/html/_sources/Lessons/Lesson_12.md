@@ -1,6 +1,8 @@
 # Lesson 12: Examples and Fun
 INTRO
 
+Carbene Chemistry?
+
 ## 12.1 Lesson Plan
 The plan below is not necessarily what will happen in class – it is merely what I **hope** will happen in class. We will explore the following subjects and ideas&hellip;
 
