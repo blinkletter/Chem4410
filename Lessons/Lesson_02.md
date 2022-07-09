@@ -21,7 +21,7 @@ After reading the suggested textbook section and practicing the problems you sho
 - Understand how **hydrid orbitals** are constructed from atomic orbitals according to bond angles.
 - Calculate the **hydridization** of a carbon atom from bond angles and use this information to **interpret electronic structure**.
 - Construct an approximate **molecular orbital diagram** from a basis set of atomic orbitals and be able to **predict reactivity** and relative stability using the diagram.
-- Use the results of a **HMOT calculations** to interpret reactivity in a conjugated or aromatic system.
+- Use the results of a **HMOT calculations** to interpret electronic structure in a conjugated or **aromatic** system.
 - Use HMOT to estimate the effects of **polar atoms** in that conjugated system on the MO arrangement.
 - Be able to use interactive **Python** to solve computational problems.
 
@@ -98,21 +98,24 @@ In our third meeting for this lesson there will be a **short quiz** featuring pr
 
 #### Reading
 
-> **Review** Chapter 1.1, 1.4, 14.3 & 14.5  <br>
+> **Read** "Using Molecular Modeling To Understand Some of the More Subtle Aspects of Aromaticity and Antiaromaticity", Vernon G. S. Box, *Journal of Chemical Education*, **2011**, *88*, 898-906. DOI:10.1021/ed100408s \[[Link](https://pubs-acs-org.proxy.library.upei.ca/doi/abs/10.1021/ed100408s)\] <br>
+> **Read** "The Aromatic Ring", Doris Kolb, *Journal of Chemical Education*, **1979**, *56*, 334-337. DOI:10.1021/ed056p334 \[[Link](https://pubs-acs-org.proxy.library.upei.ca/doi/abs/10.1021/ed056p334)\]<br>
 
 #### Suggested Problems
 
-> **Explore** the Jupyter notebooks and change them to calculate the &pi;-MOs of a molecule of your choice. Please **practice** with them before the Friday meeting.
+> **Explore** the Jupyter notebooks and change them to calculate the &pi;-MOs of a molecule of your choice. Please **practice** with them before the Friday meeting. <br>
+> **Consider** what you hve learned about aromaticity and how the examples of naphthalene and azulene relate to that. How do the ideas presented in the two literature contributions expand on this understanding? 
+
 
 ````{admonition} A Suggested Personal Schedule
 
-As we **get started**, here is a suggested schedule for getting it all done. The purpose of this schedule is to make the case for **starting early** on your weekly efforts to make **best use** of your time. 
+As we **get started** in this course, here is a suggested schedule for getting it all done this week. The purpose of this schedule is to make the case for **starting early** on your weekly efforts to make **best use** of your time. 
 
 ```{admonition} Friday and the Weekend
 
 **Last week** on Friday you will have looked ahead to this chapter and read this text so you will know to start on Friday. 
 
-1. Read the **assigned** readings for Monday and attampt the **suggested** problems.
+1. Read the **assigned** readings for Monday and attempt the **suggested** problems.
 
 2. For the **assignment**, use what you learned in the reading to **start** sketching out the molecular orbitals.
 ```
@@ -133,6 +136,8 @@ Oh you will hopefully have more **questions**. On Wednesday you can ask them. Yo
 1. Now, after seeing **further examples** of molecular orbitals and mechanism, complete the assignment report. You will be better able to construct MOs in conjugated systems after gaining an introduction to HMOT.
 
 2. Don't study for the quiz. **Doing** the problems is all you need. **Finish** any of the **suggested problems** that you missed.
+
+3. **Read** the two literature contributions about aromaticity. Think about what you have learned from your textbook readings, problems and HMOT calculations and consider the ideas in these papers. 
 
 3. **Hack** the Jupyter notebooks demonstrated in class. Try **different** molecules. We've demonstrated naphthalene and azulene, so try the **molecules** in problem 14.10 that you would have noticed while trying the suggested problems.
 

@@ -1,7 +1,7 @@
 # Lesson 4: Thermochemistry and Strain
-Let us use math again to interpret chemistry. Over the last century chemists have established **detailed tables** of data for burning hydrocarbons and used this information to establish the **heats of formation**, $\Delta H_f^{\circ}$. Along the way, it was observed that certain **groups contributed** the same portion of $\Delta H_f^{\circ}$. These became known as **group increments** and represent the contribution of a chemical group in a completely unstrained system. We might know the $\Delta H_f^{\circ}$ for a molecule and observe that it is significantly **different** than that calculated using a collection of group increments. This difference in energy is most often the result of **strain**.
 
------
+Let us use math again to interpret chemistry. Over the last century chemists have established **detailed tables** of data for burning hydrocarbons and used this information to establish the **heats of formation**, &Delta;*H<sub>f</sub>*&deg;. Along the way, it was observed that certain **groups contributed** the same portion of &Delta;*H<sub>f</sub>*&deg;. These became known as **group increments** and represent the contribution of a chemical group in a completely unstrained system. We might know the &Delta;*H<sub>f</sub>*&deg; for a molecule and observe that it is significantly **different** than that calculated using a collection of group increments. This difference in energy is most often the result of **strain**.
+
 ## 4.1 Lesson Plan
 The plan below is not necessarily what will happen in class – it is merely what I **hope** will happen in class. We will explore the following subjects and ideas&hellip;
 
@@ -11,7 +11,6 @@ The plan below is not necessarily what will happen in class – it is merely wha
 - **Electronic effects vs. steric effects** and the example of the anomeric effect (Ch. 2.4)
 - All calculations will be demonstrated in the class meeting using Jupyter notebooks and **Python** as the calculator.
 
------
 ## 4.2 Learning Goals
 After reading the suggested textbook section and practicing the problems you should be able to&hellip;
 
@@ -19,26 +18,22 @@ After reading the suggested textbook section and practicing the problems you sho
 - Predict the **enthalpy change** for a reaction using group increments.
 - Use experimental enthalpy changes and calculated enthalpy changes to estimate steric strain and **resonance stabilization**.
 
------
 ## 4.3 Assignment \#4
 
-The following assignment is to be submitted via moodle before the Friday meeting.
+The following assignment is to be submitted via moodle before Friday (there is no meeting this friday).
 
-### Instructions
+### The Instructions
 This section describes the **activity** that you are to perform for the assignment. Do the following&hellip;
 
 > **Make a plot** of the IR stretching frequencies for covalent bonds vs. the corresponding bond dissociation energies. Does IR stretching frequency **correlate** with a measure of bond strength? Use a spreadsheet program or Jupyter notebook for creating the graph. 
 
-### The Report
+### The Deliverable
 > **Comment** on your observations. **Write** the document in a clear and concise style using a word processor or other document creation system. **Document** your activities (where did you get the data, how did you analyze it, what tools did you use? **Include** the data table and the plot, of course. 
 
-
 ### Grading
+
 **Half** of the grade will be for your **answer** and **half** will evaluate how neat, **clear and professional** your are in communicating your answer. Feel free to use a chemical drawing program. Take pride in your work.
 
-
-
------
 ## 4.4 Lesson Schedule
 
 ### Monday 
@@ -52,11 +47,11 @@ We will use **group increments** to determine the heats of formation of a number
 #### Suggested Problems
 
 > **Attempt** the following problems at the end of Chapter 2: 2, 7, 8, 9, 10, 11 \& 51 <br>
-> Use **GAMESS** to optimize the structure of hydrazine (problem 11) and compare the calculated result with your proposed cconformation.
+> Use **GAMESS** to optimize the structure of hydrazine (problem 11) and compare the calculated result with your proposed conformation.
 
 ### Wednesday
 
-Group increments and bond dissociation energies can be used to interpret reactions and make predictions. Can we identifty the stabilization that aromaticity brings above and beyond mere conjugation. Three bonds in a row seem to have very different properties when arranged in a circle. Why?
+**Group increments** and bond dissociation energies can be used to **interpret reactions** and make predictions. Can we identifty the stabilization that **aromaticity** brings above and beyond mere conjugation. Three bonds in a row seem to have very different properties when arranged in a circle. Why?
 
 **Look ahead** to Lesson 5 to see what you should prepare for Monday.
 
@@ -78,7 +73,6 @@ No Classes. **Truth & Reconcilliation Day** but it's not a holliday. Time to do 
 > **Read** [Where are the Children Buried?](https://ehprnh2mwo3.exactdn.com/wp-content/uploads/2021/05/AAA-Hamilton-cemetery-FInal.pdf). Available on the **National Centre of Truth and Reconcilliation** [website](https://nctr.ca/).
 
 
-------
 ## 4.5 Resources
 
 ### Jupyter Notebooks

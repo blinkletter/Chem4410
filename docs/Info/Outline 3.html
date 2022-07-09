@@ -51,12 +51,10 @@ const thebe_selector_input = "pre"
 const thebe_selector_output = ".output, .cell_output"
 </script>
     <script async="async" src="../_static/sphinx-thebe.js"></script>
-    <script>window.MathJax = {"options": {"processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
-    <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="&lt;no title&gt;" href="Outcomes.html" />
-    <link rel="prev" title="Essential Tools" href="Resources.html" />
+    <link rel="next" title="Outcomes" href="Outcomes.html" />
+    <link rel="prev" title="Course Information" href="Course_Info.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="None">
     
@@ -108,17 +106,22 @@ const thebe_selector_output = ".output, .cell_output"
 <ul class="current nav bd-sidenav">
  <li class="toctree-l1">
   <a class="reference internal" href="Course_Info.html">
-   Course Description
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="Resources.html">
-   Essential Tools
+   Course Information
   </a>
  </li>
  <li class="toctree-l1 current active">
   <a class="current reference internal" href="#">
    Course Outline
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="Outcomes.html">
+   Outcomes
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="Resources.html">
+   Essential Tools
   </a>
  </li>
 </ul>
@@ -151,6 +154,46 @@ const thebe_selector_output = ".output, .cell_output"
  <li class="toctree-l1">
   <a class="reference internal" href="../Lessons/Lesson_05.html">
    Lesson 5: Acids and Bases
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../Lessons/Lesson_06.html">
+   Lesson 6: Reaction Kinetics
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../Lessons/Lesson_07.html">
+   Lesson 7: Tools, Part 1
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../Lessons/Lesson_08.html">
+   Lesson 8: Tools, Part 2
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../Lessons/Lesson_09.html">
+   Lesson 9: Catalysis
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../Lessons/Lesson_10.html">
+   Lesson 10: Student Exploration
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../Lessons/Lesson_11.html">
+   Lesson 11: Non-Classical Cations
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../Lessons/Lesson_12.html">
+   Lesson 12: Examples and Fun
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../Lessons/Lesson_13.html">
+   Lesson 13: Wrap and Review
   </a>
  </li>
 </ul>
@@ -261,8 +304,8 @@ const thebe_selector_output = ".output, .cell_output"
     </a>
    </li>
    <li class="toc-h2 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#examples">
-     Examples
+    <a class="reference internal nav-link" href="#explorations-examples">
+     Explorations &amp; Examples
     </a>
    </li>
   </ul>
@@ -313,8 +356,8 @@ const thebe_selector_output = ".output, .cell_output"
     </a>
    </li>
    <li class="toc-h2 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#examples">
-     Examples
+    <a class="reference internal nav-link" href="#explorations-examples">
+     Explorations &amp; Examples
     </a>
    </li>
   </ul>
@@ -340,25 +383,25 @@ const thebe_selector_output = ".output, .cell_output"
 <h2>The Past is Prologue<a class="headerlink" href="#the-past-is-prologue" title="Permalink to this headline">¶</a></h2>
 <p>We will begin with some of the <strong>core ideas of chemistry</strong>, focussing on structure and energy. This will not be a review; it will be a <strong>deep dive</strong>. There are things we did not tell you. You are ready at last.</p>
 <p>We must first start with a understanding of molecular structure. We will consider the <strong>nature of the chemical bond</strong>. It’s not a line on a page, it is an arrangement of electrons and nuclei that form a stable system. Changes in structure can affect the energy and therefore the reactivity. <strong>Structure affects reactivity</strong>.</p>
-<p>To investigate the effect of structural changes on the electronic arrangement in a bond within a molecule, we will need to consider the quantum nature of system. We will use simple linear combinations of <strong>atomic orbitals</strong> to build graphical models of <strong>molecular orbitals</strong> in small molecules using no math whatsoever. Then we will use simple math to estimate the <strong>energies and electon densities</strong> in <span class="math notranslate nohighlight">\(\pi\)</span> systems and explore the depths of <strong>electron delocalization and aromaticity</strong>. We will then dip our toes into the field of real math without knowing what we are doing by using a <strong>computational chemistry</strong> tool to calculate more exact structure and energies for reactants. intermediates and products.</p>
+<p>To investigate the effect of structural changes on the electronic arrangement in a molecule, we will need to consider the quantum nature of system. We will use simple linear combinations of <strong>atomic orbitals</strong> to build graphical models of <strong>molecular orbitals</strong> in small molecules using no math whatsoever. Then we will use simple math to estimate the <strong>energies and electon densities</strong> in π systems and explore the depths of <strong>electron delocalization and aromaticity</strong>. We will then dip our toes into the field of real math by using a <strong>computational chemistry</strong> tool to calculate more exact structure and energies for reactants. intermediates and products.</p>
 <p>One of the most obvious ways to show the affect of structure on the energy of a chemical bond is <strong>strain</strong>. A carbon-carbon bond in a 4-membered ring is higher in energy that the same in a 5-membered ring. To explore this idea we will consider <strong>thermochemistry</strong> and how the relative energies of molecules can be revealed by burning them.</p>
 </div>
 <div class="section" id="seeing-farther">
 <h2>Seeing Farther<a class="headerlink" href="#seeing-farther" title="Permalink to this headline">¶</a></h2>
 <p>Now we will move into topics that are familiar but include new ideas for interpreting how structure affects reactivity.</p>
-<p>To fully understand how structure influences reactivity, we must understand the path from reactant to product. We will develope a deeper understanding of the <strong>reaction coordinate and the transition state</strong>. We will see how changing the structure of reactants can change the timing of bond changes in the transition state. We will express this via 2-dimensional reaction coordinate diagrams and 3-dimensional reaction <strong>energy surfaces</strong> as we try to get as close to the truth as simple line drawings will permit.</p>
-<p>We will encounter <strong>acid/base chemistry</strong> yet again. The fifth time is the charm. The math of acid equilibria will be explored using computational tools and we will leave the world of water behind and experience a place where strong acids show their true power. How can you <strong>measure</strong> the <span class="math notranslate nohighlight">\(pH\)</span> of pure sulphuric acid? Physical organic chemistry will show you.</p>
+<p>To fully understand how structure influences reactivity, we must understand the path from reactant to product. We will develop a deeper understanding of the <strong>reaction coordinate</strong> and the <strong>transition state</strong>. We will see how changing the structure of reactants can change the timing of bond changes in the transition state. We will express this via 2-dimensional reaction coordinate diagrams and 3-dimensional reaction <strong>energy surfaces</strong> as we try to get as close to the truth as simple line drawings will permit.</p>
+<p>We will encounter <strong>acid/base chemistry</strong> yet again. The fifth time is the charm. The math of acid equilibria will be explored using computational tools and we will leave the world of water behind and experience a place where strong acids show their true power. How can you <strong>measure</strong> the <em>pH</em> of pure sulphuric acid? Physical organic chemistry will show you.</p>
 </div>
 <div class="section" id="structure-and-reactivity">
 <h2>Structure and Reactivity<a class="headerlink" href="#structure-and-reactivity" title="Permalink to this headline">¶</a></h2>
-<p>The heart of physical organic chemistry is the <strong>correlation</strong> of one system with another. Changing structure of substituted benzoic acids changes the <span class="math notranslate nohighlight">\(pK_a\)</span> value. Can we measure the <strong>electronic effect</strong> of these structure changes using <span class="math notranslate nohighlight">\(pK_a\)</span> values as the score? Can we score the <strong>size</strong> of chemical groups by how they affect the rate of a given reaction? Can we then use these scores to study the <strong>mechanism</strong> of unrelated sytems? Yes we can. Free energy changes in one system may relate to free energy changes in another system. With these scoring systems we can see if there is a correlation and draw conclusions from that information. These correlations are called <strong>linear free energy relationships (LFER)</strong> and this idea is the most famous contribution of physical organic chemistry to the world.</p>
+<p>The heart of physical organic chemistry is the <strong>correlation</strong> of one system with another. Changing structure of substituted benzoic acids changes the <em>pK<sub>a</sub></em> value. Can we measure the <strong>electronic effect</strong> of these structure changes using <em>pK<sub>a</sub></em> values as the score? Can we score the <strong>size</strong> of chemical groups by how they affect the rate of a given reaction? Can we then use these scores to study the <strong>mechanism</strong> of unrelated sytems? Yes we can. Free energy changes in one system may relate to free energy changes in another system. With these scoring systems, we can see if there is a correlation and draw conclusions from that information. These correlations are called <strong>linear free energy relationships (LFER)</strong> and this idea is the most famous contribution of physical organic chemistry to the world.</p>
 <p>If we can quantify how structure affects reactivity, perhaps we can quantify how structure affects the activity of drugs. This is the idea of <strong>quantitative structure-activity relationships (QSAR)</strong> and is a major tool in drug development. Drug companies are investing billions of dollars into the big data of drug discovery. They are now applying AI. What’s next?</p>
-<p>Even tiny changes can have measurable effects. Changing a hydrogen for another type of hydrogen, <strong>deuterium</strong>, can have measurable effects on the energy of a reaction. We can investigate a reaction through structural changes that are not really changes. This will be especially useful where slight changes in size may be a deal-breaker, such as in enzyme mechanisms. This idea is called the <strong>kinetic isotope effect</strong> and it is an important tool.</p>
+<p>Even tiny changes can have measurable effects. Exchanging a hydrogen for <strong>deuterium</strong> can change the activation energy of a reaction. We can investigate a reaction through structural changes that are not really changes. This will be especially useful where slight changes in size may be a deal-breaker, such as in enzyme mechanisms. This idea is called the <strong>kinetic isotope effect</strong> and it is an important tool.</p>
 <p>We can interpret the details in chemical reaction mechanism through other observations and detective work. There are many <strong>clever methods</strong> and we will explore several options and encounter others as we consider examples of physical organic chemistry.</p>
 </div>
-<div class="section" id="examples">
-<h2>Examples<a class="headerlink" href="#examples" title="Permalink to this headline">¶</a></h2>
-<p><strong>We can go anywhere</strong> now. What would you like to investigate? Each year we will create a body of work that future students can build on.  We will begin with biologically relevant <strong>examples of catalysis</strong> and then we will <strong>go wherever you wish</strong>. Would you like to explore physical organic chemistry as it is applied to a <strong>particular problem</strong>? Would you like to <strong>survey the work</strong> of a significant physical organic chemist? We can do anything. And we will record it all in the form of a Jupyterbook and perhaps we might even contribute to wikipedia.</p>
+<div class="section" id="explorations-examples">
+<h2>Explorations &amp; Examples<a class="headerlink" href="#explorations-examples" title="Permalink to this headline">¶</a></h2>
+<p><strong>We can go anywhere</strong> now. What would you like to investigate? Each year we will create a body of work that future students can build on.  We will begin with biologically relevant <strong>examples of catalysis</strong> and then we will <strong>go wherever you wish</strong>. Would you like to explore physical organic chemistry as it is applied to a <strong>particular problem</strong>? Would you like to <strong>survey the work</strong> of a significant physical organic chemist? We can do anything. And we will record it all in the form of a report.</p>
 </div>
 </div>
 <div class="tex2jax_ignore mathjax_ignore section" id="topics">
@@ -382,7 +425,7 @@ const thebe_selector_output = ".output, .cell_output"
 </tr>
 <tr class="row-even"><td class="text-align:left"><p>3</p></td>
 <td class="text-align:left"><p>Calculating bonds &amp; molecular orbitals</p></td>
-<td class="text-align:left"><p>Ch. 1 &amp; Ch. 14</p></td>
+<td class="text-align:left"><p>Ch. 14 &amp; 15</p></td>
 </tr>
 <tr class="row-odd"><td class="text-align:left"><p>4</p></td>
 <td class="text-align:left"><p>Thermochemistry and Steric Strain</p></td>
@@ -392,37 +435,41 @@ const thebe_selector_output = ".output, .cell_output"
 <td class="text-align:left"><p>Acids and Bases</p></td>
 <td class="text-align:left"><p>Ch. 5</p></td>
 </tr>
-<tr class="row-odd"><td class="text-align:left"><p>6</p></td>
+<tr class="row-odd"><td class="text-align:left"><p></p></td>
 <td class="text-align:left"><p>Break Week</p></td>
 <td class="text-align:left"><p></p></td>
 </tr>
-<tr class="row-even"><td class="text-align:left"><p>7</p></td>
+<tr class="row-even"><td class="text-align:left"><p>6</p></td>
 <td class="text-align:left"><p>Kinetics and Transition States</p></td>
 <td class="text-align:left"><p>Ch. 7</p></td>
 </tr>
-<tr class="row-odd"><td class="text-align:left"><p>8</p></td>
+<tr class="row-odd"><td class="text-align:left"><p>7</p></td>
+<td class="text-align:left"><p>Tools of Physical Organic Chemistry</p></td>
+<td class="text-align:left"><p>Ch. 8.1 &amp; 8.8</p></td>
+</tr>
+<tr class="row-even"><td class="text-align:left"><p>8</p></td>
 <td class="text-align:left"><p>Tools of Physical Organic Chemistry</p></td>
 <td class="text-align:left"><p>Ch. 8.2 to 8.7</p></td>
 </tr>
-<tr class="row-even"><td class="text-align:left"><p>9</p></td>
-<td class="text-align:left"><p>Tools of Physical Organic Chemistry</p></td>
-<td class="text-align:left"><p>Ch. 8.1</p></td>
-</tr>
-<tr class="row-odd"><td class="text-align:left"><p>10</p></td>
+<tr class="row-odd"><td class="text-align:left"><p>9</p></td>
 <td class="text-align:left"><p>Catalysis</p></td>
 <td class="text-align:left"><p>Ch.9</p></td>
 </tr>
-<tr class="row-even"><td class="text-align:left"><p>11</p></td>
-<td class="text-align:left"><p>Student Presentations</p></td>
-<td class="text-align:left"><p>Ch. 8.8</p></td>
+<tr class="row-even"><td class="text-align:left"><p>10</p></td>
+<td class="text-align:left"><p>Student Exploration</p></td>
+<td class="text-align:left"><p>Textbook &amp; primary literature</p></td>
 </tr>
-<tr class="row-odd"><td class="text-align:left"><p>12</p></td>
-<td class="text-align:left"><p>Example Reaction Mechanisms</p></td>
-<td class="text-align:left"><p>Ch. 10 &amp; 11</p></td>
+<tr class="row-odd"><td class="text-align:left"><p>11</p></td>
+<td class="text-align:left"><p>“Non-classical Cations or Nonsense?”</p></td>
+<td class="text-align:left"><p>Ch. 11.5, 14.5 and literature</p></td>
 </tr>
-<tr class="row-even"><td class="text-align:left"><p>13</p></td>
-<td class="text-align:left"><p>Example Reaction Mechanisms</p></td>
-<td class="text-align:left"><p>Ch. 10 &amp; 11</p></td>
+<tr class="row-even"><td class="text-align:left"><p>12</p></td>
+<td class="text-align:left"><p>Current Events and Recent Literature</p></td>
+<td class="text-align:left"><p>Ch. 10 &amp; 11 and literature</p></td>
+</tr>
+<tr class="row-odd"><td class="text-align:left"><p>13</p></td>
+<td class="text-align:left"><p>Review and Wrap-up</p></td>
+<td class="text-align:left"><p>Ch. 10 &amp; 11 and literature</p></td>
 </tr>
 </tbody>
 </table>
@@ -453,17 +500,17 @@ const thebe_selector_output = ".output, .cell_output"
             
                 <!-- Previous / next buttons -->
 <div class='prev-next-area'> 
-    <a class='left-prev' id="prev-link" href="Resources.html" title="previous page">
+    <a class='left-prev' id="prev-link" href="Course_Info.html" title="previous page">
         <i class="fas fa-angle-left"></i>
         <div class="prev-next-info">
             <p class="prev-next-subtitle">previous</p>
-            <p class="prev-next-title">Essential Tools</p>
+            <p class="prev-next-title">Course Information</p>
         </div>
     </a>
     <a class='right-next' id="next-link" href="Outcomes.html" title="next page">
     <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">&lt;no title&gt;</p>
+        <p class="prev-next-title">Outcomes</p>
     </div>
     <i class="fas fa-angle-right"></i>
     </a>

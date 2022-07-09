@@ -45,7 +45,7 @@ name: directive-fig
 
 ### The Deliverable
 
-> **Create** a document in which you present the approximate  **molecular orbital diagram** for each reactant and **identify** the **frontier molecular orbitals**. **Draw** the **transition state** based on the arrow pushing as presented. If you find the TS unlikely, **draw** the **correct** transition state and correct arrow psuhing reaction scheme. Explain why you **agree or disagree with the arrow pushing**. Be brief in your explanation but be clear. Provide a corrected reaction scheme if needed.
+> **Create** a document in which you present the approximate  **molecular orbital diagram** (all &sigma; and &pi; MOs) for each reactant and **identify** the **frontier molecular orbitals**. **Draw** the **transition state** based on the arrow pushing as presented. If you find the TS unlikely, **draw** the **correct** transition state and correct arrow psuhing reaction scheme. Explain why you **agree or disagree with the arrow pushing**. Be brief in your explanation but be clear. Provide a corrected reaction scheme if needed.
 
 ### Grading
 
@@ -78,14 +78,15 @@ We will use a *Python* tool to **easily and quickly calculate** the molecular or
 #### Reading
 
 > **Read** Chapter 14.3 & 14.5 <br>
-> **Examine** the Jupyter-book [Python and Chemistry](https://blinkletter.github.io/MathWithPython/) described in the resources section below and available on the moodle page <br>
-> **Examine** the Jupyter-book for [HMOT calculations](Resource_Moodle_Link.md) described in the resources section below and available on the moodle page.
+> **Examine** the Jupyter-book [Python and Chemistry](https://blinkletter.github.io/MathWithPython/) described in the resources section below and available on the moodle page. Don't spend much time with it. Just **flip through** and observe what is there for when you need it later. <br>
+> **Examine** the Jupyter-book for [HMOT calculations](Resource_Moodle_Link.md) described in the resources section below and available on the moodle page. You will be **using** the Jupyter Notebooks within this bookj to do HMOT calculations.
 
 #### Suggested Problems
 
 > **Attempt** the following problems at the end of Chapter 1: 7, 15 & 32
  <br>
-> **Attempt** the following problems at the end of Chapter 14: 9, 11, 26 
+> **Attempt** the following problems at the end of Chapter 14: 9, 11, 26  <br>
+> Where molecular orbitals are being constructed, use HMOT.
 
 ### Friday
 
@@ -97,7 +98,9 @@ In our third meeting for this lesson there will be a **short quiz** featuring pr
 
 #### Reading
 
-> **Review** Chapter 1,1, 1,4, 14.3 & 14.5  <br>
+> **Read** "Using Molecular Modeling To Understand Some of the More Subtle Aspects of Aromaticity and Antiaromaticity", Vernon G. S. Box, *Journal of Chemical Education*, **2011**, *88*, 898-906. DOI:10.1021/ed100408s \[Link]\]([https://pubs-acs-org.proxy.library.upei.ca/doi/abs/10.1021/ed100408s) <br>
+> **Read** "The aromatic ring", Doris Kolb, *Journal of Chemical Education*, **1979**, *56*, 334-337. DOI:10.1021/ed056p334 \[Link]\](https://pubs-acs-org.proxy.library.upei.ca/doi/abs/10.1021/ed056p334)<br>
+**Review** Chapter 1.1, 1.4, 14.3 & 14.5  <br>
 
 #### Suggested Problems
 
@@ -122,6 +125,8 @@ On Monday you can ask questions. You will have **questions** if you have begun t
 1. **Complete** the molecular orbital **diagram** for both systems in the assignment. Then **begin** making a neat and tidy version for you report. Try to see how the frontier orbitals **match up** (or not) with the **arrow-pushing** in the proposed reaction mechanisms.
 
 2. **Read** the assigned readings for Wednesday and **attempt** the suggested problems.
+
+3. **Build** your Jupyter notebook tool for HMOT calculations (cut and paste - do not expend effort when a tool already exists) and **use it** you help answer the textbook questions.
 ```
 ```{admonition} Wednesday and Thursday
 
@@ -129,11 +134,11 @@ Oh you will hopefully have more **questions**. On Wednesday you can ask them. Yo
 
 1. Now, after seeing **further examples** of molecular orbitals and mechanism, complete the assignment report. You will be better able to construct MOs in conjugated systems after gaining an introduction to HMOT.
 
-2. Don't study for the quiz. **Doing** the problems is all you need.
+2. Don't study for the quiz. **Doing** the problems is all you need. **Finish** any of the **suggested problems** that you missed.
 
 3. **Hack** the Jupyter notebooks demonstrated in class. Try **different** molecules. We've demonstrated naphthalene and azulene, so try the **molecules** in problem 14.10 that you would have noticed while trying the suggested problems.
 
-4. For the two **chosen ones** who are asked to present their assignments, make **two slides** explaining your work and presenting your MO digram and conclusions.
+4. For the two **chosen ones** who are asked to present their assignments, make **two slides** explaining your work and presenting your transition state, MO diagram and conclusion.
 ```
 ```{admonition} Friday
 
@@ -142,6 +147,7 @@ You will submit your **assignments** before class. In class there will be the **
 That's it. Rinse and repeat. **Apply** this schedule to every lesson for best results. Always **start early** on problems and assignments. You can't ask questions at midnight.
 
 ```
+Take note that, with this schedule, you are doing the work for Monday **before** Monday, the work for Wednesday **before** Wednesday, etc. On Friday you should be reading about the work for the following Monday. Stay cool, stay ahead.
 ````
 
 ## 2.5 Resources
@@ -156,7 +162,7 @@ The following notebooks have been made in advance and are available in Jupyter-b
      - A Jupyter-book introducing some basic skills in using *Python* to perform calculations and make plots for chemistry. Feel free to cut and paste all the code for your own projects.
 
 2. [HMOT calculations using Python](Resource_Moodle_Link.md)
-    - A Jupyter-book that will take you through some ways to use *Python* to perform simplified Hückel molecular orbital 
+    - A Jupyter-book that will take you through some ways to use *Python* to perform simplified Hückel molecular orbital calculations.
 
 
 #### Molecular Orbital Theory
@@ -182,7 +188,7 @@ The following notebooks have been made in advance and are available in Jupyter-b
 7. [Python For Chemistry in 21 Minutes](http://felix.unife.it/Didattica/Articoli/17518-OBoyle.pdf)
      - A slide deck justifying and introducing the use of Python for chemists.
 9. [Python in Chemistry blog](https://pythoninchemistry.org/)
-     - This is a collection of articles on using Python in chemistry research and eduaction.
+     - This is a collection of articles on using Python in chemistry research and education.
 10. [The Good Research Code Handbook](https://goodresearch.dev/index.html)
      - this is an online textbook in wfitkng good code for research. It's mostly about good habits.
 11. [ChemPy](https://pypi.org/project/chempy/)
