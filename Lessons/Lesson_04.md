@@ -1,6 +1,6 @@
 # Lesson 4: Thermochemistry and Strain
 
-Let us use math again to interpret chemistry. Over the last century chemists have established **detailed tables** of data for burning hydrocarbons and used this information to establish the **heats of formation**, &Delta;*H<sub>f</sub>*&deg;. Along the way, it was observed that certain **groups contributed** the same portion of &Delta;*H<sub>f</sub>*&deg;. These became known as **group increments** and represent the contribution of a chemical group in a completely unstrained system. We might know the &Delta;*H<sub>f</sub>*&deg; for a molecule and observe that it is significantly **different** than that calculated using a collection of group increments. This difference in energy is most often the result of **strain**.
+Let us use math again to interpret chemistry. Over the last century chemists have established **detailed tables** of data for burning hydrocarbons and used this information to establish the **heats of formation**, &Delta;*H<sub>f</sub>*&deg;. Along the way, it was observed that certain **groups contributed** the same portion of &Delta;*H<sub>f</sub>*&deg;. These became known as **group increments** and represent the contribution of a chemical group in an unstrained system. We might experimentaly measure the &Delta;*H<sub>f</sub>*&deg; for a molecule and observe that it is significantly **different** than that calculated using a collection of group increments. This difference in energy is most often the result of **strain**.
 
 ## 4.1 Lesson Plan
 The plan below is not necessarily what will happen in class – it is merely what I **hope** will happen in class. We will explore the following subjects and ideas&hellip;
@@ -20,7 +20,7 @@ After reading the suggested textbook section and practicing the problems you sho
 
 ## 4.3 Assignment \#4
 
-The following assignment is to be submitted via moodle before Friday (there is no meeting this friday).
+The following assignment is to be submitted via moodle **before** Friday (there is **no meeting** this friday).
 
 ### The Instructions
 This section describes the **activity** that you are to perform for the assignment. Do the following&hellip;

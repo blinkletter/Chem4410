@@ -8,7 +8,7 @@ Students who have completed a **bachelor of science degree** will have acheived 
 - Be able to **gather information** through a well documented process of **inquiry**.
 - Be able to **analyze and interpret** that information and produce a **conclusion**.
 - Be able to effectively **communicate** the conclusion, the original data and the methods used in the anaylsis
-- Have mastered a selection of **tools and methods** to accomplish the above within their field of endeavour.
+- Have mastered **tools and methods** to accomplish the above within their field of endeavour.
 - Be able to work with others demonstrating **leadership and collaborative skills** and to be able to function as a member of an interdisciplinary **problem solving** team.
 - Have become **independent thinkers** who are responsible for their own learning.
 - Have demonstrated the principles of **academic integrity** in all their scholarly activities.
@@ -45,6 +45,7 @@ Students who successfuly complete this course of study in physical organic chemi
 - Be able to explain **steric and electronic effects** in several important reactions.
 - To have developed an understanding of the nature of the **transition state** and how the structure of the transition state can change with steric and electronic effects.
 - Be better able to choose a suitable **solvent and conditions** for a reaction.
+- Have an understanding of how **parameter systems** developed using the principles of physical organic chemistry are used in **quantitative structure-activity relationships (QSAR)** approaches for designing and improving molecules intended to be used as drugs.
 - Have improved **computer skills** in data analysis, chemical investigation and record keeping.
 
 ## Self Evaluation

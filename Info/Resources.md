@@ -24,7 +24,7 @@ Below is a **list** of **software** that will be **available** on many campus co
 1. Interactive *Python* with the ***Jupyter* notebook** environment
     * This can be acquired via the [*Anaconda*](https://www.anaconda.com/) package, available for all operating systems. We will be using *Python* for our data anaysis and plotting. You will see that it is a powerful tool that you will be using for the forseeable future in your scientific career. The *Anaconda* system also includes "*R*" and other tools, but we will keep it simple and stick with *Python*. 
 2. ***GAMESS*** computation chemistry application
-    - We can calculate the structure and energies of small molecules on your own computer. Using this we can estimate the effects of structure changes on bonds in a molecule. We will also be able to visualize molecular orbitals. [*GAMESS*](https://www.msg.chem.iastate.edu/gamess/) is a minor nightmare to get going and is dependant on a command line skill set. We will all struggle together.   
+    - We can calculate the structure and energies of small molecules on your own computer. Using this we can estimate the effects of structure changes on bonds in a molecule. We will also be able to visualize molecular orbitals. [*GAMESS*](https://www.msg.chem.iastate.edu/gamess/) is a minor nightmare to get going and is dependant on a command-line skill set. We will all struggle together.   
 3.  ***MacMolPlt***
     - [*MacMolPlt*](https://brettbode.github.io/wxmacmolplt/) is a graphical interface for building and visualizing input and output files for *GAMESS*.
 4. ***Avogadro***

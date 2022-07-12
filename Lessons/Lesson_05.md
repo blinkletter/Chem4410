@@ -17,7 +17,7 @@ The plan below is not necessarily what will happen in class – it is merely wha
 ## 5.2 Learning Goals
 After reading the suggested textbook section and practicing the problems you should be able to&hellip;
 
-- Understand *pH* as an **acidity function**.
+- Understand that *pH* is an **acidity function**.
 - Understand **how** the Hammett acidity function **is determined** for various acid mixtures.
 - Determine the **extent of protonation** of a reactant at various *pH* or *H<sub>0</sub>* values.
 - **Calculate** the *pK<sub>a</sub>* of a reactant from equilibrium data.
@@ -37,7 +37,7 @@ This section describes the **activity** that you are to perform for the assignme
 
 ### The Deliverable
 
-> You will have tried a few different correlations. Pick your favourite and write a **report** using an executable Jupyter notebook as the medium. The notebook will **document** your activity while providing the **code** and **results** of the code. Feel free to start with the example notebook presented during the lesson week and alter it to suit you. You must perform an analysis that is **different** than the one in the sample notebook.
+> You will have tried a few different correlations. Pick your favourite and write a **report** using an executable Jupyter notebook as the medium. The notebook will **document** your activity while providing the **code** and the **results**. Feel free to start with the example notebook presented during the lesson week and alter it to suit you. You must perform an analysis that is **different** than the one in the sample notebook.
 
 Write your notebook in a **neat** and well organized form. Include **comments** on your observations and attempt to **explain** them. Is the result obvious to you, or is it a surprise? **Submit a .zip file** that contains the notebook and the data file that you created. Data analysis projects are presented with code and raw data in modern journals, often as Jupyter notebooks. Keeping the code and data together **helps others** to follow your work.
 

@@ -33,7 +33,9 @@ We can interpret the details in chemical reaction mechanism through other observ
     
 ## Explorations \& Examples 
 
-**We can go anywhere** now. What would you like to investigate? Each year we will create a body of work that future students can build on.  We will begin with biologically relevant **examples of catalysis** and then we will **go wherever you wish**. Would you like to explore physical organic chemistry as it is applied to a **particular problem**? Would you like to **survey the work** of a significant physical organic chemist? We can do anything. And we will record it all in the form of a report.
+**We can go anywhere** now. What would you like to investigate? Each year we will create a body of work that future students can build on.  We will begin with **examples** of physical organic chemistry being used to investigate **interesting mechanistic ideas**. We will follow that with an exploration of a **controversial** time in the field when two giants disagreed about a specific case of S<sub>N</sub>1 hydrolysis. How many angels can dance on the head of a pin? The answer is very important to some people. To settle this argument we will observe the experimental design and interpretations of results by several important figures in the field.
+
+Then we will **go wherever you wish**. Would you like to explore physical organic chemistry as it is applied to a **particular problem**? Would you like to **survey the work** of a significant physical organic chemist? We can do anything. And we will record it all in the form of a report.
 
 
 # Topics
@@ -43,9 +45,9 @@ Below is a list of topics and the corresponding textbook sections.
 
 |Week   |	Topic	                               | Reading                  |
 | :---- | :--------------------------------------- | :----------------------- |
-|1	    |Remembering the Past	                   | Appendix 5 & handout     |
-|2	    |Molecular structure	                   | Ch. 1 & handout          | 
-|3	    |Calculating bonds \& molecular orbitals   | Ch. 14 \& 15          | 
+|1	    |Remembering the Past	                   | Appendix 5 \& handout    |
+|2	    |Molecular structure	                   | Ch. 1 \& handouts         | 
+|3	    |Calculating bonds \& molecular orbitals   | Ch. 14, 15 \& handout    | 
 |4	    |Thermochemistry and Steric Strain	       | Ch. 2                    |
 |5	    |Acids and Bases	                       | Ch. 5                    |
 |	    |Break Week	                               |                          |
@@ -53,8 +55,8 @@ Below is a list of topics and the corresponding textbook sections.
 |7	    |Tools of Physical Organic Chemistry	   | Ch. 8.1 & 8.8            |
 |8	    |Tools of Physical Organic Chemistry	   | Ch. 8.2 to 8.7           |
 |9 	    |Catalysis	                               | Ch.9                     |
-|10	    |Student Exploration	                   | Textbook & primary literature                  |
-|11	    |"Non-classical Cations or Nonsense?"  | Ch. 11.5, 14.5 and literature            |
-|12	    |Current Events and Recent Literature    | Ch. 10 \& 11 and literature             |
-|13	    |Review and Wrap-up    | Ch. 10 \& 11 and literature             |
+|10	    |Student Exploration and Selected Topics   | Ch. 8, 9, 10, 11 \&  literature |
+|11	    |"Non-classical Cations or Nonsense?"      | Ch. 11.5, 14.5 \& literature    |
+|12	    |Current Events and Recent Literature      | Ch. 10, 11 \& literature |
+|13	    |Review and Wrap-up                        | Ch. 10, 11 \& literature |
 

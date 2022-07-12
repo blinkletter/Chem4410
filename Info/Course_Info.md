@@ -71,17 +71,17 @@ This grading scheme is open for revision. Any ideas?.
 You will be evaluated on your preparedness for lectures. Students are expected to **arrive prepared** to participate in discussion of the topic. **Readings and exercises** will be assigned in advance to assist students in preparing for each class. Feel free to help each other with **in-class questions**. The class questions are meant to stimulate **discussion** and develop your skills. Academic integrity is a new focus at UPEI due to the online nature of the courses, but **do not hesitate to work together on class problems**.  Just thank those who helped you when presenting your solution. Take note that the **assignments** (see below) are to be completed **individually**.
 
 ### Assignments
-Each week will feature an **assignment** to be completed. Most of these assignments will involve writing a **short report**. Students will have at least 4 days to complete an assignment and submit the report. Late reports will not be accepted without a valid reason. Reports are to be your own **individual work**. 
+Each week will feature an **assignment** to be completed. Most of these assignments will involve writing a **short report**. Students will have at least 4 days to complete an assignment and submit the report. Late reports will not be accepted unless arrangements are made in advance with a valid reason. Reports are to be your own **individual work**. 
 
 ### Presentations
 There will two or three **presentations** by each student during this course. Your presentation is to be short but substantial (less than 10 minutes). Each presentation will feature your work on an assignment or part of an assignment. You will be **tasked** in turn. More details will be available when the topics are assigned.
 
 ### Personal Exploration
 
-At about the three-quarter point in the course you will begin a major assignment called the "personal exploration". You will **choose** a topic that features physical organic chemustry and explore the **current literature**. This exercise will be developed over the final four weeks of the course and in the end you will produce a major **report** on your activities. 
+At about the three-quarter point in the course you will begin a major assignment called the "personal exploration". You will **choose** a topic that features physical organic chemistry and explore the **current literature**. This exercise will be developed over the final four weeks of the course and in the end you will produce a major **report** on your activities. 
 
 ### Class Quizzes
-Most weeks will have a short **class quiz** on Friday. You will be given a list of possible quiz topics or questions (this will usually be the textbook problems assigned for Mondays and Wednesday). The quiz will be based on a selection of those. If a student cannot attend a test, they must have a valid reason and must inform the instructor in advance of the test to make alternate arrangements. 
+Most weeks will have a short **class quiz** on Friday. You will be given a list of possible quiz topics or questions (this will usually be the textbook problems assigned for Mondays and Wednesday). The quiz will be based on a selection of those. If a student cannot attend a quiz, they must have a valid reason and must inform the instructor in advance of the test to make alternate arrangements. 
 
 ## Academic Integrity 
 As a **community of scholars**, the University of Prince Edward Island is committed to the principle of academic integrity among all its participants. Academic **dishonesty** as defined in [Academic Regulation 20](https://calendar.upei.ca/current/chapter/undergraduate-and-professional-programs-academic-regulations/) and **will not be tolerated**. Within the constraints of this regulation and [Academic Regulation 12](https://calendar.upei.ca/current/chapter/undergraduate-and-professional-programs-academic-regulations/), the University supports instructors in their efforts to deal effectively with cases as they may arise from time to time.

@@ -23,7 +23,7 @@ After reading the suggested textbook section and practicing the problems you sho
 - Construct an approximate **molecular orbital diagram** from a basis set of atomic orbitals and be able to **predict reactivity** and relative stability using the diagram.
 - Use the results of a **HMOT calculations** to interpret electronic structure in a conjugated or **aromatic** system.
 - Use HMOT to estimate the effects of **polar atoms** in that conjugated system on the MO arrangement.
-- Be able to use interactive **Python** to solve computational problems.
+- Be able to use interactive ***Python*** to solve computational problems.
 
 
 ## 2.3 Assignment \#2
@@ -61,8 +61,8 @@ We will begin with a discussion of **Lewis structure** and how it is surprisingl
 #### Reading
 
 > **Read** Chapter 1.1 to 1.4 (feel free to skim section 1.2 and 1.3) <br>
-> **Read** the [Molecular orbital Tutorial](Resource_Moodle_Link.md) described in the resources described below and available on the moodle page. <br>
-> Read the instructions and **install** the **Anaconda** package. This will give you the tools to use Jupyter notebooks and Python.
+> **Read** the [Molecular orbital Tutorial](Resource_Moodle_Link.md) described in the resources section below and available on the moodle page. <br>
+> **Read** the instructions and **install** the **Anaconda** package. This will give you the tools to use Jupyter notebooks and *Python*.
 
 #### Suggested Problems
 
@@ -104,7 +104,7 @@ In our third meeting for this lesson there will be a **short quiz** featuring pr
 #### Suggested Problems
 
 > **Explore** the Jupyter notebooks and change them to calculate the &pi;-MOs of a molecule of your choice. Please **practice** with them before the Friday meeting. <br>
-> **Consider** what you hve learned about aromaticity and how the examples of naphthalene and azulene relate to that. How do the ideas presented in the two literature contributions expand on this understanding? 
+> **Consider** what you hve learned about **aromaticity** and how the examples of naphthalene and azulene relate to that. How do the ideas presented in the two literature contributions **expand** on this understanding? 
 
 
 ````{admonition} A Suggested Personal Schedule
@@ -123,7 +123,7 @@ As we **get started** in this course, here is a suggested schedule for getting i
 
 On Monday you can ask questions. You will have **questions** if you have begun the work. You will participate in a discussion of how Lewis structure relates to molecular orbitals and practice using graphical methods to combine atomic orbitals. Now you can proceed by doing the following:
 
-1. **Complete** the molecular orbital **diagram** for both systems in the assignment. Then **begin** making a neat and tidy version for you report. Try to see how the frontier orbitals **match up** (or not) with the **arrow-pushing** in the proposed reaction mechanisms.
+1. **Complete** the molecular orbital **diagram** for both systems in the assignment. Then **begin** making a neat and tidy version for your report. Try to see how the frontier orbitals **match up** (or not) with the **arrow-pushing** in the proposed reaction mechanisms.
 
 2. **Read** the assigned readings for Wednesday and **attempt** the suggested problems.
 
@@ -131,7 +131,7 @@ On Monday you can ask questions. You will have **questions** if you have begun t
 ```
 ```{admonition} Wednesday and Thursday
 
-Oh you will hopefully have more **questions**. On Wednesday you can ask them. You will be introduced to using *Python* notebooks to make Hückel molecular orbital theory calculations.
+You will hopefully have more **questions**. On Wednesday you can ask them. You will be introduced to using *Python* notebooks to make Hückel molecular orbital theory calculations.
 
 1. Now, after seeing **further examples** of molecular orbitals and mechanism, complete the assignment report. You will be better able to construct MOs in conjugated systems after gaining an introduction to HMOT.
 
@@ -147,7 +147,7 @@ Oh you will hopefully have more **questions**. On Wednesday you can ask them. Yo
 
 You will submit your **assignments** before class. In class there will be the **quiz** followed by the two short **presentations**. Discussion may follow. You will get a heads up on the **next topic** and will **look ahead** to the next chapter to see what you need to do this weekend.
 
-That's it. Rinse and repeat. **Apply** this schedule to every lesson for best results. Always **start early** on problems and assignments. You can't ask questions at midnight.
+That's it. Rinse and repeat. **Apply** this schedule to every lesson for best results. Always **start early** on problems and assignments. You can't ask questions after midnight.
 
 ```
 Take note that, with this schedule, you are doing the work for Monday **before** Monday, the work for Wednesday **before** Wednesday, etc. On Friday you should be reading about the work for the following Monday. Stay cool, stay ahead.
@@ -171,7 +171,7 @@ The following notebooks have been made in advance and are available in Jupyter-b
 #### Molecular Orbital Theory
 
 1.  [Molecular Orbital Tutorial](Resource_Moodle_Link.md)
-    - I wrote this review to present a simpler method for constructing a molecular orbital system than that given in the text- book. The textbook method is better and more generally applicable. My method is lesser in every category but works well most of the time. A PDF file on the moodle site
+    - I wrote this review to present a simpler method for constructing a molecular orbital system than that given in the textbook. The textbook method is better and more generally applicable. My method is worse in every category, but works well most of the time. A PDF file is available on the moodle site
 
 ### Extra Resources
 

@@ -538,18 +538,18 @@ const thebe_selector_output = ".output, .cell_output"
                 
   <div class="tex2jax_ignore mathjax_ignore section" id="lesson-3-computational-chemistry">
 <h1>Lesson 3: Computational Chemistry<a class="headerlink" href="#lesson-3-computational-chemistry" title="Permalink to this headline">¶</a></h1>
-<p>We can do <strong>much more</strong> than estimate the electronic structure of π molecular orbital systems. Using computers we can <strong>optimize structure and energies</strong> to visualize accurate (at least more accurate than HMOT) electronic structure. In this lesson we will be introduced to the free <strong>GAMESS computational chemistry package</strong>. We will be able to perform semi-empirical and ab-initio calculations. We will not dwell on the theory, we will just use the system like a black box. There is a whole other course on theoretical chemistry that you can experience if you are inspired to do so.</p>
+<p>We can do <strong>much more</strong> than estimate the electronic structure of π molecular orbital systems. Using computers we can <strong>optimize structure and energies</strong> to visualize accurate (at least more accurate than HMOT) electronic structure. In this lesson we will be introduced to the free <strong><em>GAMESS</em> computational chemistry package</strong>. We will be able to perform semi-empirical and ab-initio calculations. We will not dwell on the theory, we will just use the system like a black box. There is a whole other course on theoretical chemistry that you can experience if you are inspired to do so.</p>
 <p>Along the way we will gain a <strong>better understanding</strong> of molecular orbitals, transition state theory and confromational analysis.</p>
 <div class="section" id="lesson-plan">
 <h2>3.1 Lesson Plan<a class="headerlink" href="#lesson-plan" title="Permalink to this headline">¶</a></h2>
 <p>The plan below is not necessarily what will happen in class – it is merely what I <strong>hope</strong> will happen in class. We will explore the following subjects and ideas…</p>
 <ul class="simple">
-<li><p><strong>Installing</strong> GAMESS and related software</p></li>
-<li><p>The Z-matrix and constructing GAMESS <strong>input files</strong></p></li>
-<li><p>Interpreting GAMESS <strong>output files</strong></p></li>
-<li><p>Using GAMESS to interpret the structure of <strong>small molecules and transition states</strong></p></li>
-<li><p>Using GAMESS to construct rotational <strong>energy profiles and reaction coordinates</strong></p></li>
-<li><p>Using GAMESS and related software to <strong>visualize molecular orbitals</strong>.</p></li>
+<li><p><strong>Installing</strong> <em>GAMESS</em> and related software</p></li>
+<li><p>The Z-matrix and constructing <em>GAMESS</em> <strong>input files</strong></p></li>
+<li><p>Interpreting <em>GAMESS</em> <strong>output files</strong></p></li>
+<li><p>Using <em>GAMESS</em> to interpret the structure of <strong>small molecules and transition states</strong></p></li>
+<li><p>Using <em>GAMESS</em> to construct rotational <strong>energy profiles and reaction coordinates</strong></p></li>
+<li><p>Using <em>GAMESS</em> and related software to <strong>visualize molecular orbitals</strong>.</p></li>
 </ul>
 </div>
 <div class="section" id="learning-goals">
@@ -559,7 +559,7 @@ const thebe_selector_output = ".output, .cell_output"
 <li><p>To have a <strong>beginners</strong> experience with computational tools.</p></li>
 <li><p>To have learned <strong>problem solving</strong> and zen-like patience in dealing with scientific software.</p></li>
 <li><p>To have a better understanding of how local <strong>molecular orbitals</strong> relate to “real” molecular orbitals and how both can explain <strong>reactivity</strong>.</p></li>
-<li><p>Be able to use GAMESS in <strong>future exercises</strong> in this course and in your <strong>research</strong> projects.</p></li>
+<li><p>Be able to use <em>GAMESS</em> in <strong>future exercises</strong> in this course and in your <strong>research</strong> projects.</p></li>
 </ul>
 </div>
 <div class="section" id="assignment-3">
@@ -569,14 +569,14 @@ const thebe_selector_output = ".output, .cell_output"
 <h3>The Instructions<a class="headerlink" href="#the-instructions" title="Permalink to this headline">¶</a></h3>
 <p>This section describes the <strong>activity</strong> that you are to perform for the assignment. Do the following…</p>
 <blockquote>
-<div><p><strong>Install</strong> GAMESS and related programs on your computer. Perform calculations as demonstrated in the Monday and Wednesday meetings on your own. Try molecules of your own choice as you repeat the methods demonstrated in class. <br></p>
+<div><p><strong>Install</strong> <em>GAMESS</em> and related programs on your computer. Perform calculations as demonstrated in the Monday and Wednesday meetings on your own. Try molecules of your own choice as you repeat the methods demonstrated in class. <br></p>
 </div></blockquote>
 <p><strong>IMPORTANT</strong>: This assignment will take time. Give yourself time to work through glitches and solve problems. Start early.</p>
 </div>
 <div class="section" id="the-deliverable">
 <h3>The Deliverable<a class="headerlink" href="#the-deliverable" title="Permalink to this headline">¶</a></h3>
 <blockquote>
-<div><p><strong>write</strong> a report in which you present the local bonding orbitals and the molecular orbitals of the ethyene cation (C<sub>2</sub>H<sub>5</sub><sup>+</sup>). Report all the bond lengths and <strong>comment</strong> of the assymmetry of the methyl bond lengths. Propose an <strong>explanation</strong>. Your report should include relevant diagrams and images (especially graphical representations of the orbitals.) You may well have been driven mad with frustration</p>
+<div><p><strong>write</strong> a report in which you present the molecular orbitals of the ethyene cation (C<sub>2</sub>H<sub>5</sub><sup>+</sup>). Report all the bond lengths and <strong>comment</strong> of the assymmetry of the methyl bond lengths. Propose an <strong>explanation</strong>. Your report should include relevant diagrams and images (especially graphical representations of the orbitals.) You may have been driven mad with frustration. Feel free to express your feelings.</p>
 </div></blockquote>
 </div>
 <div class="section" id="grading">
@@ -588,29 +588,29 @@ const thebe_selector_output = ".output, .cell_output"
 <h2>3.4 Lesson Schedule<a class="headerlink" href="#lesson-schedule" title="Permalink to this headline">¶</a></h2>
 <div class="section" id="monday">
 <h3>Monday<a class="headerlink" href="#monday" title="Permalink to this headline">¶</a></h3>
-<p>Bring your <strong>laptop computer</strong> if you have one and are able to do so. On Monday we will introduce the very basics of computational chemistry and demonstrate the use of <em>GAMESS</em> at for determining the structure of water, ammonia and methane. We will learn how to <strong>construct input files</strong> with the <strong>Z-matrix</strong> and will then <strong>visualize</strong> the molecular orbitals. We will explore how our own graphical approach from lesson #2 <strong>compares</strong> to more sophisticated methods.</p>
+<p>Bring your <strong>laptop computer</strong> if you have one and are able to do so. On Monday we will introduce the very basics of computational chemistry and demonstrate the use of <em>GAMESS</em> for determining the structure of water, ammonia and methane. We will learn how to <strong>construct input files</strong> with the <strong>Z-matrix</strong> and will then <strong>visualize</strong> the molecular orbitals. We will explore how our own graphical approach from lesson #2 <strong>compares</strong> to more sophisticated methods.</p>
 <div class="section" id="reading">
 <h4>Reading<a class="headerlink" href="#reading" title="Permalink to this headline">¶</a></h4>
 <blockquote>
-<div><p><strong>Read</strong> Chapter 14.1 and 14.2. Be gentle with yourself, we will not be emphasizing the theory here but you should be exposed to it to help understand the results of our GAMESS calculations.  <br>
-<strong>Read</strong> the instructions for installing and using GAMESS. (the Chapters 1 to 3 of the <a class="reference internal" href="Resource_Moodle_Link.html"><span class="doc std std-doc">Using <strong>GAMESS</strong> Book</span></a>)</p>
+<div><p><strong>Read</strong> Chapter 14.1 and 14.2. Skim it and be gentle with yourself, we will not be emphasizing the theory here but you should be exposed to it to help understand the results of our <em>GAMESS</em> calculations.  <br>
+<strong>Read</strong> the instructions for installing and using <em>GAMESS</em>. (the Chapters 1 to 3 of the <a class="reference internal" href="Resource_Moodle_Link.html"><span class="doc std std-doc">Using <em><strong>GAMESS</strong></em> Book</span></a>)</p>
 </div></blockquote>
 </div>
 <div class="section" id="suggested-problems">
 <h4>Suggested Problems<a class="headerlink" href="#suggested-problems" title="Permalink to this headline">¶</a></h4>
 <blockquote>
-<div><p><strong>Install GAMESS</strong> and related software. Be patient, this will be frustrating. <br>
-<strong>Attempt</strong> to complete the calculations described in the <a class="reference internal" href="Resource_Moodle_Link.html"><span class="doc std std-doc">Using <strong>GAMESS</strong> Book</span></a> above (methane, ammonia and/or water). We will be discussing all your frustrations on Monday so be sure to try this before class. Give yourself <strong>lots of time</strong>.</p>
+<div><p><strong>Install <em>GAMESS</em></strong> and related software. Be patient, this will be frustrating. <br>
+<strong>Attempt</strong> to complete the calculations described in the <a class="reference internal" href="Resource_Moodle_Link.html"><span class="doc std std-doc">Using <em><strong>GAMESS</strong></em> Book</span></a> above (methane, ammonia and/or water). We will be discussing all your frustrations on Monday so be sure to try this before class. Give yourself <strong>lots of time</strong>.</p>
 </div></blockquote>
 </div>
 </div>
 <div class="section" id="wednesday">
 <h3>Wednesday<a class="headerlink" href="#wednesday" title="Permalink to this headline">¶</a></h3>
-<p>Bring your <strong>laptop computer</strong> if you have one and are able to do so. We will discuss using GAMESS to optimize and visualize local and molecular orbitals in π systems and to construct a <strong>rotational energy profile</strong> for ethane and butane.</p>
+<p>Bring your <strong>laptop computer</strong> if you have one and are able to do so. We will discuss using <em>GAMESS</em> to optimize and visualize local and molecular orbitals in π systems and to construct a <strong>rotational energy profile</strong> for ethane and butane.</p>
 <div class="section" id="id1">
 <h4>Reading<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h4>
 <blockquote>
-<div><p><strong>Read</strong> the instructions for constructing an <strong>energy profile</strong> using GAMESS. (Chapters 4 and 5 in the <a class="reference internal" href="Resource_Moodle_Link.html"><span class="doc std std-doc">Using <strong>GAMESS</strong> Book</span></a>)</p>
+<div><p><strong>Read</strong> the instructions for constructing an <strong>energy profile</strong> using GAMESS. (Chapters 4 and 5 in the <a class="reference internal" href="Resource_Moodle_Link.html"><span class="doc std std-doc">Using <em><strong>GAMESS</strong></em> Book</span></a>)</p>
 </div></blockquote>
 </div>
 <div class="section" id="id2">
@@ -622,7 +622,7 @@ const thebe_selector_output = ".output, .cell_output"
 </div>
 <div class="section" id="friday">
 <h3>Friday<a class="headerlink" href="#friday" title="Permalink to this headline">¶</a></h3>
-<p>There will be <strong>no quiz</strong> and <strong>no presentations</strong>. This has been planned to be more of a practical lesson and given the likely frustrations with the software we will focus on making sure that all students can use it to get results. <strong>Be prepared to discuss your assignment</strong>. Bring your <strong>laptop computer</strong> if you have one and are able to do so. We will explore transition states and reactions using GAMESS. Finally the topics for the <strong>next lesson</strong> will be introduced. <strong>Look ahead</strong> to Lesson 4 to see what you should prepare for Monday.</p>
+<p>There will be <strong>no quiz</strong> and <strong>no presentations</strong>. This has been planned to be more of a practical lesson and given the likely frustrations with the software we will focus on making sure that all students can use it to get results. <strong>Be prepared to discuss your assignment</strong>. Bring your <strong>laptop computer</strong> if you have one and are able to do so. We will explore transition states and reactions using <em>GAMESS</em>. Finally the topics for the <strong>next lesson</strong> will be introduced. <strong>Look ahead</strong> to Lesson 4 to see what you should prepare for Monday.</p>
 <div class="section" id="id3">
 <h4>Reading<a class="headerlink" href="#id3" title="Permalink to this headline">¶</a></h4>
 <blockquote>
@@ -632,7 +632,7 @@ const thebe_selector_output = ".output, .cell_output"
 <div class="section" id="id4">
 <h4>Suggested Problems<a class="headerlink" href="#id4" title="Permalink to this headline">¶</a></h4>
 <blockquote>
-<div><p><strong>Attempt</strong> to visualize the molecular orbitals for butadiene, acrolein and benzene. Strating coordinates are available in the <a class="reference internal" href="Resource_Moodle_Link.html"><span class="doc std std-doc">Using <strong>GAMESS</strong> Book</span></a> and in the <a class="reference internal" href="Resource_Moodle_Link.html"><span class="doc std std-doc">moodle resourcxe page</span></a>.</p>
+<div><p><strong>Attempt</strong> to visualize the molecular orbitals for butadiene, acrolein and benzene. Strating coordinates are available in the <a class="reference internal" href="Resource_Moodle_Link.html"><span class="doc std std-doc">Using <em><strong>GAMESS</strong></em> Book</span></a> and in the <a class="reference internal" href="Resource_Moodle_Link.html"><span class="doc std std-doc">moodle resourcxe page</span></a>.</p>
 </div></blockquote>
 </div>
 </div>
@@ -643,7 +643,7 @@ const thebe_selector_output = ".output, .cell_output"
 <h3>GAMESS Input Files<a class="headerlink" href="#gamess-input-files" title="Permalink to this headline">¶</a></h3>
 <ol class="simple">
 <li><p><a class="reference internal" href="Resource_Moodle_Link.html"><span class="doc std std-doc">Methane with Z-matrix</span></a></p></li>
-<li><p><a class="reference internal" href="Resource_Moodle_Link.html"><span class="doc std std-doc">Methane with Symmnetry</span></a></p></li>
+<li><p><a class="reference internal" href="Resource_Moodle_Link.html"><span class="doc std std-doc">Methane with Symmetry</span></a></p></li>
 <li><p><a class="reference internal" href="Resource_Moodle_Link.html"><span class="doc std std-doc">Ethylene with Symmetry</span></a></p></li>
 <li><p><a class="reference internal" href="Resource_Moodle_Link.html"><span class="doc std std-doc">Methanol with Z-matrix</span></a></p></li>
 <li><p><a class="reference internal" href="Resource_Moodle_Link.html"><span class="doc std std-doc">More Files to Check Out</span></a></p></li>
@@ -652,7 +652,7 @@ const thebe_selector_output = ".output, .cell_output"
 <div class="section" id="for-this-lesson">
 <h3>For This Lesson<a class="headerlink" href="#for-this-lesson" title="Permalink to this headline">¶</a></h3>
 <ol class="simple">
-<li><p><a class="reference internal" href="Resource_Moodle_Link.html"><span class="doc std std-doc">Using <strong>GAMESS</strong> Book</span></a></p></li>
+<li><p><a class="reference internal" href="Resource_Moodle_Link.html"><span class="doc std std-doc">Using <em><strong>GAMESS</strong></em> Book</span></a></p></li>
 </ol>
 </div>
 <div class="section" id="extra-resources">

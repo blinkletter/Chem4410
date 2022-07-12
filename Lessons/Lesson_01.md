@@ -1,6 +1,6 @@
 # Lesson 1: Remembering The Past
 
-Life is about **making** things and **breaking** things, mostly chemical bonds. All of the reactions of the famous **glycolysis** pathway can be understood using organic chemistry. A deeper understanding of **physical organic chemistry** will enable you to interpret how **enzymes** provide the catalysis that enables the pathway to operate at the speed needed to be meaniful in providing **energy** for cells. Let us embark on our journey to greater understanding of all chemical reactions that make and break bonds by **reviewing** a small slice of our **previous experience**.
+Life is about **making** things and **breaking** things, mostly chemical bonds. All of the reactions of the famous **glycolysis** pathway can be understood using organic chemistry. A deeper understanding of **physical organic chemistry** will enable you to interpret how **enzymes** provide the catalysis that enables the pathway to operate at the speed needed to be meaningful in providing **energy** for cells. Let us embark on our journey to greater understanding of all chemical reactions that make and break bonds by **reviewing** a small slice of our **previous experience**.
 
 Our first two meetings will focus on reviewing organic chemistry.  
 
@@ -13,31 +13,29 @@ Our first two meetings will focus on reviewing organic chemistry.
 The lesson plans presented in this document are the **ideas** that I hope to explore over the **week** of a given lesson. The plan below is not necessarily what will happen in class – it is merely what I **hope** will happen in class. If we **miss** some of these points I suggest that you **read** about those ideas in the textbook, whether we discuss them in class or not.
 
 - **Arrow pushing** for. . .
-    - *S<sub>N</sub>2* substitution
-    - *E2* elimination
-    - *S<sub>N</sub>1* 
-    - *E1* elimination
-    - Addition and Substitution at carbonyl groups
+    - *S<sub>N</sub>1* \& *S<sub>N</sub>2* substitution
+    - *E1* \& *E2* elimination
+    - Addition \& Substitution at carbonyl groups
 - Arrow pushing rules: **do and don’ts**
-    - Wrong way arrows
-    - Octet rule (keep track of bonds to hydrogen and lone pairs)
-    - Good habits with electrons (lone pairs are the nucleophile, etc...)
-    - Are you in acid or base? Pick one and stay there!
-    - Common shortcuts that we will NOT be using in this course.
+    - **Wrong way** arrows
+    - Octet **rule** (keep track of bonds to hydrogen and lone pairs)
+    - **Good habits** with electrons (electron hiegine is important)
+    - Are you in **acid or base**? Pick one and stay there!
+    - Common **shortcuts** that we will **NOT be using** in this course.
 - Arrow pushing in **conjugated systems**
-    - Inductive vs. resonance for electronic effects 
+    - **Inductive** effect vs. **resonance** in electronic stabilization 
     - Stabilization of carbanions and carbocations by resonance
 - Mechanism **puzzles**
-    - Why do we observe solvolysis of *t*-butyl bromide but not in *n*-butyl bromide?
-    - Base hydrolysis of esters, acid hydrolysis of esters (acyl substitution)
-    - Formation of an imine compared with formation of a hydrazone
+    - Why do we observe **solvolysis** of *t*-butyl bromide but not in *n*-butyl bromide?
+    - **Base** hydrolysis of esters, **acid** hydrolysis of esters (acyl substitution)
+    - Other examples
 
     
 ## 1.2 Learning Goals
 
 After **reading** the suggested textbook sections, **practicing** the problems and completing the activities of the **assignment** you should be able to&hellip;
 
-- **Name** simple molecules, identify **stereochemistry**, predict products of addition, elimination and substitution (simple, acyl and aromatic) reactions.
+- **Name** simple molecules, identify **stereochemistry**, predict products of addition, elimination and substitution (simple, acyl and aromatic) **reactions**.
 - Propose the **synthesis** of simple molecules using carbon nucleophiles and functional group transformations.
 - Express the **mechanism** of these reactions using curved arrows to show electron movement.
 - Identify the **hybridization** of carbon atoms and be able to identify **resonance** contributors that stabilize electronic structure in conjugated systems.
@@ -47,7 +45,7 @@ After **reading** the suggested textbook sections, **practicing** the problems a
 
 ## 1.3 Assignment
 
-Each lesson has an assignment. It will be introduced on the Friday before the lesson and will be due on the Friday of the lesson. Our first week is short so the assignment is small. It is to be handed in Friday before class meeting via moodle. 
+Each lesson has an **assignment**. It will be **introduced** on the Friday before the lesson and will be **due** on the Friday of the lesson. Our first week is short so the assignment is small. It is to be handed in Friday **before** class meeting via moodle. 
 
 ### The Instructions
 
@@ -59,7 +57,7 @@ This section describes the **activity** that you are to perform for the assignme
 
 This section describes the **deliverable** that you are to produce for this assignment. 
 
-> **Write** a report that answers a single question from the list in the instructions above. Each student will have an **individual question** assigned for the report.  Your report will present the **step-by-step mechanism** for the given reaction with electron flow shown using arrows. It will likely be a single page when finished. Give it a title and be sure that your name is under the title. **Justify** any choices you made with brief arguments. Use professional tools (chemical drawing program, word processor, etc.) and submit the document in **PDF format**.
+> **Write** a report that answers a single question from the assigened list. Each student will have an **individual question** assigned for the report.  Your report will present the **step-by-step mechanism** for the given reaction with electron flow shown using arrows. It will likely be a single page when finished. Give it a title and be sure that your name is under the title. **Justify** any choices you made with brief arguments. Use professional tools (chemical drawing program, word processor, etc.) and submit the document in **PDF format**.
 
 Use the **table below** to match the **last digit** of your student number to the **problem** that you are to present in your report. Even though you prepared just one answer from the data set, you are expected to **be able to discuss** any of the problems (you did attempt them all, didn’t you?).
 
@@ -80,9 +78,11 @@ The deliverable is what you ”deliver” to your instructor. Quite often **assi
 
 The report that you submit should be prepared **using a computer**. All structures presented should be made using a **chemical drawing program** such as *Chemdraw*, *Chemsketch* or *Marvin*. All of those programs can give you the curved arrows needed to express electron flow. Strive to make it look professional.
 
-Submit your report via Moodle. All assignment reports can be submitted using the corresponding link that will be present in the Moodle page. Click on the link and follow the instructions to submit your report. Only **PDF files** will be accepted.
+Submit your report via Moodle. All assignment reports can be submitted using the corresponding link on the **Moodle page**. Click on the link and follow the instructions to submit your report. Only **PDF files** will be accepted.
 
-In the modern world, documents are exchanged electronically. Printing is unnecessary and wasteful. Please create a **PDF file** containing your report. Use a word processor to create a document with a **title** and **author** and any other explanatory text that you care to add. Include citations of literature if needed. Size any figures or images appropriately and use figure legends. After it all looks **sharp and professional**, export the document as a PDF. Then **upload** the PDF to moodle.
+In the modern world, documents are exchanged electronically. Printing is unnecessary and wasteful. Please create a **PDF file** containing your report. Use a word processor to create a document with a **title** and **author** and any other explanatory text that you care to add. Include citations of literature if needed. Size any figures or images appropriately and use figure legends. After it all looks **sharp and professional**, export the document as a PDF. Then **upload** the PDF to moodle. 
+
+Remember that the **standard** is "sharp", not "fancy". Fancy is OK, but only if you have the time. All I want is a document that is clear, concise and effective in communicating your ideas. 
 ```
 
 
@@ -104,7 +104,7 @@ There is no reading to do in advance of starting the course however you will wan
 > **Read** appendix 6 (pages 1075 to 1077)
 
 #### Suggested Problems
-During our first meeting we will attempt a few selections the following **problems** from appendix 5. You should attempt **all** of them on your own after the class. I have copied the appendix 5 questions from the textbook and made them available on the Moodle site. Please acquire a copy of the textbook soon as I won’t be able to do this again. Respect copyright - someday you may be an author.
+During our first meeting we will attempt a few selections the following **problems** from appendix 5. You should attempt **all** of them on your own after the class. I have copied the appendix 5 questions from the textbook and made them available on the Moodle site. Please acquire a copy of the **textbook** soon as I won’t be able to do this again. Respect copyright - someday you may be an author.
 
 > **Problems**: Appendix 5 - 1, 2, 3 & 4
 
@@ -113,7 +113,9 @@ I am often asked **what to expect** on the class quizzes and tests. I can’t te
 ```
 
 ### Friday
-In our second meeting there will be a **short quiz** featuring a few of the reactions that you were given to review. We will **discuss** the problems suggested previously from appendix 5. be prepared to contribute. We will try to define what is meant by the words "physical organic chemsitry" and I will also introduce my vision of wrapping the activities of this course around computer tools. Finally the topics for the **next lesson** will be introduced. **Look ahead** to Lesson 2 to see what you should prepare for Monday. 
+In our second meeting there will be a **short quiz** featuring a few of the reactions that you studied in the assignment. We will **discuss** the problems suggested previously from appendix 5. Be prepared to contribute. Attempt every problem from appendix 5 on your own. And convince yourself that you can answer all questions on the handouts.
+
+We will try to **define** what is meant by the words "physical organic chemsitry" and I will also introduce my vision of wrapping the activities of this course around computer tools. Finally, the topics for the **next lesson** will be introduced. **Look ahead** to Lesson 2 to see what you should prepare for Monday. 
 
 #### Reading
 
